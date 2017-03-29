@@ -35,7 +35,6 @@ def catch_hashtags(input):
     for tweet in tweepy.Cursor(api.search,
                                q=input,
                                rpp=100, count=20, result_type="recent", include_entities=True, lang="en").items(100):
-        print(tweet.text, tweet.entities.get("hashtags"))
         temp = tweet.entities.get("hashtags")
         if temp is not None:
             for item in temp:
@@ -44,20 +43,32 @@ def catch_hashtags(input):
     sorted_x = sorted(frequency_hash.items(), key=operator.itemgetter(1), reverse=True)
     return sorted_x
 
-
-#Testing catch_url.
-sorted_x = catch_url("http://www.theverge.com/2017/3/27/15077864/elon-musk-neuralink-brain-computer-interface-ai-cyborgs")
-file =open("urls.txt","w")
-for x in range(len(sorted_x)):
-    file.write(str(sorted_x[x][0]))
-    file.write("["+str(sorted_x[x][1])+"]")
-    file.write("\n")
-
-
-#Testing catch_hashtags.
-sorted_x = catch_hashtags("http://www.theverge.com/2017/3/27/15077864/elon-musk-neuralink-brain-computer-interface-ai-cyborgs")
-file=open("hashtag.txt","w")
-for x in range(len(sorted_x)):
-    file.write(str(sorted_x[x][0]))
-    file.write("["+str(sorted_x[x][1])+"]")
-    file.write("\n")
+a="http://www.foxnews.com/politics/2017/03/27/sessions-takes-aim-at-dangerous-sanctuary-cities-warns-on-funding.html"
+used_url=set()
+map={}
+map[a]={}
+used_url.add(a)
+hashtag=catch_hashtags(a)
+for x in range(len(hashtag)):
+    if hashtag[x][0] not in map[a] and x<5:
+        map[a]["#"+hashtag[x][0]]=set()
+for key in map[a].keys():
+    url=catch_url(key)
+    for i in range(len(url)):
+        if url[i][0] not in map and i<5:
+            map[url[i][0]]={}
+            map[a][key].add(url[i][0])
+for key in map.keys():
+    if key not in used_url:
+        hashtag=catch_hashtags(key)
+        for j in range(len(hashtag)):
+            if hashtag[j][0] not in map[key] and j < 5:
+                map[key][hashtag[j][0]]=set()
+for key_url in map.keys():
+    if key_url not in used_url:
+        for key_hashtag in map[key_url].keys():
+            url = catch_url(key_hashtag)
+            for i in range(len(url)):
+                if i<5:
+                    map[key_url][key_hashtag].add(url[i][0])
+print(map)
