@@ -63,7 +63,7 @@ for key in map[a].keys():
 for key in map.keys():
     if key not in used_url:
         hashtag=catch_hashtags(key)
-        ++count
+        count =+ 1
         if(count/150 == 0):
             print ("Limitation reached")
             time.sleep(60*15)
@@ -75,7 +75,7 @@ for key_url in map.keys():
     if key_url not in used_url:
         for key_hashtag in map[key_url].keys():
             url = catch_url(key_hashtag)
-            ++count
+            count =+ 1
             if (count / 150 == 0):
                 print("Limitation reached")
                 time.sleep(60 * 15)
