@@ -37,10 +37,12 @@ print(len(urls))
 print (urls)
 
 #Translate to xml.
+#We can add speak context later
 root = ET.Element('AIMind')
 rroot = ET.SubElement(root, 'Root')
 rroot.attrib["id"] = "0"
 features = ET.SubElement(root, 'Features')
+#Fill in the neighbors.
 for url in urls:
     feature = ET.SubElement(features, 'Feature')
     feature.attrib["data"] = url
@@ -48,19 +50,18 @@ for url in urls:
     feature.attrib["id"] = str(urls.index(url)+1)
     feature.attrib["uri"] = ""
     neighbors = ET.SubElement(feature, 'neighbors')
+    #Find the neighbor in the dict.
     if url in read_dictionary.keys():
         for tags,sequence in read_dictionary[url].items():
             for item in sequence:
                 neighbor = ET.SubElement(neighbors, 'neighbor')
                 neighbor.attrib["dest"] = str(urls.index(item)+1)
                 neighbor.attrib["relationship"] = tags
+                #Actually I'm not sure what the weight is.
                 neighbor.attrib["weight"] ="0"
-
-
     speak = ET.SubElement(feature, 'speak')
     zhspeak = ET.SubElement(feature, 'zh-speak')
-
-
-
+#Completed the XML
 tree = ET.ElementTree(root)
+#The output file named: output.xml
 tree.write('output.xml', pretty_print=True, xml_declaration=True,encoding="UTF-8",standalone="yes")

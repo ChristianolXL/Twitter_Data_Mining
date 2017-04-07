@@ -44,6 +44,7 @@ def catch_hashtags(input):
     sorted_x = sorted(frequency_hash.items(), key=operator.itemgetter(1), reverse=True)
     return sorted_x
 
+#Will add comments later
 a="http://www.theverge.com/2017/3/27/15077864/elon-musk-neuralink-brain-computer-interface-ai-cyborgs"
 used_url=set()
 map={}
@@ -82,11 +83,8 @@ for key_url in map.keys():
             for i in range(len(url)):
                 if i<5:
                     map[key_url][key_hashtag].add(url[i][0])
+
 #save
 np.save('my_file.npy', map)
-
-#load
-read_dictionary = np.load('my_file.npy').item()
-print(read_dictionary)
 
 print (count)
