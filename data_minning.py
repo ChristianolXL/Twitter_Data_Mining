@@ -1,9 +1,10 @@
 from collections import defaultdict
 import json
 import operator
-
+import time
 import json
 import tweepy
+import numpy as np
 #Adding your api key and secret here
 api_key = 'Z7XrZPn7hJxclnfcdkJY5itbJ'
 api_secret = '4SMhwdNNMupw6QisSVPHnHwbTUR66iqYANaTuCkDOfx15KSggC'
@@ -49,7 +50,7 @@ map={}
 map[a]={}
 used_url.add(a)
 hashtag=catch_hashtags(a)
-count = 0
+count = 1
 for x in range(len(hashtag)):
     if hashtag[x][0] not in map[a] and x<5:
         map[a]["#"+hashtag[x][0]]=set()
@@ -63,6 +64,10 @@ for key in map.keys():
     if key not in used_url:
         hashtag=catch_hashtags(key)
         ++count
+        if(count/150 == 0):
+            print ("Limitation reached")
+            time.sleep(60*15)
+
         for j in range(len(hashtag)):
             if hashtag[j][0] not in map[key] and j < 2:
                 map[key][hashtag[j][0]]=set()
@@ -71,9 +76,17 @@ for key_url in map.keys():
         for key_hashtag in map[key_url].keys():
             url = catch_url(key_hashtag)
             ++count
+            if (count / 150 == 0):
+                print("Limitation reached")
+                time.sleep(60 * 15)
             for i in range(len(url)):
                 if i<5:
                     map[key_url][key_hashtag].add(url[i][0])
+#save
+np.save('my_file.npy', map)
 
-print(map)
+#load
+read_dictionary = np.load('my_file.npy').item()
+print(read_dictionary)
+
 print (count)
