@@ -1,5 +1,6 @@
 #Tianxi Zhou
 #Last edited 04/06/2017
+
 import numpy as np
 import json
 import pprint
@@ -37,6 +38,8 @@ print (urls)
 
 #Translate to xml.
 root = ET.Element('AIMind')
+rroot = ET.SubElement(root, 'Root')
+rroot.attrib["id"] = "0"
 features = ET.SubElement(root, 'Features')
 for url in urls:
     feature = ET.SubElement(features, 'Feature')
@@ -54,8 +57,8 @@ for url in urls:
                 neighbor.attrib["weight"] ="0"
 
 
-    second = ET.SubElement(features, 'second')
-    second.text = '01'
+    speak = ET.SubElement(feature, 'speak')
+    zhspeak = ET.SubElement(feature, 'zh-speak')
 
 
 
