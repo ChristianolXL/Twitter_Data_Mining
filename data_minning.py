@@ -1,3 +1,6 @@
+#Tianxin Zhou and Weike Dai
+#Last edited 04/06/2017
+
 from collections import defaultdict
 import json
 import operator
@@ -45,6 +48,7 @@ def catch_hashtags(input):
     return sorted_x
 
 #Will add comments later
+#The original node.
 a="http://www.theverge.com/2017/3/27/15077864/elon-musk-neuralink-brain-computer-interface-ai-cyborgs"
 used_url=set()
 map={}
@@ -52,11 +56,16 @@ map[a]={}
 used_url.add(a)
 hashtag=catch_hashtags(a)
 count = 1
+#The limitation is 150 requests per 15min.
 for x in range(len(hashtag)):
     if hashtag[x][0] not in map[a] and x<5:
         map[a]["#"+hashtag[x][0]]=set()
 for key in map[a].keys():
     url=catch_url(key)
+    count = + 1
+    if (count / 150 == 0):
+        print("Limitation reached")
+        time.sleep(60 * 15)
     for i in range(len(url)):
         if url[i][0] not in map and i<5:
             map[url[i][0]]={}
