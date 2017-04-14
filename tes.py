@@ -25,12 +25,21 @@ api = tweepy.API(auth)
 
 #Function to catch urls from database.
 def catch_url(input):
+    print("The key argument that we want to catch")
+    print(input)
+    print("The time stamp for the tweets:")
     frequency = defaultdict(int)
-    for tweet in tweepy.Cursor(api.search, q=input, rpp=100, count=100, result_type="recent", include_entities=True, lang="en").items(100):
+    count1 = 0
+    for tweet in tweepy.Cursor(api.search, q=input, rpp=100, count=100, result_type="recent", include_entities=True, lang="en").items(1000):
         temp = tweet.entities.get("urls")
+        print (tweet.created_at)
+        count1 = count1 + 1
         for item in temp:
             frequency[item.get('url')]+=1
+
+    print(count1)
     sorted_x = sorted(frequency.items(), key=operator.itemgetter(1),reverse=True)
+    print (sorted_x)
     return sorted_x
 
 #Function to catch hashtags from database.
@@ -44,56 +53,12 @@ def catch_hashtags(input):
             for item in temp:
                 if item is not None:
                     frequency_hash[item.get('text')] += 1
+
     sorted_x = sorted(frequency_hash.items(), key=operator.itemgetter(1), reverse=True)
     return sorted_x
 
 #Will add comments later
 #The original node.
-a="http://www.theverge.com/2017/3/27/15077864/elon-musk-neuralink-brain-computer-interface-ai-cyborgs"
-used_url=set()
-map={}
-map[a]={}
-used_url.add(a)
-hashtag=catch_hashtags(a)
-count = 1
-#The limitation is 150 requests per 15min.
-for x in range(len(hashtag)):
-    if hashtag[x][0] not in map[a] and x<5:
-        map[a]["#"+hashtag[x][0]]=set()
-for key in map[a].keys():
-    url=catch_url(key)
-    count = + 1
-    if (count / 150 == 0):
-        print("Limitation reached")
-        time.sleep(60 * 15)
-    for i in range(len(url)):
-        if url[i][0] not in map and i<5:
-            map[url[i][0]]={}
-            map[a][key].add(url[i][0])
-for key in map.keys():
-    if key not in used_url:
-        hashtag=catch_hashtags(key)
-        count =+ 1
-        if(count/150 == 0):
-            print ("Limitation reached")
-            time.sleep(60*15)
+a="http://www.spin.com/2017/04/kendrick-lamar-new-album-april-14-itunes/"
 
-        for j in range(len(hashtag)):
-            if hashtag[j][0] not in map[key] and j < 2:
-                map[key][hashtag[j][0]]=set()
-for key_url in map.keys():
-    if key_url not in used_url:
-        for key_hashtag in map[key_url].keys():
-            url = catch_url(key_hashtag)
-            count =+ 1
-            if (count / 150 == 0):
-                print("Limitation reached")
-                time.sleep(60 * 15)
-            for i in range(len(url)):
-                if i<5:
-                    map[key_url][key_hashtag].add(url[i][0])
-
-#save
-np.save('my_file.npy', map)
-
-print (count)
+catch_url("AI")

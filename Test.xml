@@ -1,0 +1,822 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<AIMind>
+  <Root id="0"/>
+  <Features>
+    <Feature data="http://www.theverge.com/2017/3/27/15077864/elon-musk-neuralink-brain-computer-interface-ai-cyborgs" zh-data="" id="1" uri="">
+      <neighbors>
+        <neighbor dest="2" relationship="#AI" weight="0"/>
+        <neighbor dest="3" relationship="#AI" weight="0"/>
+        <neighbor dest="4" relationship="#AI" weight="0"/>
+        <neighbor dest="5" relationship="#AI" weight="0"/>
+        <neighbor dest="6" relationship="#AI" weight="0"/>
+        <neighbor dest="7" relationship="#Neuralink" weight="0"/>
+        <neighbor dest="8" relationship="#Neuralink" weight="0"/>
+        <neighbor dest="9" relationship="#Neuralink" weight="0"/>
+        <neighbor dest="10" relationship="#Neuralink" weight="0"/>
+        <neighbor dest="11" relationship="#Neuralink" weight="0"/>
+        <neighbor dest="12" relationship="#HACK" weight="0"/>
+        <neighbor dest="13" relationship="#HACK" weight="0"/>
+        <neighbor dest="14" relationship="#HACK" weight="0"/>
+        <neighbor dest="15" relationship="#HACK" weight="0"/>
+        <neighbor dest="16" relationship="#HACK" weight="0"/>
+        <neighbor dest="17" relationship="#HUMAN" weight="0"/>
+        <neighbor dest="18" relationship="#HUMAN" weight="0"/>
+        <neighbor dest="19" relationship="#HUMAN" weight="0"/>
+        <neighbor dest="20" relationship="#HUMAN" weight="0"/>
+        <neighbor dest="21" relationship="#HUMAN" weight="0"/>
+      </neighbors>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/rW3jXuxY7g" zh-data="" id="2" uri="">
+      <neighbors>
+        <neighbor dest="2" relationship="defstar5" weight="0"/>
+        <neighbor dest="30" relationship="defstar5" weight="0"/>
+        <neighbor dest="31" relationship="defstar5" weight="0"/>
+        <neighbor dest="32" relationship="defstar5" weight="0"/>
+        <neighbor dest="33" relationship="defstar5" weight="0"/>
+        <neighbor dest="34" relationship="SmallBusiness" weight="0"/>
+        <neighbor dest="2" relationship="SmallBusiness" weight="0"/>
+        <neighbor dest="35" relationship="SmallBusiness" weight="0"/>
+        <neighbor dest="36" relationship="SmallBusiness" weight="0"/>
+        <neighbor dest="37" relationship="SmallBusiness" weight="0"/>
+      </neighbors>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/7Z8TiaJkgd" zh-data="" id="3" uri="">
+      <neighbors>
+        <neighbor dest="45" relationship="leader" weight="0"/>
+        <neighbor dest="46" relationship="leader" weight="0"/>
+        <neighbor dest="47" relationship="leader" weight="0"/>
+        <neighbor dest="48" relationship="leader" weight="0"/>
+        <neighbor dest="49" relationship="leader" weight="0"/>
+        <neighbor dest="2" relationship="StPatricksDay" weight="0"/>
+        <neighbor dest="3" relationship="StPatricksDay" weight="0"/>
+        <neighbor dest="50" relationship="StPatricksDay" weight="0"/>
+        <neighbor dest="51" relationship="StPatricksDay" weight="0"/>
+        <neighbor dest="52" relationship="StPatricksDay" weight="0"/>
+      </neighbors>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/cDfNbmLlAI" zh-data="" id="4" uri="">
+      <neighbors>
+        <neighbor dest="53" relationship="problem_solving" weight="0"/>
+        <neighbor dest="4" relationship="problem_solving" weight="0"/>
+        <neighbor dest="54" relationship="problem_solving" weight="0"/>
+        <neighbor dest="55" relationship="problem_solving" weight="0"/>
+        <neighbor dest="56" relationship="problem_solving" weight="0"/>
+        <neighbor dest="2" relationship="AI" weight="0"/>
+        <neighbor dest="57" relationship="AI" weight="0"/>
+        <neighbor dest="38" relationship="AI" weight="0"/>
+        <neighbor dest="58" relationship="AI" weight="0"/>
+        <neighbor dest="24" relationship="AI" weight="0"/>
+      </neighbors>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Rfas4KgZ0t" zh-data="" id="5" uri="">
+      <neighbors>
+        <neighbor dest="2" relationship="AI" weight="0"/>
+        <neighbor dest="38" relationship="AI" weight="0"/>
+        <neighbor dest="39" relationship="AI" weight="0"/>
+        <neighbor dest="24" relationship="AI" weight="0"/>
+        <neighbor dest="6" relationship="AI" weight="0"/>
+        <neighbor dest="40" relationship="Bot" weight="0"/>
+        <neighbor dest="41" relationship="Bot" weight="0"/>
+        <neighbor dest="42" relationship="Bot" weight="0"/>
+        <neighbor dest="43" relationship="Bot" weight="0"/>
+        <neighbor dest="44" relationship="Bot" weight="0"/>
+      </neighbors>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/7yXjN1zA70" zh-data="" id="6" uri="">
+      <neighbors>
+        <neighbor dest="22" relationship="AI" weight="0"/>
+        <neighbor dest="2" relationship="AI" weight="0"/>
+        <neighbor dest="23" relationship="AI" weight="0"/>
+        <neighbor dest="24" relationship="AI" weight="0"/>
+        <neighbor dest="25" relationship="AI" weight="0"/>
+        <neighbor dest="26" relationship="IoT" weight="0"/>
+        <neighbor dest="27" relationship="IoT" weight="0"/>
+        <neighbor dest="28" relationship="IoT" weight="0"/>
+        <neighbor dest="29" relationship="IoT" weight="0"/>
+        <neighbor dest="6" relationship="IoT" weight="0"/>
+      </neighbors>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/oMIwxSb904" zh-data="" id="7" uri="">
+      <neighbors>
+        <neighbor dest="59" relationship="Neuralink" weight="0"/>
+        <neighbor dest="60" relationship="Neuralink" weight="0"/>
+        <neighbor dest="61" relationship="Neuralink" weight="0"/>
+        <neighbor dest="62" relationship="Neuralink" weight="0"/>
+        <neighbor dest="63" relationship="Neuralink" weight="0"/>
+        <neighbor dest="2" relationship="AI" weight="0"/>
+        <neighbor dest="70" relationship="AI" weight="0"/>
+        <neighbor dest="38" relationship="AI" weight="0"/>
+        <neighbor dest="71" relationship="AI" weight="0"/>
+        <neighbor dest="24" relationship="AI" weight="0"/>
+      </neighbors>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/kKJ6eogCDk" zh-data="" id="8" uri="">
+      <neighbors>
+        <neighbor dest="59" relationship="NEURALINK" weight="0"/>
+        <neighbor dest="60" relationship="NEURALINK" weight="0"/>
+        <neighbor dest="61" relationship="NEURALINK" weight="0"/>
+        <neighbor dest="62" relationship="NEURALINK" weight="0"/>
+        <neighbor dest="63" relationship="NEURALINK" weight="0"/>
+        <neighbor dest="65" relationship="HACK" weight="0"/>
+        <neighbor dest="66" relationship="HACK" weight="0"/>
+        <neighbor dest="67" relationship="HACK" weight="0"/>
+        <neighbor dest="68" relationship="HACK" weight="0"/>
+        <neighbor dest="69" relationship="HACK" weight="0"/>
+      </neighbors>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/gzaDfFghOj" zh-data="" id="9" uri="">
+      <neighbors>
+        <neighbor dest="59" relationship="Neuralink" weight="0"/>
+        <neighbor dest="60" relationship="Neuralink" weight="0"/>
+        <neighbor dest="61" relationship="Neuralink" weight="0"/>
+        <neighbor dest="62" relationship="Neuralink" weight="0"/>
+        <neighbor dest="63" relationship="Neuralink" weight="0"/>
+        <neighbor dest="72" relationship="LocationSharing" weight="0"/>
+        <neighbor dest="73" relationship="LocationSharing" weight="0"/>
+        <neighbor dest="9" relationship="LocationSharing" weight="0"/>
+        <neighbor dest="74" relationship="LocationSharing" weight="0"/>
+        <neighbor dest="75" relationship="LocationSharing" weight="0"/>
+      </neighbors>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/wDR3rkj6k5" zh-data="" id="10" uri="">
+      <neighbors>
+        <neighbor dest="59" relationship="Neuralink" weight="0"/>
+        <neighbor dest="60" relationship="Neuralink" weight="0"/>
+        <neighbor dest="61" relationship="Neuralink" weight="0"/>
+        <neighbor dest="62" relationship="Neuralink" weight="0"/>
+        <neighbor dest="63" relationship="Neuralink" weight="0"/>
+      </neighbors>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ca6BLDf98A" zh-data="" id="11" uri="">
+      <neighbors>
+        <neighbor dest="59" relationship="Neuralink" weight="0"/>
+        <neighbor dest="60" relationship="Neuralink" weight="0"/>
+        <neighbor dest="61" relationship="Neuralink" weight="0"/>
+        <neighbor dest="62" relationship="Neuralink" weight="0"/>
+        <neighbor dest="63" relationship="Neuralink" weight="0"/>
+        <neighbor dest="2" relationship="AI" weight="0"/>
+        <neighbor dest="64" relationship="AI" weight="0"/>
+        <neighbor dest="57" relationship="AI" weight="0"/>
+        <neighbor dest="38" relationship="AI" weight="0"/>
+        <neighbor dest="24" relationship="AI" weight="0"/>
+      </neighbors>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/yiqSmWFjnp" zh-data="" id="12" uri="">
+      <neighbors>
+        <neighbor dest="82" relationship="Hack" weight="0"/>
+        <neighbor dest="66" relationship="Hack" weight="0"/>
+        <neighbor dest="83" relationship="Hack" weight="0"/>
+        <neighbor dest="68" relationship="Hack" weight="0"/>
+        <neighbor dest="69" relationship="Hack" weight="0"/>
+        <neighbor dest="84" relationship="cracked" weight="0"/>
+        <neighbor dest="85" relationship="cracked" weight="0"/>
+        <neighbor dest="86" relationship="cracked" weight="0"/>
+        <neighbor dest="87" relationship="cracked" weight="0"/>
+        <neighbor dest="88" relationship="cracked" weight="0"/>
+      </neighbors>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/a0y0IhQBwU" zh-data="" id="13" uri="">
+      <neighbors>
+        <neighbor dest="82" relationship="Hack" weight="0"/>
+        <neighbor dest="66" relationship="Hack" weight="0"/>
+        <neighbor dest="83" relationship="Hack" weight="0"/>
+        <neighbor dest="68" relationship="Hack" weight="0"/>
+        <neighbor dest="69" relationship="Hack" weight="0"/>
+        <neighbor dest="84" relationship="cracked" weight="0"/>
+        <neighbor dest="85" relationship="cracked" weight="0"/>
+        <neighbor dest="86" relationship="cracked" weight="0"/>
+        <neighbor dest="87" relationship="cracked" weight="0"/>
+        <neighbor dest="88" relationship="cracked" weight="0"/>
+      </neighbors>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/P2U96R9lOa" zh-data="" id="14" uri="">
+      <neighbors>
+        <neighbor dest="82" relationship="hack" weight="0"/>
+        <neighbor dest="66" relationship="hack" weight="0"/>
+        <neighbor dest="83" relationship="hack" weight="0"/>
+        <neighbor dest="68" relationship="hack" weight="0"/>
+        <neighbor dest="69" relationship="hack" weight="0"/>
+        <neighbor dest="89" relationship="hacker" weight="0"/>
+        <neighbor dest="90" relationship="hacker" weight="0"/>
+        <neighbor dest="91" relationship="hacker" weight="0"/>
+        <neighbor dest="92" relationship="hacker" weight="0"/>
+        <neighbor dest="93" relationship="hacker" weight="0"/>
+      </neighbors>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/jzfpITD29e" zh-data="" id="15" uri="">
+      <neighbors>
+        <neighbor dest="15" relationship="HackTheHub2017" weight="0"/>
+        <neighbor dest="76" relationship="HackTheHub2017" weight="0"/>
+        <neighbor dest="77" relationship="hackathon" weight="0"/>
+        <neighbor dest="78" relationship="hackathon" weight="0"/>
+        <neighbor dest="79" relationship="hackathon" weight="0"/>
+        <neighbor dest="80" relationship="hackathon" weight="0"/>
+        <neighbor dest="81" relationship="hackathon" weight="0"/>
+      </neighbors>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/z92SUcEH2y" zh-data="" id="16" uri="">
+      <neighbors>
+        <neighbor dest="94" relationship="hack" weight="0"/>
+        <neighbor dest="66" relationship="hack" weight="0"/>
+        <neighbor dest="83" relationship="hack" weight="0"/>
+        <neighbor dest="68" relationship="hack" weight="0"/>
+        <neighbor dest="69" relationship="hack" weight="0"/>
+        <neighbor dest="89" relationship="hacker" weight="0"/>
+        <neighbor dest="90" relationship="hacker" weight="0"/>
+        <neighbor dest="91" relationship="hacker" weight="0"/>
+        <neighbor dest="92" relationship="hacker" weight="0"/>
+        <neighbor dest="93" relationship="hacker" weight="0"/>
+      </neighbors>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/2WSFSNVvjC" zh-data="" id="17" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/xNqxfHqZjR" zh-data="" id="18" uri="">
+      <neighbors>
+        <neighbor dest="18" relationship="WRM" weight="0"/>
+        <neighbor dest="95" relationship="WRM" weight="0"/>
+        <neighbor dest="96" relationship="WRM" weight="0"/>
+        <neighbor dest="97" relationship="WRM" weight="0"/>
+        <neighbor dest="98" relationship="WRM" weight="0"/>
+        <neighbor dest="99" relationship="Satanic" weight="0"/>
+        <neighbor dest="18" relationship="Satanic" weight="0"/>
+        <neighbor dest="100" relationship="Satanic" weight="0"/>
+        <neighbor dest="101" relationship="Satanic" weight="0"/>
+        <neighbor dest="98" relationship="Satanic" weight="0"/>
+      </neighbors>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/bhnXw9xJFA" zh-data="" id="19" uri="">
+      <neighbors>
+        <neighbor dest="112" relationship="hiring" weight="0"/>
+        <neighbor dest="113" relationship="hiring" weight="0"/>
+        <neighbor dest="114" relationship="hiring" weight="0"/>
+        <neighbor dest="115" relationship="hiring" weight="0"/>
+        <neighbor dest="116" relationship="hiring" weight="0"/>
+        <neighbor dest="117" relationship="Autism" weight="0"/>
+        <neighbor dest="118" relationship="Autism" weight="0"/>
+        <neighbor dest="119" relationship="Autism" weight="0"/>
+        <neighbor dest="120" relationship="Autism" weight="0"/>
+        <neighbor dest="121" relationship="Autism" weight="0"/>
+      </neighbors>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/p9Hzl9EKs2" zh-data="" id="20" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/eWaGrBCjaY" zh-data="" id="21" uri="">
+      <neighbors>
+        <neighbor dest="102" relationship="Migrants" weight="0"/>
+        <neighbor dest="103" relationship="Migrants" weight="0"/>
+        <neighbor dest="104" relationship="Migrants" weight="0"/>
+        <neighbor dest="105" relationship="Migrants" weight="0"/>
+        <neighbor dest="106" relationship="Migrants" weight="0"/>
+        <neighbor dest="107" relationship="business" weight="0"/>
+        <neighbor dest="108" relationship="business" weight="0"/>
+        <neighbor dest="109" relationship="business" weight="0"/>
+        <neighbor dest="110" relationship="business" weight="0"/>
+        <neighbor dest="111" relationship="business" weight="0"/>
+      </neighbors>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Ep4aV0TIw6" zh-data="" id="22" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/LsoK6GiouK" zh-data="" id="23" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/3Bi4H24txF" zh-data="" id="24" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/0L7RdQnhgy" zh-data="" id="25" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/mQuNvxvV2o" zh-data="" id="26" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/F2Jse8qkrL" zh-data="" id="27" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/webFAUeaqF" zh-data="" id="28" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/UcC93yIuuu" zh-data="" id="29" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/6sCzxIjbpn" zh-data="" id="30" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/TnqMRxjlAL" zh-data="" id="31" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/n2Al0Qoau0" zh-data="" id="32" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/8vLpjUodyw" zh-data="" id="33" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/65Vdzjbkp4" zh-data="" id="34" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/CHkwaSHban" zh-data="" id="35" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/DPK5rsXIvZ" zh-data="" id="36" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/FQi3hqbt6T" zh-data="" id="37" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/7Jd2u6gjSs" zh-data="" id="38" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/KneFipTNV9" zh-data="" id="39" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/gSgfNbQfjc" zh-data="" id="40" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/gxt8lzVgYA" zh-data="" id="41" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/dvjm6fUt36" zh-data="" id="42" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/2aZ57ZpiY1" zh-data="" id="43" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/GXqt9NDJHs" zh-data="" id="44" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/HeptDNtxDC" zh-data="" id="45" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/dOGQPBPZC5" zh-data="" id="46" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/eBY0TjjpS1" zh-data="" id="47" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/aC61jkC1MM" zh-data="" id="48" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ywv9dJG39c" zh-data="" id="49" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/gKYo0w6YK0" zh-data="" id="50" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/qoxqCLmPv0" zh-data="" id="51" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/kTKONiodRL" zh-data="" id="52" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/14NQAoSub2" zh-data="" id="53" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/AHQkSrKNhm" zh-data="" id="54" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ufL9uCOGWS" zh-data="" id="55" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/xn5EG6mI9A" zh-data="" id="56" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/yThVAniSrH" zh-data="" id="57" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/3Ipbqceey9" zh-data="" id="58" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/sczBKqw3dh" zh-data="" id="59" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/bCIkrHV4yn" zh-data="" id="60" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/SHfz6tlqxd" zh-data="" id="61" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/e3Dn8PWpC8" zh-data="" id="62" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/RDV1xhCAqL" zh-data="" id="63" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Se0DdlfEOp" zh-data="" id="64" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/3BT1fqE5vo" zh-data="" id="65" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/yclAofOCus" zh-data="" id="66" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/JpLiGVaGdw" zh-data="" id="67" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/uflXbUQyAs" zh-data="" id="68" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/5o060ZyNkN" zh-data="" id="69" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/UuZK0pcz1E" zh-data="" id="70" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/TZu2A6uNGr" zh-data="" id="71" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/SguQErWCMt" zh-data="" id="72" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/37IsmwvZMO" zh-data="" id="73" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/KsSSBN2bTC" zh-data="" id="74" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/SMSxpBOtHf" zh-data="" id="75" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/kHrHWhOI9F" zh-data="" id="76" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/9nmHSvozad" zh-data="" id="77" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/hS4g6DzA7K" zh-data="" id="78" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/MXrCmwQKaJ" zh-data="" id="79" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/X4ADTSnGg6" zh-data="" id="80" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/h2O5oXHRXK" zh-data="" id="81" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/nnaVFYH0zT" zh-data="" id="82" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/tdKxbb1spm" zh-data="" id="83" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/K9a4cADLsz" zh-data="" id="84" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/hu0rsZsMJ7" zh-data="" id="85" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/lByMeMeXt2" zh-data="" id="86" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/lafIqZwqi3" zh-data="" id="87" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/eOkbrxXols" zh-data="" id="88" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/uxc6W5hdNG" zh-data="" id="89" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/eEbdUeRZvP" zh-data="" id="90" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Cz1vammmK6" zh-data="" id="91" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/gFtSAm3kJN" zh-data="" id="92" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ajcTnS6o2X" zh-data="" id="93" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/u0AzPalSUg" zh-data="" id="94" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/9AljOsIggI" zh-data="" id="95" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/PIqhNqAPmq" zh-data="" id="96" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/xJDseXSXqz" zh-data="" id="97" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ME01xssv5v" zh-data="" id="98" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ulXijS2E97" zh-data="" id="99" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/eu7sgSINPl" zh-data="" id="100" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/zGF9mNzWkl" zh-data="" id="101" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/SVQdKwNwaM" zh-data="" id="102" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/1LAND5Kk4L" zh-data="" id="103" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/bewEzrlYeW" zh-data="" id="104" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/IB9fDeNYa2" zh-data="" id="105" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/9EzIuiMmyp" zh-data="" id="106" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/j0HP1koDjS" zh-data="" id="107" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/WZr6JGfBtD" zh-data="" id="108" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/5dlVW8Ig6m" zh-data="" id="109" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/JM98MscHfJ" zh-data="" id="110" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ZS2rNvFTAS" zh-data="" id="111" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/N2BGwgieOY" zh-data="" id="112" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/EbgVWqNT7R" zh-data="" id="113" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Mbtj3n6Ku2" zh-data="" id="114" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/OHdyXTF5UT" zh-data="" id="115" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/k53ZOV4tNk" zh-data="" id="116" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/eLxvPLC7Cn" zh-data="" id="117" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Myq8mlxJgR" zh-data="" id="118" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ccGMDD1VuG" zh-data="" id="119" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/FkPYaj3yrm" zh-data="" id="120" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/AEFx8nCEC1" zh-data="" id="121" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+  </Features>
+</AIMind>
