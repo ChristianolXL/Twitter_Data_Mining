@@ -17,6 +17,7 @@ def f7(seq):
 
 #load
 read_dictionary = np.load('my_file.npy').item()
+read_speak = np.load('speak_file.npy').item()
 
 #print
 pp = pprint.PrettyPrinter(indent=4)
@@ -34,7 +35,7 @@ for key, value in read_dictionary.items():
 print (len(urls))
 urls = f7(urls)
 print(len(urls))
-print (urls)
+#print (urls)
 
 #Translate to xml.
 #We can add speak context later
@@ -60,6 +61,8 @@ for url in urls:
                 #Actually I'm not sure what the weight is.
                 neighbor.attrib["weight"] ="0"
     speak = ET.SubElement(feature, 'speak')
+    if url in read_speak.keys():
+        speak.attrib["Tweets"] = read_speak[url]
     zhspeak = ET.SubElement(feature, 'zh-speak')
 #Completed the XML
 tree = ET.ElementTree(root)

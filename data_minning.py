@@ -80,7 +80,7 @@ for key in map.keys():
 
         for j in range(len(hashtag)):
             if hashtag[j][0] not in map[key] and j < 2:
-                map[key][hashtag[j][0]]=set()
+                map[key]["#"+hashtag[j][0]]=set()
 for key_url in map.keys():
     if key_url not in used_url:
         for key_hashtag in map[key_url].keys():
