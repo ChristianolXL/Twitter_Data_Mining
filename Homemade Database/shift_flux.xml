@@ -1,0 +1,1748 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<AIMind>
+  <Root id="0"/>
+  <Features>
+    <Feature data="http://lifehacker.com/how-apples-night-shift-compares-to-f-lux-1794116525" zh-data="" id="1" uri="">
+      <neighbors>
+        <neighbor dest="2" relationship="#goviewyou" weight="0"/>
+        <neighbor dest="3" relationship="#goviewyou" weight="0"/>
+        <neighbor dest="4" relationship="#goviewyou" weight="0"/>
+        <neighbor dest="5" relationship="#goviewyou" weight="0"/>
+        <neighbor dest="6" relationship="#goviewyou" weight="0"/>
+        <neighbor dest="7" relationship="#Apple" weight="0"/>
+        <neighbor dest="8" relationship="#Apple" weight="0"/>
+        <neighbor dest="9" relationship="#Apple" weight="0"/>
+        <neighbor dest="10" relationship="#Apple" weight="0"/>
+        <neighbor dest="11" relationship="#Apple" weight="0"/>
+        <neighbor dest="12" relationship="#sleep" weight="0"/>
+        <neighbor dest="13" relationship="#sleep" weight="0"/>
+        <neighbor dest="14" relationship="#sleep" weight="0"/>
+        <neighbor dest="15" relationship="#sleep" weight="0"/>
+        <neighbor dest="16" relationship="#sleep" weight="0"/>
+      </neighbors>
+      <speak Tweets="How Apple's Night Shift Compares to F.lux via Digg https://t.co/d762Nofh8z #goviewyou"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/3lGNyVyI34" zh-data="" id="2" uri="">
+      <neighbors>
+        <neighbor dest="2" relationship="#goviewyou" weight="0"/>
+        <neighbor dest="3" relationship="#goviewyou" weight="0"/>
+        <neighbor dest="4" relationship="#goviewyou" weight="0"/>
+        <neighbor dest="5" relationship="#goviewyou" weight="0"/>
+        <neighbor dest="6" relationship="#goviewyou" weight="0"/>
+      </neighbors>
+      <speak Tweets="It's April 12, 2017 at 07:00AM, good morning and have a great day 🌞https://t.co/3lGNyVyI34 #goviewyou https://t.co/FPUuCF99zR"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/rAv3P9dBSY" zh-data="" id="3" uri="">
+      <neighbors>
+        <neighbor dest="33" relationship="#Flipboard" weight="0"/>
+        <neighbor dest="34" relationship="#Flipboard" weight="0"/>
+        <neighbor dest="35" relationship="#Flipboard" weight="0"/>
+        <neighbor dest="3" relationship="#Flipboard" weight="0"/>
+        <neighbor dest="36" relationship="#Flipboard" weight="0"/>
+        <neighbor dest="28" relationship="#CareerAdvice" weight="0"/>
+        <neighbor dest="37" relationship="#CareerAdvice" weight="0"/>
+        <neighbor dest="29" relationship="#CareerAdvice" weight="0"/>
+        <neighbor dest="30" relationship="#CareerAdvice" weight="0"/>
+        <neighbor dest="31" relationship="#CareerAdvice" weight="0"/>
+      </neighbors>
+      <speak Tweets="Follow Our #Flipboard for #CareerAdvice #goviewyou #VideoResume https://t.co/rAv3P9dBSY 🌎🌍🌏"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/bBbtu5iK8L" zh-data="" id="4" uri="">
+      <neighbors>
+        <neighbor dest="27" relationship="#CareerAdvice" weight="0"/>
+        <neighbor dest="28" relationship="#CareerAdvice" weight="0"/>
+        <neighbor dest="29" relationship="#CareerAdvice" weight="0"/>
+        <neighbor dest="30" relationship="#CareerAdvice" weight="0"/>
+        <neighbor dest="31" relationship="#CareerAdvice" weight="0"/>
+        <neighbor dest="17" relationship="#Education" weight="0"/>
+        <neighbor dest="18" relationship="#Education" weight="0"/>
+        <neighbor dest="19" relationship="#Education" weight="0"/>
+        <neighbor dest="32" relationship="#Education" weight="0"/>
+        <neighbor dest="20" relationship="#Education" weight="0"/>
+      </neighbors>
+      <speak Tweets="Follow our daily #CareerAdvice 👩‍🎓Newspaper - #Education and #Career News #goviewyou https://t.co/bBbtu5iK8L"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/7A3OSbteeB" zh-data="" id="5" uri="">
+      <neighbors>
+        <neighbor dest="17" relationship="#Education" weight="0"/>
+        <neighbor dest="18" relationship="#Education" weight="0"/>
+        <neighbor dest="19" relationship="#Education" weight="0"/>
+        <neighbor dest="20" relationship="#Education" weight="0"/>
+        <neighbor dest="21" relationship="#Education" weight="0"/>
+        <neighbor dest="22" relationship="#Career" weight="0"/>
+        <neighbor dest="23" relationship="#Career" weight="0"/>
+        <neighbor dest="24" relationship="#Career" weight="0"/>
+        <neighbor dest="25" relationship="#Career" weight="0"/>
+        <neighbor dest="26" relationship="#Career" weight="0"/>
+      </neighbors>
+      <speak Tweets="Follow our blog for #Education #Career Tips / News 🖥#goviewyou #CareerAdvice https://t.co/7A3OSbteeB"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/cngXH0vNtT" zh-data="" id="6" uri="">
+      <neighbors>
+        <neighbor dest="28" relationship="#CareerAdvice" weight="0"/>
+        <neighbor dest="37" relationship="#CareerAdvice" weight="0"/>
+        <neighbor dest="29" relationship="#CareerAdvice" weight="0"/>
+        <neighbor dest="30" relationship="#CareerAdvice" weight="0"/>
+        <neighbor dest="31" relationship="#CareerAdvice" weight="0"/>
+        <neighbor dest="17" relationship="#Education" weight="0"/>
+        <neighbor dest="18" relationship="#Education" weight="0"/>
+        <neighbor dest="19" relationship="#Education" weight="0"/>
+        <neighbor dest="20" relationship="#Education" weight="0"/>
+        <neighbor dest="21" relationship="#Education" weight="0"/>
+      </neighbors>
+      <speak Tweets="Follow our daily #CareerAdvice 👩‍🎓Newspaper - #Education and #Career News #goviewyou https://t.co/cngXH0vNtT #VideoCV #VideoResume"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Yyr1ZMKxya" zh-data="" id="7" uri="">
+      <neighbors>
+        <neighbor dest="44" relationship="#strawberry" weight="0"/>
+        <neighbor dest="45" relationship="#strawberry" weight="0"/>
+        <neighbor dest="7" relationship="#strawberry" weight="0"/>
+        <neighbor dest="46" relationship="#strawberry" weight="0"/>
+        <neighbor dest="47" relationship="#strawberry" weight="0"/>
+        <neighbor dest="7" relationship="#apple" weight="0"/>
+        <neighbor dest="8" relationship="#apple" weight="0"/>
+        <neighbor dest="9" relationship="#apple" weight="0"/>
+        <neighbor dest="10" relationship="#apple" weight="0"/>
+        <neighbor dest="11" relationship="#apple" weight="0"/>
+      </neighbors>
+      <speak Tweets="Breakfast 🍓🥛🍎&#10;&#10;#strawberry #apple&#10;#morning https://t.co/Yyr1ZMKxya"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/39Bp9uinzo" zh-data="" id="8" uri="">
+      <neighbors>
+        <neighbor dest="52" relationship="#DevWorld" weight="0"/>
+        <neighbor dest="8" relationship="#DevWorld" weight="0"/>
+        <neighbor dest="53" relationship="#DevWorld" weight="0"/>
+        <neighbor dest="54" relationship="#DevWorld" weight="0"/>
+        <neighbor dest="55" relationship="#DevWorld" weight="0"/>
+        <neighbor dest="56" relationship="#iOSdev" weight="0"/>
+        <neighbor dest="8" relationship="#iOSdev" weight="0"/>
+        <neighbor dest="57" relationship="#iOSdev" weight="0"/>
+        <neighbor dest="58" relationship="#iOSdev" weight="0"/>
+        <neighbor dest="59" relationship="#iOSdev" weight="0"/>
+      </neighbors>
+      <speak Tweets="Just quietly… the #DevWorld CFP is open… https://t.co/39Bp9uinzo #iOSdev #Apple #swiftlang"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/79YNnu20aL" zh-data="" id="9" uri="">
+      <neighbors>
+        <neighbor dest="7" relationship="#Apple" weight="0"/>
+        <neighbor dest="8" relationship="#Apple" weight="0"/>
+        <neighbor dest="9" relationship="#Apple" weight="0"/>
+        <neighbor dest="10" relationship="#Apple" weight="0"/>
+        <neighbor dest="38" relationship="#Apple" weight="0"/>
+        <neighbor dest="39" relationship="#Qualcomm" weight="0"/>
+        <neighbor dest="40" relationship="#Qualcomm" weight="0"/>
+        <neighbor dest="41" relationship="#Qualcomm" weight="0"/>
+        <neighbor dest="42" relationship="#Qualcomm" weight="0"/>
+        <neighbor dest="43" relationship="#Qualcomm" weight="0"/>
+      </neighbors>
+      <speak Tweets="Qualcomm $QCOM Q2 FY17 Earnings LIVE Webcast April 19, 4:45pm EDT https://t.co/79YNnu20aL #Apple $AAPL #Qualcomm… https://t.co/zXLeuYoMe7"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/GH8LvvLnvy" zh-data="" id="10" uri="">
+      <neighbors>
+        <neighbor dest="7" relationship="#apple" weight="0"/>
+        <neighbor dest="8" relationship="#apple" weight="0"/>
+        <neighbor dest="9" relationship="#apple" weight="0"/>
+        <neighbor dest="10" relationship="#apple" weight="0"/>
+        <neighbor dest="38" relationship="#apple" weight="0"/>
+      </neighbors>
+      <speak Tweets="iMovie, GarageBand and iWork are now free to all iOS and Mac users https://t.co/GH8LvvLnvy #apple https://t.co/3oPHK1LPrC"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/yeCxLhSJdW" zh-data="" id="11" uri="">
+      <neighbors>
+        <neighbor dest="48" relationship="#applewatch" weight="0"/>
+        <neighbor dest="49" relationship="#applewatch" weight="0"/>
+        <neighbor dest="11" relationship="#applewatch" weight="0"/>
+        <neighbor dest="50" relationship="#applewatch" weight="0"/>
+        <neighbor dest="51" relationship="#applewatch" weight="0"/>
+        <neighbor dest="7" relationship="#apple" weight="0"/>
+        <neighbor dest="8" relationship="#apple" weight="0"/>
+        <neighbor dest="9" relationship="#apple" weight="0"/>
+        <neighbor dest="10" relationship="#apple" weight="0"/>
+        <neighbor dest="11" relationship="#apple" weight="0"/>
+      </neighbors>
+      <speak Tweets="RT applewatch_face: Browse &amp;amp; make beautiful Apple Watch faces https://t.co/yeCxLhSJdW #applewatch #apple Give you… https://t.co/95PWKENP0m"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/S2VLUEHIE7" zh-data="" id="12" uri="">
+      <neighbors>
+        <neighbor dest="60" relationship="#sleep" weight="0"/>
+        <neighbor dest="13" relationship="#sleep" weight="0"/>
+        <neighbor dest="14" relationship="#sleep" weight="0"/>
+        <neighbor dest="15" relationship="#sleep" weight="0"/>
+        <neighbor dest="16" relationship="#sleep" weight="0"/>
+        <neighbor dest="82" relationship="#screentime" weight="0"/>
+        <neighbor dest="83" relationship="#screentime" weight="0"/>
+        <neighbor dest="12" relationship="#screentime" weight="0"/>
+        <neighbor dest="84" relationship="#screentime" weight="0"/>
+        <neighbor dest="85" relationship="#screentime" weight="0"/>
+      </neighbors>
+      <speak Tweets="Toddlers using touchscreens are getting less #sleep, British study finds https://t.co/S2VLUEHIE7 #screentime https://t.co/iSyF97nGJw"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/6R6FRWaoR8" zh-data="" id="13" uri="">
+      <neighbors>
+        <neighbor dest="66" relationship="#CharliePowell" weight="0"/>
+        <neighbor dest="13" relationship="#CharliePowell" weight="0"/>
+        <neighbor dest="60" relationship="#Sleep" weight="0"/>
+        <neighbor dest="13" relationship="#Sleep" weight="0"/>
+        <neighbor dest="14" relationship="#Sleep" weight="0"/>
+        <neighbor dest="15" relationship="#Sleep" weight="0"/>
+        <neighbor dest="16" relationship="#Sleep" weight="0"/>
+      </neighbors>
+      <speak Tweets="Exploring and understanding Sleep Apnea: with special guest #CharliePowell https://t.co/6R6FRWaoR8 #Sleep #Apnea"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/9EA0rqPqzH" zh-data="" id="14" uri="">
+      <neighbors>
+        <neighbor dest="60" relationship="#sleep" weight="0"/>
+        <neighbor dest="61" relationship="#sleep" weight="0"/>
+        <neighbor dest="13" relationship="#sleep" weight="0"/>
+        <neighbor dest="14" relationship="#sleep" weight="0"/>
+        <neighbor dest="15" relationship="#sleep" weight="0"/>
+        <neighbor dest="62" relationship="#brains" weight="0"/>
+        <neighbor dest="63" relationship="#brains" weight="0"/>
+        <neighbor dest="14" relationship="#brains" weight="0"/>
+        <neighbor dest="64" relationship="#brains" weight="0"/>
+        <neighbor dest="65" relationship="#brains" weight="0"/>
+      </neighbors>
+      <speak Tweets="We #sleep less as we age b/c #brains don’t think we’re #tired: https://t.co/9EA0rqPqzH #Aging #Health #Medicine #Science #SleepDeprivation"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/AX1pTEFakq" zh-data="" id="15" uri="">
+      <neighbors>
+        <neighbor dest="67" relationship="#home" weight="0"/>
+        <neighbor dest="68" relationship="#home" weight="0"/>
+        <neighbor dest="69" relationship="#home" weight="0"/>
+        <neighbor dest="70" relationship="#home" weight="0"/>
+        <neighbor dest="71" relationship="#home" weight="0"/>
+        <neighbor dest="60" relationship="#sleep" weight="0"/>
+        <neighbor dest="61" relationship="#sleep" weight="0"/>
+        <neighbor dest="13" relationship="#sleep" weight="0"/>
+        <neighbor dest="14" relationship="#sleep" weight="0"/>
+        <neighbor dest="15" relationship="#sleep" weight="0"/>
+      </neighbors>
+      <speak Tweets="Check out iLLumibed, the best light kit for home improvement. Now on Indiegogo - https://t.co/AX1pTEFakq #home… https://t.co/28IZc2ka5r"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/LBy8dop8pf" zh-data="" id="16" uri="">
+      <neighbors>
+        <neighbor dest="72" relationship="#AI" weight="0"/>
+        <neighbor dest="73" relationship="#AI" weight="0"/>
+        <neighbor dest="74" relationship="#AI" weight="0"/>
+        <neighbor dest="75" relationship="#AI" weight="0"/>
+        <neighbor dest="76" relationship="#AI" weight="0"/>
+        <neighbor dest="77" relationship="#Dream" weight="0"/>
+        <neighbor dest="78" relationship="#Dream" weight="0"/>
+        <neighbor dest="79" relationship="#Dream" weight="0"/>
+        <neighbor dest="80" relationship="#Dream" weight="0"/>
+        <neighbor dest="81" relationship="#Dream" weight="0"/>
+      </neighbors>
+      <speak Tweets=""/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/zI9YHAC2Qy" zh-data="" id="17" uri="">
+      <neighbors>
+        <neighbor dest="17" relationship="#EarthScience" weight="0"/>
+        <neighbor dest="174" relationship="#EarthScience" weight="0"/>
+        <neighbor dest="175" relationship="#EarthScience" weight="0"/>
+        <neighbor dest="176" relationship="#EarthScience" weight="0"/>
+        <neighbor dest="177" relationship="#EarthScience" weight="0"/>
+        <neighbor dest="17" relationship="#STEM" weight="0"/>
+        <neighbor dest="178" relationship="#STEM" weight="0"/>
+        <neighbor dest="179" relationship="#STEM" weight="0"/>
+        <neighbor dest="180" relationship="#STEM" weight="0"/>
+        <neighbor dest="181" relationship="#STEM" weight="0"/>
+      </neighbors>
+      <speak Tweets="RT @Imported_Fun: If you haven't cracked open a geode..&#10;you don't know what you're missing.&#10;&#10;#Geology #STEM #EarthScience #Science&#10;https://…"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/o8dmswOxC8" zh-data="" id="18" uri="">
+      <neighbors>
+        <neighbor dest="17" relationship="#Education" weight="0"/>
+        <neighbor dest="18" relationship="#Education" weight="0"/>
+        <neighbor dest="19" relationship="#Education" weight="0"/>
+        <neighbor dest="20" relationship="#Education" weight="0"/>
+        <neighbor dest="21" relationship="#Education" weight="0"/>
+      </neighbors>
+      <speak Tweets="Things to Consider Before Choosing a College  https://t.co/o8dmswOxC8  #Education"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/NfxGn7C4ao" zh-data="" id="19" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/MqFlPhJutK" zh-data="" id="20" uri="">
+      <neighbors>
+        <neighbor dest="190" relationship="#RT" weight="0"/>
+        <neighbor dest="191" relationship="#RT" weight="0"/>
+        <neighbor dest="192" relationship="#RT" weight="0"/>
+        <neighbor dest="20" relationship="#RT" weight="0"/>
+        <neighbor dest="193" relationship="#RT" weight="0"/>
+        <neighbor dest="194" relationship="#SelfHelp" weight="0"/>
+        <neighbor dest="195" relationship="#SelfHelp" weight="0"/>
+        <neighbor dest="196" relationship="#SelfHelp" weight="0"/>
+        <neighbor dest="20" relationship="#SelfHelp" weight="0"/>
+        <neighbor dest="197" relationship="#SelfHelp" weight="0"/>
+      </neighbors>
+      <speak Tweets="RT @EichinChangLim: #RT&#10;#NewRelease countdown!&#10;https://t.co/MqFlPhJutK&#10;#specialneeds &#10;#memoir&#10;#SelfHelp     &#10;#Parenting&#10;#PDF1&#10;@Cochlear&#10;htt…"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/agfKThXXf5" zh-data="" id="21" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/P0o1Hxc0bA" zh-data="" id="22" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/rCdY6Glb4C" zh-data="" id="23" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/aSQk7dCwak" zh-data="" id="24" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/X3ewsxT5Rh" zh-data="" id="25" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/658yZ0pv9v" zh-data="" id="26" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ZTHHlFyakA" zh-data="" id="27" uri="">
+      <neighbors>
+        <neighbor dest="27" relationship="#CareerAdvice" weight="0"/>
+        <neighbor dest="28" relationship="#CareerAdvice" weight="0"/>
+        <neighbor dest="29" relationship="#CareerAdvice" weight="0"/>
+        <neighbor dest="30" relationship="#CareerAdvice" weight="0"/>
+        <neighbor dest="31" relationship="#CareerAdvice" weight="0"/>
+        <neighbor dest="113" relationship="#Leadership" weight="0"/>
+        <neighbor dest="114" relationship="#Leadership" weight="0"/>
+        <neighbor dest="115" relationship="#Leadership" weight="0"/>
+        <neighbor dest="116" relationship="#Leadership" weight="0"/>
+        <neighbor dest="117" relationship="#Leadership" weight="0"/>
+      </neighbors>
+      <speak Tweets="RT @taaronology: 24 Things You Need to Let Go to Be Truly Happy https://t.co/ZTHHlFyakA by @LollyDaskal #leadership"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/saFLQOzSP2" zh-data="" id="28" uri="">
+      <neighbors>
+        <neighbor dest="28" relationship="#BurnedOut" weight="0"/>
+        <neighbor dest="94" relationship="#BurnedOut" weight="0"/>
+        <neighbor dest="95" relationship="#BurnedOut" weight="0"/>
+        <neighbor dest="96" relationship="#BurnedOut" weight="0"/>
+        <neighbor dest="97" relationship="#BurnedOut" weight="0"/>
+        <neighbor dest="27" relationship="#CareerAdvice" weight="0"/>
+        <neighbor dest="28" relationship="#CareerAdvice" weight="0"/>
+        <neighbor dest="29" relationship="#CareerAdvice" weight="0"/>
+        <neighbor dest="30" relationship="#CareerAdvice" weight="0"/>
+        <neighbor dest="31" relationship="#CareerAdvice" weight="0"/>
+      </neighbors>
+      <speak Tweets="RT @CareerContessa: 5 tips to get back on track if you're #BurnedOut https://t.co/saFLQOzSP2 |@sarahlandrum #CareerAdvice #Wellness https:/…"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/caWPAEIrUP" zh-data="" id="29" uri="">
+      <neighbors>
+        <neighbor dest="162" relationship="#highered" weight="0"/>
+        <neighbor dest="163" relationship="#highered" weight="0"/>
+        <neighbor dest="29" relationship="#highered" weight="0"/>
+        <neighbor dest="164" relationship="#highered" weight="0"/>
+        <neighbor dest="165" relationship="#highered" weight="0"/>
+        <neighbor dest="27" relationship="#careeradvice" weight="0"/>
+        <neighbor dest="28" relationship="#careeradvice" weight="0"/>
+        <neighbor dest="29" relationship="#careeradvice" weight="0"/>
+        <neighbor dest="30" relationship="#careeradvice" weight="0"/>
+        <neighbor dest="31" relationship="#careeradvice" weight="0"/>
+      </neighbors>
+      <speak Tweets="Why the essay is integral to teaching (essay) https://t.co/caWPAEIrUP #highered #careeradvice"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/yi54urjzSx" zh-data="" id="30" uri="">
+      <neighbors>
+        <neighbor dest="153" relationship="#laboratory" weight="0"/>
+        <neighbor dest="154" relationship="#laboratory" weight="0"/>
+        <neighbor dest="155" relationship="#laboratory" weight="0"/>
+        <neighbor dest="156" relationship="#laboratory" weight="0"/>
+        <neighbor dest="30" relationship="#laboratory" weight="0"/>
+        <neighbor dest="157" relationship="#Science" weight="0"/>
+        <neighbor dest="158" relationship="#Science" weight="0"/>
+        <neighbor dest="159" relationship="#Science" weight="0"/>
+        <neighbor dest="160" relationship="#Science" weight="0"/>
+        <neighbor dest="161" relationship="#Science" weight="0"/>
+      </neighbors>
+      <speak Tweets="Clinical openings!&#10;&#10;Apply: https://t.co/yi54urjzSx&#10;&#10;#laboratory #Science #job #JobSearchTips #careeradvice #jobs… https://t.co/NguvsW8mW6"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/iKT2PX33eP" zh-data="" id="31" uri="">
+      <neighbors>
+        <neighbor dest="141" relationship="#Careers" weight="0"/>
+        <neighbor dest="142" relationship="#Careers" weight="0"/>
+        <neighbor dest="143" relationship="#Careers" weight="0"/>
+        <neighbor dest="144" relationship="#Careers" weight="0"/>
+        <neighbor dest="145" relationship="#Careers" weight="0"/>
+        <neighbor dest="27" relationship="#careeradvice" weight="0"/>
+        <neighbor dest="28" relationship="#careeradvice" weight="0"/>
+        <neighbor dest="29" relationship="#careeradvice" weight="0"/>
+        <neighbor dest="30" relationship="#careeradvice" weight="0"/>
+        <neighbor dest="31" relationship="#careeradvice" weight="0"/>
+      </neighbors>
+      <speak Tweets="RT @CsharpCorner: Controlling complexity is the essence of computer programming. https://t.co/iKT2PX33eP #Careers #careeradvice https://t.c…"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/QEDNUqWkCW" zh-data="" id="32" uri="">
+      <neighbors>
+        <neighbor dest="126" relationship="#kids" weight="0"/>
+        <neighbor dest="17" relationship="#kids" weight="0"/>
+        <neighbor dest="127" relationship="#kids" weight="0"/>
+        <neighbor dest="128" relationship="#kids" weight="0"/>
+        <neighbor dest="129" relationship="#kids" weight="0"/>
+        <neighbor dest="130" relationship="#Etsy" weight="0"/>
+        <neighbor dest="131" relationship="#Etsy" weight="0"/>
+        <neighbor dest="132" relationship="#Etsy" weight="0"/>
+        <neighbor dest="133" relationship="#Etsy" weight="0"/>
+        <neighbor dest="134" relationship="#Etsy" weight="0"/>
+      </neighbors>
+      <speak Tweets="#Owl lacing card https://t.co/QEDNUqWkCW #Etsy #education #Learning #games #kids #lacinggame #gifts #toys #kids #epiconetsy"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Cuu4JBRR6L" zh-data="" id="33" uri="">
+      <neighbors>
+        <neighbor dest="33" relationship="#flipboard" weight="0"/>
+        <neighbor dest="34" relationship="#flipboard" weight="0"/>
+        <neighbor dest="35" relationship="#flipboard" weight="0"/>
+        <neighbor dest="3" relationship="#flipboard" weight="0"/>
+        <neighbor dest="36" relationship="#flipboard" weight="0"/>
+        <neighbor dest="98" relationship="#travel" weight="0"/>
+        <neighbor dest="99" relationship="#travel" weight="0"/>
+        <neighbor dest="100" relationship="#travel" weight="0"/>
+        <neighbor dest="101" relationship="#travel" weight="0"/>
+        <neighbor dest="102" relationship="#travel" weight="0"/>
+      </neighbors>
+      <speak Tweets="Please follow us on Flipboard at https://t.co/Cuu4JBRR6L #flipboard #travel #magazine https://t.co/RattVUWFug"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/zBzdnwtujl" zh-data="" id="34" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/evgCsJdHrG" zh-data="" id="35" uri="">
+      <neighbors>
+        <neighbor dest="232" relationship="#socialselling" weight="0"/>
+        <neighbor dest="233" relationship="#socialselling" weight="0"/>
+        <neighbor dest="234" relationship="#socialselling" weight="0"/>
+        <neighbor dest="235" relationship="#socialselling" weight="0"/>
+        <neighbor dest="236" relationship="#socialselling" weight="0"/>
+        <neighbor dest="33" relationship="#Flipboard" weight="0"/>
+        <neighbor dest="34" relationship="#Flipboard" weight="0"/>
+        <neighbor dest="35" relationship="#Flipboard" weight="0"/>
+        <neighbor dest="3" relationship="#Flipboard" weight="0"/>
+        <neighbor dest="36" relationship="#Flipboard" weight="0"/>
+      </neighbors>
+      <speak Tweets="FlipMarketer Spotlight: Social Selling Expert Tim Hughes https://t.co/evgCsJdHrG #socialselling #Flipboard #sales… https://t.co/H8UaykWAu1"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/cLuDZjqThr" zh-data="" id="36" uri="">
+      <neighbors>
+        <neighbor dest="33" relationship="#Flipboard" weight="0"/>
+        <neighbor dest="34" relationship="#Flipboard" weight="0"/>
+        <neighbor dest="35" relationship="#Flipboard" weight="0"/>
+        <neighbor dest="3" relationship="#Flipboard" weight="0"/>
+        <neighbor dest="36" relationship="#Flipboard" weight="0"/>
+      </neighbors>
+      <speak Tweets=""/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/zCvHv814bg" zh-data="" id="37" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/3PzHXgkd8e" zh-data="" id="38" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/PkuJRGInWJ" zh-data="" id="39" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/DzAVUXNMqf" zh-data="" id="40" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/7POv2NLpU6" zh-data="" id="41" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/UVHNa3HsNg" zh-data="" id="42" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/onYyVyyG6l" zh-data="" id="43" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/k599QLnhN5" zh-data="" id="44" uri="">
+      <neighbors>
+        <neighbor dest="44" relationship="#strawberry" weight="0"/>
+        <neighbor dest="45" relationship="#strawberry" weight="0"/>
+        <neighbor dest="7" relationship="#strawberry" weight="0"/>
+        <neighbor dest="46" relationship="#strawberry" weight="0"/>
+        <neighbor dest="47" relationship="#strawberry" weight="0"/>
+        <neighbor dest="191" relationship="#party" weight="0"/>
+        <neighbor dest="198" relationship="#party" weight="0"/>
+        <neighbor dest="199" relationship="#party" weight="0"/>
+        <neighbor dest="200" relationship="#party" weight="0"/>
+        <neighbor dest="133" relationship="#party" weight="0"/>
+      </neighbors>
+      <speak Tweets="DIY Strawberry Straws...&#10;https://t.co/k599QLnhN5&#10;#strawberry #party #kids #DIY https://t.co/05FIuJAcUe"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/H0hpSPuuRZ" zh-data="" id="45" uri="">
+      <neighbors>
+        <neighbor dest="166" relationship="#RealFood" weight="0"/>
+        <neighbor dest="167" relationship="#RealFood" weight="0"/>
+        <neighbor dest="168" relationship="#RealFood" weight="0"/>
+        <neighbor dest="169" relationship="#RealFood" weight="0"/>
+        <neighbor dest="170" relationship="#RealFood" weight="0"/>
+        <neighbor dest="44" relationship="#Strawberry" weight="0"/>
+        <neighbor dest="45" relationship="#Strawberry" weight="0"/>
+        <neighbor dest="7" relationship="#Strawberry" weight="0"/>
+        <neighbor dest="46" relationship="#Strawberry" weight="0"/>
+        <neighbor dest="47" relationship="#Strawberry" weight="0"/>
+      </neighbors>
+      <speak Tweets="#RealFood #Strawberry #IceCream - from @Recipes2Nourish Recipes to Nourish https://t.co/H0hpSPuuRZ https://t.co/ZXhffXoNTq"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/LwRyQ0oRGJ" zh-data="" id="46" uri="">
+      <neighbors>
+        <neighbor dest="237" relationship="#cheesecake" weight="0"/>
+        <neighbor dest="238" relationship="#cheesecake" weight="0"/>
+        <neighbor dest="239" relationship="#cheesecake" weight="0"/>
+        <neighbor dest="240" relationship="#cheesecake" weight="0"/>
+        <neighbor dest="46" relationship="#cheesecake" weight="0"/>
+        <neighbor dest="44" relationship="#strawberry" weight="0"/>
+        <neighbor dest="45" relationship="#strawberry" weight="0"/>
+        <neighbor dest="7" relationship="#strawberry" weight="0"/>
+        <neighbor dest="46" relationship="#strawberry" weight="0"/>
+        <neighbor dest="47" relationship="#strawberry" weight="0"/>
+      </neighbors>
+      <speak Tweets="Recipe - White Chocolate &amp;amp; Strawberry Cheesecake Cups https://t.co/LwRyQ0oRGJ #cheesecake #strawberry #recipe https://t.co/LN5RUctNze"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/uqTOewO6U8" zh-data="" id="47" uri="">
+      <neighbors>
+        <neighbor dest="44" relationship="#strawberry" weight="0"/>
+        <neighbor dest="45" relationship="#strawberry" weight="0"/>
+        <neighbor dest="7" relationship="#strawberry" weight="0"/>
+        <neighbor dest="46" relationship="#strawberry" weight="0"/>
+        <neighbor dest="47" relationship="#strawberry" weight="0"/>
+      </neighbors>
+      <speak Tweets="Strawberry garden! Storybook perfect. #strawberry https://t.co/uqTOewO6U8"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/1jVfviWV2x" zh-data="" id="48" uri="">
+      <neighbors>
+        <neighbor dest="103" relationship="#app" weight="0"/>
+        <neighbor dest="104" relationship="#app" weight="0"/>
+        <neighbor dest="105" relationship="#app" weight="0"/>
+        <neighbor dest="106" relationship="#app" weight="0"/>
+        <neighbor dest="107" relationship="#app" weight="0"/>
+        <neighbor dest="48" relationship="#applewatch" weight="0"/>
+        <neighbor dest="49" relationship="#applewatch" weight="0"/>
+        <neighbor dest="11" relationship="#applewatch" weight="0"/>
+        <neighbor dest="50" relationship="#applewatch" weight="0"/>
+        <neighbor dest="51" relationship="#applewatch" weight="0"/>
+      </neighbors>
+      <speak Tweets="iMagic Trick #app for the Apple Watch - Video #applewatch #magic https://t.co/1jVfviWV2x #Watch"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/7GN181ATX5" zh-data="" id="49" uri="">
+      <neighbors>
+        <neighbor dest="108" relationship="#iPhone" weight="0"/>
+        <neighbor dest="109" relationship="#iPhone" weight="0"/>
+        <neighbor dest="110" relationship="#iPhone" weight="0"/>
+        <neighbor dest="111" relationship="#iPhone" weight="0"/>
+        <neighbor dest="112" relationship="#iPhone" weight="0"/>
+        <neighbor dest="48" relationship="#AppleWatch" weight="0"/>
+        <neighbor dest="49" relationship="#AppleWatch" weight="0"/>
+        <neighbor dest="11" relationship="#AppleWatch" weight="0"/>
+        <neighbor dest="50" relationship="#AppleWatch" weight="0"/>
+        <neighbor dest="51" relationship="#AppleWatch" weight="0"/>
+      </neighbors>
+      <speak Tweets="Latest video review is now live on @YouTube https://t.co/7GN181ATX5 Bamboo #iPhone #AppleWatch dock by Amir. Enjoy! #London #UK #Review"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/HPLzIKEoII" zh-data="" id="50" uri="">
+      <neighbors>
+        <neighbor dest="48" relationship="#applewatch" weight="0"/>
+        <neighbor dest="49" relationship="#applewatch" weight="0"/>
+        <neighbor dest="11" relationship="#applewatch" weight="0"/>
+        <neighbor dest="50" relationship="#applewatch" weight="0"/>
+        <neighbor dest="51" relationship="#applewatch" weight="0"/>
+        <neighbor dest="7" relationship="#apple" weight="0"/>
+        <neighbor dest="8" relationship="#apple" weight="0"/>
+        <neighbor dest="9" relationship="#apple" weight="0"/>
+        <neighbor dest="10" relationship="#apple" weight="0"/>
+        <neighbor dest="11" relationship="#apple" weight="0"/>
+      </neighbors>
+      <speak Tweets="Browse &amp;amp; make beautiful Apple Watch faces https://t.co/HPLzIKEoII #applewatch #apple Give your Watch a facelift :) https://t.co/sojAkEJIn3"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/DbBQ5uQRBy" zh-data="" id="51" uri="">
+      <neighbors>
+        <neighbor dest="7" relationship="#apple" weight="0"/>
+        <neighbor dest="8" relationship="#apple" weight="0"/>
+        <neighbor dest="9" relationship="#apple" weight="0"/>
+        <neighbor dest="10" relationship="#apple" weight="0"/>
+        <neighbor dest="11" relationship="#apple" weight="0"/>
+        <neighbor dest="201" relationship="#giveaway" weight="0"/>
+        <neighbor dest="202" relationship="#giveaway" weight="0"/>
+        <neighbor dest="203" relationship="#giveaway" weight="0"/>
+        <neighbor dest="204" relationship="#giveaway" weight="0"/>
+        <neighbor dest="205" relationship="#giveaway" weight="0"/>
+      </neighbors>
+      <speak Tweets=""/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/2bUox3Hfhm" zh-data="" id="52" uri="">
+      <neighbors>
+        <neighbor dest="52" relationship="#DevWorld" weight="0"/>
+        <neighbor dest="8" relationship="#DevWorld" weight="0"/>
+        <neighbor dest="53" relationship="#DevWorld" weight="0"/>
+        <neighbor dest="54" relationship="#DevWorld" weight="0"/>
+        <neighbor dest="55" relationship="#DevWorld" weight="0"/>
+        <neighbor dest="56" relationship="#iOSdev" weight="0"/>
+        <neighbor dest="8" relationship="#iOSdev" weight="0"/>
+        <neighbor dest="57" relationship="#iOSdev" weight="0"/>
+        <neighbor dest="58" relationship="#iOSdev" weight="0"/>
+        <neighbor dest="59" relationship="#iOSdev" weight="0"/>
+      </neighbors>
+      <speak Tweets="Paris BA: Just quietly… the #DevWorld CFP is open… https://t.co/UNzSp27jP1; #iOSdev #Apple #swiftlang https://t.co/2bUox3Hfhm"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/x5chmYfZYk" zh-data="" id="53" uri="">
+      <neighbors>
+        <neighbor dest="52" relationship="#DevWorld" weight="0"/>
+        <neighbor dest="8" relationship="#DevWorld" weight="0"/>
+        <neighbor dest="53" relationship="#DevWorld" weight="0"/>
+        <neighbor dest="54" relationship="#DevWorld" weight="0"/>
+        <neighbor dest="55" relationship="#DevWorld" weight="0"/>
+      </neighbors>
+      <speak Tweets="RT @AshtonDev: Advanced Xcode: Configurations, Targets, and Schemes&#10;Talk by me at #DevWorld 2016&#10;https://t.co/x5chmYfZYk"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/3aEkSoVpKV" zh-data="" id="54" uri="">
+      <neighbors/>
+      <speak Tweets=""/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/UNzSp27jP1" zh-data="" id="55" uri="">
+      <neighbors>
+        <neighbor dest="52" relationship="#DevWorld" weight="0"/>
+        <neighbor dest="8" relationship="#DevWorld" weight="0"/>
+        <neighbor dest="53" relationship="#DevWorld" weight="0"/>
+        <neighbor dest="54" relationship="#DevWorld" weight="0"/>
+        <neighbor dest="55" relationship="#DevWorld" weight="0"/>
+        <neighbor dest="56" relationship="#iOSdev" weight="0"/>
+        <neighbor dest="57" relationship="#iOSdev" weight="0"/>
+        <neighbor dest="58" relationship="#iOSdev" weight="0"/>
+        <neighbor dest="59" relationship="#iOSdev" weight="0"/>
+        <neighbor dest="146" relationship="#iOSdev" weight="0"/>
+      </neighbors>
+      <speak Tweets="Paris BA: Just quietly… the #DevWorld CFP is open… https://t.co/UNzSp27jP1; #iOSdev #Apple #swiftlang https://t.co/2bUox3Hfhm"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/YAmaAuWAfM" zh-data="" id="56" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/3F5h57acmt" zh-data="" id="57" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/3CLdVugQxW" zh-data="" id="58" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/0gO3uf14dL" zh-data="" id="59" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/9Gh3Hxd0IA" zh-data="" id="60" uri="">
+      <neighbors>
+        <neighbor dest="60" relationship="#Sleep" weight="0"/>
+        <neighbor dest="13" relationship="#Sleep" weight="0"/>
+        <neighbor dest="14" relationship="#Sleep" weight="0"/>
+        <neighbor dest="15" relationship="#Sleep" weight="0"/>
+        <neighbor dest="16" relationship="#Sleep" weight="0"/>
+      </neighbors>
+      <speak Tweets="5 Reasons #Sleep is Vital For Healthy Recovery https://t.co/9Gh3Hxd0IA https://t.co/4yvAC1BWli"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/kRNs28ZHBJ" zh-data="" id="61" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/vl40JLN9q6" zh-data="" id="62" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/nWDW95Kz5N" zh-data="" id="63" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/FDCKNVhd5W" zh-data="" id="64" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/vCXizsMQ4Z" zh-data="" id="65" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/YrCD2FdfIr" zh-data="" id="66" uri="">
+      <neighbors>
+        <neighbor dest="66" relationship="#CharliePowell" weight="0"/>
+        <neighbor dest="13" relationship="#CharliePowell" weight="0"/>
+        <neighbor dest="60" relationship="#Sleep" weight="0"/>
+        <neighbor dest="13" relationship="#Sleep" weight="0"/>
+        <neighbor dest="14" relationship="#Sleep" weight="0"/>
+        <neighbor dest="15" relationship="#Sleep" weight="0"/>
+        <neighbor dest="16" relationship="#Sleep" weight="0"/>
+      </neighbors>
+      <speak Tweets="Sleep, and the importance of understanding Sleep Apnea: with #CharliePowell https://t.co/YrCD2FdfIr #Sleep #Apnea #health"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/oX7X0XKbYn" zh-data="" id="67" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/zOZLErzgp9" zh-data="" id="68" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/B2zSZagzYe" zh-data="" id="69" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/fRQATQmuij" zh-data="" id="70" uri="">
+      <neighbors>
+        <neighbor dest="192" relationship="#RT" weight="0"/>
+        <neighbor dest="220" relationship="#RT" weight="0"/>
+        <neighbor dest="221" relationship="#RT" weight="0"/>
+        <neighbor dest="222" relationship="#RT" weight="0"/>
+        <neighbor dest="20" relationship="#RT" weight="0"/>
+        <neighbor dest="223" relationship="#fixit" weight="0"/>
+        <neighbor dest="224" relationship="#fixit" weight="0"/>
+        <neighbor dest="225" relationship="#fixit" weight="0"/>
+        <neighbor dest="70" relationship="#fixit" weight="0"/>
+        <neighbor dest="226" relationship="#fixit" weight="0"/>
+      </neighbors>
+      <speak Tweets="We Handle All Your #Roofing Needs&#10;https://t.co/fRQATQmuij&#10;#Local Experts - 980-598-8100&#10;#RT #home #fixit #roof https://t.co/KRSv6DpbXb"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/s9KMtBJ3g2" zh-data="" id="71" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/zmifur62nL" zh-data="" id="72" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/RJAWbR7EKc" zh-data="" id="73" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/RXd1YVfKpm" zh-data="" id="74" uri="">
+      <neighbors>
+        <neighbor dest="86" relationship="#Data" weight="0"/>
+        <neighbor dest="87" relationship="#Data" weight="0"/>
+        <neighbor dest="88" relationship="#Data" weight="0"/>
+        <neighbor dest="89" relationship="#Data" weight="0"/>
+        <neighbor dest="90" relationship="#Data" weight="0"/>
+        <neighbor dest="91" relationship="#AI" weight="0"/>
+        <neighbor dest="92" relationship="#AI" weight="0"/>
+        <neighbor dest="93" relationship="#AI" weight="0"/>
+        <neighbor dest="74" relationship="#AI" weight="0"/>
+        <neighbor dest="75" relationship="#AI" weight="0"/>
+      </neighbors>
+      <speak Tweets="Connected Car #Data Is the New Oil https://t.co/RXd1YVfKpm #AI #IoT #MachineLearning #IIoT #bigdata… https://t.co/1UkdJnm4B6"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/c8Hspp1dmm" zh-data="" id="75" uri="">
+      <neighbors>
+        <neighbor dest="218" relationship="#ML" weight="0"/>
+        <neighbor dest="219" relationship="#ML" weight="0"/>
+        <neighbor dest="75" relationship="#ML" weight="0"/>
+        <neighbor dest="76" relationship="#ML" weight="0"/>
+        <neighbor dest="207" relationship="#ML" weight="0"/>
+        <neighbor dest="72" relationship="#machinelearning" weight="0"/>
+        <neighbor dest="206" relationship="#machinelearning" weight="0"/>
+        <neighbor dest="74" relationship="#machinelearning" weight="0"/>
+        <neighbor dest="75" relationship="#machinelearning" weight="0"/>
+        <neighbor dest="147" relationship="#machinelearning" weight="0"/>
+      </neighbors>
+      <speak Tweets="#machinelearning Paving The Way For Enhanced #Marketing&#10;#AI #ML #bigdata #ML #martech #tech https://t.co/c8Hspp1dmm https://t.co/BvuHraiKPj"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/S7zyluZWY9" zh-data="" id="76" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/79uQ2dPWp8" zh-data="" id="77" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/IeO1ZhlDJL" zh-data="" id="78" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/TfvTJRgYxB" zh-data="" id="79" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/QkfcbiLywA" zh-data="" id="80" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/82OfR8BUO4" zh-data="" id="81" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/YmS92iZfJv" zh-data="" id="82" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Fdg2LYz9Cv" zh-data="" id="83" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Y25dm4rWoM" zh-data="" id="84" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/g0gzNqKKSn" zh-data="" id="85" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/qikwz6F0tF" zh-data="" id="86" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/8tkUOpr7CB" zh-data="" id="87" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/vwVEUdQUeJ" zh-data="" id="88" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/NLeH5oixkj" zh-data="" id="89" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/0GBxZcpVT2" zh-data="" id="90" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/qisadwAuBu" zh-data="" id="91" uri="">
+      <neighbors>
+        <neighbor dest="72" relationship="#MachineLearning" weight="0"/>
+        <neighbor dest="91" relationship="#MachineLearning" weight="0"/>
+        <neighbor dest="74" relationship="#MachineLearning" weight="0"/>
+        <neighbor dest="75" relationship="#MachineLearning" weight="0"/>
+        <neighbor dest="147" relationship="#MachineLearning" weight="0"/>
+        <neighbor dest="148" relationship="#Algorithms" weight="0"/>
+        <neighbor dest="149" relationship="#Algorithms" weight="0"/>
+        <neighbor dest="150" relationship="#Algorithms" weight="0"/>
+        <neighbor dest="151" relationship="#Algorithms" weight="0"/>
+        <neighbor dest="152" relationship="#Algorithms" weight="0"/>
+      </neighbors>
+      <speak Tweets="👍A Beginner’s Guide to #MachineLearning #Algorithms. &#10;#ML #AI #IoT #defstar5... https://t.co/qisadwAuBu by… https://t.co/UUbgskjzPV"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/rNLjbvTi23" zh-data="" id="92" uri="">
+      <neighbors>
+        <neighbor dest="73" relationship="#AI" weight="0"/>
+        <neighbor dest="206" relationship="#AI" weight="0"/>
+        <neighbor dest="75" relationship="#AI" weight="0"/>
+        <neighbor dest="76" relationship="#AI" weight="0"/>
+        <neighbor dest="207" relationship="#AI" weight="0"/>
+        <neighbor dest="91" relationship="#machinelearning" weight="0"/>
+        <neighbor dest="206" relationship="#machinelearning" weight="0"/>
+        <neighbor dest="74" relationship="#machinelearning" weight="0"/>
+        <neighbor dest="75" relationship="#machinelearning" weight="0"/>
+        <neighbor dest="147" relationship="#machinelearning" weight="0"/>
+      </neighbors>
+      <speak Tweets="How Companies Are Already Using #AI on @harvardbiz https://t.co/rNLjbvTi23 #machinelearning #ArtificialIntelligence https://t.co/HfwEW1PRU9"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/DO6QervyTk" zh-data="" id="93" uri="">
+      <neighbors>
+        <neighbor dest="73" relationship="#AI" weight="0"/>
+        <neighbor dest="206" relationship="#AI" weight="0"/>
+        <neighbor dest="74" relationship="#AI" weight="0"/>
+        <neighbor dest="76" relationship="#AI" weight="0"/>
+        <neighbor dest="207" relationship="#AI" weight="0"/>
+        <neighbor dest="218" relationship="#ML" weight="0"/>
+        <neighbor dest="219" relationship="#ML" weight="0"/>
+        <neighbor dest="75" relationship="#ML" weight="0"/>
+        <neighbor dest="76" relationship="#ML" weight="0"/>
+        <neighbor dest="207" relationship="#ML" weight="0"/>
+      </neighbors>
+      <speak Tweets="#AI to Become Key Competitive Factor by 2020, Says Tata&#10;&#10;#ML #industry40 #IoT&#10;#fintech #insurtech… https://t.co/fgkV1ToLYN"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/KMdXYvAEIB" zh-data="" id="94" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/VSvZ5jstXW" zh-data="" id="95" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/bAToWbjC0g" zh-data="" id="96" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/CNgwGvhAMP" zh-data="" id="97" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/NU7SqvEHdY" zh-data="" id="98" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/azcs5ZVhal" zh-data="" id="99" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/RxwrT5J4yT" zh-data="" id="100" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/D2E6tu27d4" zh-data="" id="101" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/o0rRvvFrZi" zh-data="" id="102" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/oPBhzJHiEA" zh-data="" id="103" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/P0UcpWul9i" zh-data="" id="104" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/vMCnEaXdMv" zh-data="" id="105" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/NrXa2OIzfS" zh-data="" id="106" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/SJcFC068bP" zh-data="" id="107" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/OYlRo1OFl3" zh-data="" id="108" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/V3aZWOAmzK" zh-data="" id="109" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/KgOkwTpdrP" zh-data="" id="110" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/jtJrIrVS2m" zh-data="" id="111" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Zh9exVLYR5" zh-data="" id="112" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ZWtXD9vVLV" zh-data="" id="113" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/9n83NcX4Ha" zh-data="" id="114" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Zx2SGV7leg" zh-data="" id="115" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/83Dnb9DdWp" zh-data="" id="116" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/qAcbjNDwBj" zh-data="" id="117" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/EuuVv5tVav" zh-data="" id="118" uri="">
+      <neighbors>
+        <neighbor dest="68" relationship="#home" weight="0"/>
+        <neighbor dest="119" relationship="#home" weight="0"/>
+        <neighbor dest="69" relationship="#home" weight="0"/>
+        <neighbor dest="70" relationship="#home" weight="0"/>
+        <neighbor dest="120" relationship="#home" weight="0"/>
+        <neighbor dest="121" relationship="#coasters" weight="0"/>
+        <neighbor dest="122" relationship="#coasters" weight="0"/>
+        <neighbor dest="123" relationship="#coasters" weight="0"/>
+        <neighbor dest="124" relationship="#coasters" weight="0"/>
+        <neighbor dest="125" relationship="#coasters" weight="0"/>
+      </neighbors>
+      <speak Tweets="Rainbow colors Peek-A-Boo Cat Butt Coasters https://t.co/EuuVv5tVav #home #decor #coasters #cats #catbutt #handmade… https://t.co/ilV0ozEYUI"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/4PSVefEWaQ" zh-data="" id="119" uri="">
+      <neighbors>
+        <neighbor dest="182" relationship="#RostraverPA" weight="0"/>
+        <neighbor dest="183" relationship="#RostraverPA" weight="0"/>
+        <neighbor dest="184" relationship="#RostraverPA" weight="0"/>
+        <neighbor dest="185" relationship="#RostraverPA" weight="0"/>
+        <neighbor dest="186" relationship="#RostraverPA" weight="0"/>
+        <neighbor dest="187" relationship="#hockeyvilleusa" weight="0"/>
+        <neighbor dest="119" relationship="#hockeyvilleusa" weight="0"/>
+        <neighbor dest="184" relationship="#hockeyvilleusa" weight="0"/>
+        <neighbor dest="188" relationship="#hockeyvilleusa" weight="0"/>
+        <neighbor dest="189" relationship="#hockeyvilleusa" weight="0"/>
+      </neighbors>
+      <speak Tweets="#home&#10;&#10;I just voted for #RostraverPA in the #hockeyvilleusa #contest, you should too! https://t.co/4PSVefEWaQ"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/2qQZTXbVHx" zh-data="" id="120" uri="">
+      <neighbors>
+        <neighbor dest="208" relationship="#interiordesign" weight="0"/>
+        <neighbor dest="209" relationship="#interiordesign" weight="0"/>
+        <neighbor dest="210" relationship="#interiordesign" weight="0"/>
+        <neighbor dest="211" relationship="#interiordesign" weight="0"/>
+        <neighbor dest="212" relationship="#interiordesign" weight="0"/>
+        <neighbor dest="213" relationship="#decoration" weight="0"/>
+        <neighbor dest="214" relationship="#decoration" weight="0"/>
+        <neighbor dest="215" relationship="#decoration" weight="0"/>
+        <neighbor dest="216" relationship="#decoration" weight="0"/>
+        <neighbor dest="217" relationship="#decoration" weight="0"/>
+      </neighbors>
+      <speak Tweets="Coat rack in shop https://t.co/2qQZTXbVHx #interiordesign #decoration #home #Etsy #handmade #etsychaching #gifts… https://t.co/Ga0gF9kRX1"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/271Wq7TWmP" zh-data="" id="121" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/v6HWOqdt5s" zh-data="" id="122" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/5NZMIE5E0e" zh-data="" id="123" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/1Mbf4mR1CH" zh-data="" id="124" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/CLWwb6o9Jp" zh-data="" id="125" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/kTgGpkmORL" zh-data="" id="126" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/lvoSd7V7oq" zh-data="" id="127" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/IeNOep8V8E" zh-data="" id="128" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/K0tlnKovtx" zh-data="" id="129" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Hu09IB2Yak" zh-data="" id="130" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/VOVnrN7JIT" zh-data="" id="131" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/gq9qQS8Xro" zh-data="" id="132" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/BTnqHeqUFL" zh-data="" id="133" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Fw8nWxxguh" zh-data="" id="134" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/lIT9V1Q1NJ" zh-data="" id="135" uri="">
+      <neighbors>
+        <neighbor dest="33" relationship="#Flipboard" weight="0"/>
+        <neighbor dest="34" relationship="#Flipboard" weight="0"/>
+        <neighbor dest="35" relationship="#Flipboard" weight="0"/>
+        <neighbor dest="3" relationship="#Flipboard" weight="0"/>
+        <neighbor dest="36" relationship="#Flipboard" weight="0"/>
+        <neighbor dest="136" relationship="#sales" weight="0"/>
+        <neighbor dest="137" relationship="#sales" weight="0"/>
+        <neighbor dest="138" relationship="#sales" weight="0"/>
+        <neighbor dest="139" relationship="#sales" weight="0"/>
+        <neighbor dest="140" relationship="#sales" weight="0"/>
+      </neighbors>
+      <speak Tweets="FlipMarketer Spotlight: #SocialSelling Expert @Timothy_Hughes https://t.co/lIT9V1Q1NJ  #Flipboard #sales #contentmarketing #SMM"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Ss5MKledAY" zh-data="" id="136" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/A0JOKieQfa" zh-data="" id="137" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/7HTYlt99ei" zh-data="" id="138" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/2F3ZrrPtyz" zh-data="" id="139" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/j0ZhDzyAtd" zh-data="" id="140" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/I7Cv6fYEtn" zh-data="" id="141" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Uxi5EDv7Ki" zh-data="" id="142" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ZWWLZPXJpo" zh-data="" id="143" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/XwKwIloeW4" zh-data="" id="144" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/VEGknaWnJX" zh-data="" id="145" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/04pYu1u3cp" zh-data="" id="146" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/SuKllG9R41" zh-data="" id="147" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/1zsjwYOTvV" zh-data="" id="148" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/iEP8A0Fh0l" zh-data="" id="149" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/0l9CTAJTEI" zh-data="" id="150" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/4O4ousC2RF" zh-data="" id="151" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/RD89VwWHeG" zh-data="" id="152" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/E5CH4FRmpV" zh-data="" id="153" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/knMZmYnOeC" zh-data="" id="154" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ee2KuqX0rx" zh-data="" id="155" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/BzSsRvtZYo" zh-data="" id="156" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/aFF1DpbTAl" zh-data="" id="157" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/BGJBx0jSqi" zh-data="" id="158" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/osGUmmoSE5" zh-data="" id="159" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/SDEPB7aeEg" zh-data="" id="160" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/rz9GQTzPWe" zh-data="" id="161" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/qJNW9NS1zp" zh-data="" id="162" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/hj5Vkphgnd" zh-data="" id="163" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/IdrINxAN3z" zh-data="" id="164" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/0oO16KFghw" zh-data="" id="165" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/0qcw3GvZS1" zh-data="" id="166" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/KSRdUAfxt0" zh-data="" id="167" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ZpRsKfsVKi" zh-data="" id="168" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/YiXJ6KmU3S" zh-data="" id="169" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/CzcobQL5Ky" zh-data="" id="170" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/oHAE4HAMVa" zh-data="" id="171" uri="">
+      <neighbors>
+        <neighbor dest="172" relationship="#Home" weight="0"/>
+        <neighbor dest="68" relationship="#Home" weight="0"/>
+        <neighbor dest="69" relationship="#Home" weight="0"/>
+        <neighbor dest="70" relationship="#Home" weight="0"/>
+        <neighbor dest="173" relationship="#Home" weight="0"/>
+      </neighbors>
+      <speak Tweets="Top 10 New Construction #Home Buying Tips - Guide For Home Buyers https://t.co/oHAE4HAMVa via @KyleHiscockRE… https://t.co/C8axsqcrrx"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/0dalUWWibV" zh-data="" id="172" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/NKbAjDors2" zh-data="" id="173" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/yLKHsVsvqb" zh-data="" id="174" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/PBjSzsc0P1" zh-data="" id="175" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/gvKRNIsjNQ" zh-data="" id="176" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/sdrk4AK79P" zh-data="" id="177" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/uvcewnCgyc" zh-data="" id="178" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/4c9XhajVrB" zh-data="" id="179" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/QJHmsbwYKO" zh-data="" id="180" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/kzc1ib1O97" zh-data="" id="181" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Jqlu6C7y99" zh-data="" id="182" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/108jMUTTen" zh-data="" id="183" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/56PAhpUjE6" zh-data="" id="184" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/SdywsV1zu0" zh-data="" id="185" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/wKy5gZYhll" zh-data="" id="186" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/r2Qfq3evGl" zh-data="" id="187" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/vHGYNdYH7n" zh-data="" id="188" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/bpvzuKaH4E" zh-data="" id="189" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/OEacqzSC2h" zh-data="" id="190" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/FX19v5OGZ5" zh-data="" id="191" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/qGCOTixVl1" zh-data="" id="192" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/OzkhUDDNQP" zh-data="" id="193" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/l4KjHTX39U" zh-data="" id="194" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/rXJl8k8W74" zh-data="" id="195" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/cphG4r9uS0" zh-data="" id="196" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/NjkOFZrz1C" zh-data="" id="197" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/hAOUwNn5Yc" zh-data="" id="198" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/jLPlbBajE0" zh-data="" id="199" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/evYcYU0nvI" zh-data="" id="200" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/sQfkpNAehR" zh-data="" id="201" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ZdAbCTT89W" zh-data="" id="202" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/G8Cxn1hGE6" zh-data="" id="203" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/xY5Hys277Q" zh-data="" id="204" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/4TqwcXrWQx" zh-data="" id="205" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/e7wV4beHTd" zh-data="" id="206" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/W74lD019Xg" zh-data="" id="207" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/RchCzQSk26" zh-data="" id="208" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/wwIw3aRGhL" zh-data="" id="209" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/25JWC2y6iG" zh-data="" id="210" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/slFqyJwIKo" zh-data="" id="211" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/G2oXKHA0P7" zh-data="" id="212" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/NUubqktTdg" zh-data="" id="213" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/1Y984uZX5c" zh-data="" id="214" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/EELbPvHJp3" zh-data="" id="215" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/wjbilYOUIu" zh-data="" id="216" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/X2IxendDos" zh-data="" id="217" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/fr3KKmIUKk" zh-data="" id="218" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/f4I4Qs9LYo" zh-data="" id="219" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/YocdOAnxAi" zh-data="" id="220" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Rf8Ex4wgad" zh-data="" id="221" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/vNcd0zGy2b" zh-data="" id="222" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/fRQATQ4STJ" zh-data="" id="223" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/HfJJR4F7ws" zh-data="" id="224" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/IdTbVkj1Uh" zh-data="" id="225" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/jj38pEEt8m" zh-data="" id="226" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/exSas8187O" zh-data="" id="227" uri="">
+      <neighbors>
+        <neighbor dest="17" relationship="#Education" weight="0"/>
+        <neighbor dest="18" relationship="#Education" weight="0"/>
+        <neighbor dest="19" relationship="#Education" weight="0"/>
+        <neighbor dest="20" relationship="#Education" weight="0"/>
+        <neighbor dest="21" relationship="#Education" weight="0"/>
+        <neighbor dest="228" relationship="#Mac" weight="0"/>
+        <neighbor dest="229" relationship="#Mac" weight="0"/>
+        <neighbor dest="230" relationship="#Mac" weight="0"/>
+        <neighbor dest="231" relationship="#Mac" weight="0"/>
+        <neighbor dest="227" relationship="#Mac" weight="0"/>
+      </neighbors>
+      <speak Tweets="Master Math Word Problems #Education | #Mac App |471636308| ***... https://t.co/exSas8187O"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/m46Of8tc1x" zh-data="" id="228" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/bfFDDPVVwc" zh-data="" id="229" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/aQVSAqBYXZ" zh-data="" id="230" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ilVoIr7Dz7" zh-data="" id="231" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/BijTLjAHFH" zh-data="" id="232" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/0UaMF1u86R" zh-data="" id="233" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/VQrFERvyi8" zh-data="" id="234" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/7xDNioFfvp" zh-data="" id="235" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/9K3C21quOP" zh-data="" id="236" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/zrtygwPiDx" zh-data="" id="237" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/I9nbpxUOzi" zh-data="" id="238" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/z5AjUN5QBT" zh-data="" id="239" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/YRwRfbco6y" zh-data="" id="240" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+  </Features>
+</AIMind>

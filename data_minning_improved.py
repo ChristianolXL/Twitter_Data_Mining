@@ -1,5 +1,6 @@
 #Tianxin Zhou and Weike Dai
-#Last edited 04/06/2017
+#Last updated 04/26/2017
+#This programing is going to use one url as the mother node to find other urls that relates to it.
 
 from collections import defaultdict
 import json
@@ -8,13 +9,14 @@ import time
 import json
 import tweepy
 import numpy as np
+
 #Adding your api key and secret here
-api_key = '2hNqzcWDgUdZy4xBqhB5QZOW1'
-api_secret = '7h83YOhKAhBSZDguPW1KLpcuzhCaE5q09qcXruweoKjYA6Qhtd'
+api_key = 'Z7XrZPn7hJxclnfcdkJY5itbJ'
+api_secret = '4SMhwdNNMupw6QisSVPHnHwbTUR66iqYANaTuCkDOfx15KSggC'
 
 #Adding your api token and secret here.
-access_token = '834824567864582144-j64sQIlJPeVxRbHn7JRpuCFqyfGFiHO'
-access_token_secret = 'Y1udhZoHNN7sKdkov221VoTDWieFpQr3VAgjFQQoe0gCF'
+access_token = '2745445122-tCYm5SOst4Xr72xDC2nyuswytF0o8cLWTWAZMuD'
+access_token_secret = 'RkKMWZ1psNYzQE4QdvjwxXWbach8QG7LIxJegjw8Oiyjh'
 
 #Connecting twitter API
 auth = tweepy.OAuthHandler(api_key, api_secret)
@@ -27,7 +29,7 @@ api = tweepy.API(auth,wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
 speakmap={}
 
 #Creat the file to store time and frequency stats
-f = open("Time_frequency","w")
+f = open("Frequency_table","w")
 
 #Function to catch urls from database.
 def catch_url(input):
@@ -59,6 +61,7 @@ def catch_hashtags(input):
                                q=input,
                                rpp=100, count=100, result_type="recent", include_entities=True, lang="en").items(1000):
         temp = tweet.entities.get("hashtags")
+
         #Find the most popular text
         if(tweet.retweet_count > rtcount):
             maxtweet = tweet.text
@@ -66,7 +69,9 @@ def catch_hashtags(input):
         if temp is not None:
             for item in temp:
                 if item is not None:
-                    frequency_hash[item.get('text')] += 1
+
+                    #Add the hashtag into frequency dict and change the hashtag to lowercase.
+                    frequency_hash[item.get('text').lower()] += 1
     print("The frequency table: ",file=f)
     speakmap[input] = maxtweet
 
@@ -85,10 +90,14 @@ hashtag=catch_hashtags(a)
 count = 1
 next_url = set()
 next_url2 = set()
+
 #The limitation is 150 requests per 15min.
+#The first loop to get hashtags from the mother node.
 for x in range(len(hashtag)):
     if hashtag[x][0] not in map[a] and x<(0.1*len(hashtag)):
         map[a]["#"+hashtag[x][0]]=set()
+
+#The First loop to get the urls by hashtags of mother node.
 for key in map[a].keys():
     url=catch_url(key)
     count = + 1
@@ -97,6 +106,7 @@ for key in map[a].keys():
             map[url[i][0]]={}
             map[a][key].add(url[i][0])
 
+#The second loop to get hashtags from child nodes.
 for key in map.keys():
     if key not in used_url:
         hashtag=catch_hashtags(key)
@@ -105,6 +115,8 @@ for key in map.keys():
             if hashtag[j][0] not in map[key] and j < (0.1*len(hashtag)):
                 map[key]["#"+hashtag[j][0]]=set()
 
+
+#The second loop to get urls by hashtags of child nodes.
 for key_url in map.keys():
     if key_url not in used_url:
         for key_hashtag in map[key_url].keys():
@@ -115,10 +127,12 @@ for key_url in map.keys():
                     map[key_url][key_hashtag].add(url[i][0])
                     next_url.add(url[i][0])
 
+#Add url to the dict.
 for url in next_url:
     if url not in map:
         map[url] = {}
 
+#Find the hashtags of new urls.
 for key in next_url:
     hashtag = catch_hashtags(key)
     count = + 1
@@ -126,6 +140,7 @@ for key in next_url:
         if hashtag[j][0] not in map[key] and j < 2:
             map[key]["#"+hashtag[j][0]] = set()
 
+#Find the urls by the new hashtags.
 for key_url in next_url:
     for key_hashtag in map[key_url].keys():
         url = catch_url(key_hashtag)
@@ -136,7 +151,10 @@ for key_url in next_url:
 
 
 #save
+#map stores the dict of {url, {hashtag, (urls)}}
 np.save('my_file.npy', map)
+
+#speakmap stores the dict of {url, content}
 np.save('speak_file.npy', speakmap)
 print (count)
 f.close()

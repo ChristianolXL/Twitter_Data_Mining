@@ -1,0 +1,2891 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<AIMind>
+  <Root id="0"/>
+  <Features>
+    <Feature data="http://www.independent.co.uk/news/science/nasa-announcement-today-alien-life-exist-saturn-enceladus-cassini-hydrogen-plume-hydrothermal-a7681821.html" zh-data="" id="1" uri="">
+      <neighbors>
+        <neighbor dest="2" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="3" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="4" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="5" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="6" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="7" relationship="#Saturn" weight="0"/>
+        <neighbor dest="8" relationship="#Saturn" weight="0"/>
+        <neighbor dest="9" relationship="#Saturn" weight="0"/>
+        <neighbor dest="10" relationship="#Saturn" weight="0"/>
+        <neighbor dest="11" relationship="#Saturn" weight="0"/>
+        <neighbor dest="12" relationship="#NASA" weight="0"/>
+        <neighbor dest="13" relationship="#NASA" weight="0"/>
+        <neighbor dest="14" relationship="#NASA" weight="0"/>
+        <neighbor dest="15" relationship="#NASA" weight="0"/>
+        <neighbor dest="16" relationship="#NASA" weight="0"/>
+        <neighbor dest="17" relationship="#alien" weight="0"/>
+        <neighbor dest="18" relationship="#alien" weight="0"/>
+        <neighbor dest="19" relationship="#alien" weight="0"/>
+        <neighbor dest="20" relationship="#alien" weight="0"/>
+        <neighbor dest="21" relationship="#alien" weight="0"/>
+        <neighbor dest="22" relationship="#life" weight="0"/>
+        <neighbor dest="23" relationship="#life" weight="0"/>
+        <neighbor dest="24" relationship="#life" weight="0"/>
+        <neighbor dest="25" relationship="#life" weight="0"/>
+        <neighbor dest="26" relationship="#life" weight="0"/>
+        <neighbor dest="27" relationship="#Science" weight="0"/>
+        <neighbor dest="28" relationship="#Science" weight="0"/>
+        <neighbor dest="29" relationship="#Science" weight="0"/>
+        <neighbor dest="30" relationship="#Science" weight="0"/>
+        <neighbor dest="31" relationship="#Science" weight="0"/>
+      </neighbors>
+      <speak Tweets="RT @DRUDGE_REPORT: NASA: There may be alien life in our solar system... https://t.co/rxLrDtuOra"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/jQGk0tCLrQ" zh-data="" id="2" uri="">
+      <neighbors>
+        <neighbor dest="2" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="3" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="4" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="5" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="6" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="37" relationship="#spaceexploration" weight="0"/>
+        <neighbor dest="2" relationship="#spaceexploration" weight="0"/>
+        <neighbor dest="38" relationship="#spaceexploration" weight="0"/>
+        <neighbor dest="39" relationship="#spaceexploration" weight="0"/>
+        <neighbor dest="40" relationship="#spaceexploration" weight="0"/>
+      </neighbors>
+      <speak Tweets="Alien life: '#Enceladus is not the only body that may have conditions for life' https://t.co/jQGk0tCLrQ… https://t.co/jA4Bfubvyz"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ry2MqPSKMz" zh-data="" id="3" uri="">
+      <neighbors>
+        <neighbor dest="7" relationship="#Saturn" weight="0"/>
+        <neighbor dest="8" relationship="#Saturn" weight="0"/>
+        <neighbor dest="9" relationship="#Saturn" weight="0"/>
+        <neighbor dest="10" relationship="#Saturn" weight="0"/>
+        <neighbor dest="11" relationship="#Saturn" weight="0"/>
+        <neighbor dest="2" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="3" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="4" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="5" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="6" relationship="#Enceladus" weight="0"/>
+      </neighbors>
+      <speak Tweets="ICYMI, and whoa! #Saturn moon has all the ingredients to support life https://t.co/ry2MqPSKMz #Enceladus https://t.co/qmv5bACwaw"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/l2KX99m6vW" zh-data="" id="4" uri="">
+      <neighbors>
+        <neighbor dest="2" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="3" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="4" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="5" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="6" relationship="#Enceladus" weight="0"/>
+      </neighbors>
+      <speak Tweets="Scientists discover evidence for a habitable region within Saturn's moon #Enceladus https://t.co/l2KX99m6vW @swri"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/MNsQGXBjMJ" zh-data="" id="5" uri="">
+      <neighbors>
+        <neighbor dest="2" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="3" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="4" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="5" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="6" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="41" relationship="#space" weight="0"/>
+        <neighbor dest="42" relationship="#space" weight="0"/>
+        <neighbor dest="43" relationship="#space" weight="0"/>
+        <neighbor dest="44" relationship="#space" weight="0"/>
+        <neighbor dest="45" relationship="#space" weight="0"/>
+      </neighbors>
+      <speak Tweets="How Would NASA Search for Extraterrestrial Life on #Enceladus? #space https://t.co/MNsQGXBjMJ"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/0caORCOG51" zh-data="" id="6" uri="">
+      <neighbors>
+        <neighbor dest="32" relationship="#OceanWorlds" weight="0"/>
+        <neighbor dest="33" relationship="#OceanWorlds" weight="0"/>
+        <neighbor dest="34" relationship="#OceanWorlds" weight="0"/>
+        <neighbor dest="35" relationship="#OceanWorlds" weight="0"/>
+        <neighbor dest="36" relationship="#OceanWorlds" weight="0"/>
+        <neighbor dest="2" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="3" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="4" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="5" relationship="#Enceladus" weight="0"/>
+        <neighbor dest="6" relationship="#Enceladus" weight="0"/>
+      </neighbors>
+      <speak Tweets="RT @Telegraph: #BREAKING: @NASA announces alien life could be thriving on Saturn’s moon #Enceladus https://t.co/0caORCOG51 #OceanWorlds htt…"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/91dPOZEoUw" zh-data="" id="7" uri="">
+      <neighbors>
+        <neighbor dest="56" relationship="#Saturn" weight="0"/>
+        <neighbor dest="8" relationship="#Saturn" weight="0"/>
+        <neighbor dest="9" relationship="#Saturn" weight="0"/>
+        <neighbor dest="10" relationship="#Saturn" weight="0"/>
+        <neighbor dest="11" relationship="#Saturn" weight="0"/>
+      </neighbors>
+      <speak Tweets="RT @CaliaDomenico: A wonderful new shot of Saturn's Rings ...  images by Cassini on April 5,2017 &#10;https://t.co/91dPOZEoUw https://t.co/EqnY…"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/FnOQy6BVDj" zh-data="" id="8" uri="">
+      <neighbors>
+        <neighbor dest="7" relationship="#Saturn" weight="0"/>
+        <neighbor dest="8" relationship="#Saturn" weight="0"/>
+        <neighbor dest="9" relationship="#Saturn" weight="0"/>
+        <neighbor dest="46" relationship="#Saturn" weight="0"/>
+        <neighbor dest="10" relationship="#Saturn" weight="0"/>
+        <neighbor dest="47" relationship="#Jupiter" weight="0"/>
+        <neighbor dest="48" relationship="#Jupiter" weight="0"/>
+        <neighbor dest="49" relationship="#Jupiter" weight="0"/>
+        <neighbor dest="50" relationship="#Jupiter" weight="0"/>
+        <neighbor dest="51" relationship="#Jupiter" weight="0"/>
+      </neighbors>
+      <speak Tweets="Do #Saturn and #Jupiter's moons have environments that foster life? @NASA thinks so: https://t.co/FnOQy6BVDj via @engadget"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/nPTJyTt6y3" zh-data="" id="9" uri="">
+      <neighbors>
+        <neighbor dest="7" relationship="#saturn" weight="0"/>
+        <neighbor dest="8" relationship="#saturn" weight="0"/>
+        <neighbor dest="9" relationship="#saturn" weight="0"/>
+        <neighbor dest="10" relationship="#saturn" weight="0"/>
+        <neighbor dest="11" relationship="#saturn" weight="0"/>
+        <neighbor dest="9" relationship="#Cassini" weight="0"/>
+        <neighbor dest="57" relationship="#Cassini" weight="0"/>
+        <neighbor dest="58" relationship="#Cassini" weight="0"/>
+        <neighbor dest="59" relationship="#Cassini" weight="0"/>
+        <neighbor dest="60" relationship="#Cassini" weight="0"/>
+      </neighbors>
+      <speak Tweets="ICYMI: Stunning shot of #saturn from the #Cassini mission @NASA  @esa  https://t.co/nPTJyTt6y3 #space #photography… https://t.co/NNplaLTWhF"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Ydk7MnKrqq" zh-data="" id="10" uri="">
+      <neighbors>
+        <neighbor dest="41" relationship="#Space" weight="0"/>
+        <neighbor dest="42" relationship="#Space" weight="0"/>
+        <neighbor dest="43" relationship="#Space" weight="0"/>
+        <neighbor dest="44" relationship="#Space" weight="0"/>
+        <neighbor dest="45" relationship="#Space" weight="0"/>
+        <neighbor dest="7" relationship="#Saturn" weight="0"/>
+        <neighbor dest="8" relationship="#Saturn" weight="0"/>
+        <neighbor dest="9" relationship="#Saturn" weight="0"/>
+        <neighbor dest="10" relationship="#Saturn" weight="0"/>
+        <neighbor dest="11" relationship="#Saturn" weight="0"/>
+      </neighbors>
+      <speak Tweets="#Space: from a distance #Saturn seems to exude an aura of #serenity &amp;amp; #peace&#10;https://t.co/Ydk7MnKrqq via @NASA https://t.co/t4WHxvoPs1"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/k2xCMkCNGQ" zh-data="" id="11" uri="">
+      <neighbors>
+        <neighbor dest="7" relationship="#Saturn" weight="0"/>
+        <neighbor dest="8" relationship="#Saturn" weight="0"/>
+        <neighbor dest="9" relationship="#Saturn" weight="0"/>
+        <neighbor dest="10" relationship="#Saturn" weight="0"/>
+        <neighbor dest="11" relationship="#Saturn" weight="0"/>
+        <neighbor dest="52" relationship="#aliens" weight="0"/>
+        <neighbor dest="17" relationship="#aliens" weight="0"/>
+        <neighbor dest="53" relationship="#aliens" weight="0"/>
+        <neighbor dest="54" relationship="#aliens" weight="0"/>
+        <neighbor dest="55" relationship="#aliens" weight="0"/>
+      </neighbors>
+      <speak Tweets="'There must be life on other planets' if #Saturn's moon is really home to #aliens https://t.co/k2xCMkCNGQ #Enceladus https://t.co/nyAALqK1ZX"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/1NFnSiASzl" zh-data="" id="12" uri="">
+      <neighbors>
+        <neighbor dest="61" relationship="#EarthDay" weight="0"/>
+        <neighbor dest="12" relationship="#EarthDay" weight="0"/>
+        <neighbor dest="13" relationship="#EarthDay" weight="0"/>
+        <neighbor dest="62" relationship="#EarthDay" weight="0"/>
+        <neighbor dest="63" relationship="#EarthDay" weight="0"/>
+        <neighbor dest="12" relationship="#AdoptThePlanet" weight="0"/>
+        <neighbor dest="64" relationship="#AdoptThePlanet" weight="0"/>
+        <neighbor dest="13" relationship="#AdoptThePlanet" weight="0"/>
+        <neighbor dest="65" relationship="#AdoptThePlanet" weight="0"/>
+        <neighbor dest="66" relationship="#AdoptThePlanet" weight="0"/>
+      </neighbors>
+      <speak Tweets="Help us reach our goal of adopting the entire planet by #EarthDay April 22. https://t.co/1NFnSiASzl #AdoptThePlanet… https://t.co/kkpvek1OIL"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Mw4m1T2xGN" zh-data="" id="13" uri="">
+      <neighbors>
+        <neighbor dest="61" relationship="#EarthDay" weight="0"/>
+        <neighbor dest="12" relationship="#EarthDay" weight="0"/>
+        <neighbor dest="13" relationship="#EarthDay" weight="0"/>
+        <neighbor dest="62" relationship="#EarthDay" weight="0"/>
+        <neighbor dest="63" relationship="#EarthDay" weight="0"/>
+        <neighbor dest="12" relationship="#AdoptThePlanet" weight="0"/>
+        <neighbor dest="64" relationship="#AdoptThePlanet" weight="0"/>
+        <neighbor dest="13" relationship="#AdoptThePlanet" weight="0"/>
+        <neighbor dest="65" relationship="#AdoptThePlanet" weight="0"/>
+        <neighbor dest="66" relationship="#AdoptThePlanet" weight="0"/>
+      </neighbors>
+      <speak Tweets="Help us reach our goal of adopting the entire planet by #EarthDay, April 22. #AdoptThePlanet #NASA https://t.co/Mw4m1T2xGN"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/IEfXCHxMLH" zh-data="" id="14" uri="">
+      <neighbors>
+        <neighbor dest="67" relationship="#Russia" weight="0"/>
+        <neighbor dest="68" relationship="#Russia" weight="0"/>
+        <neighbor dest="14" relationship="#Russia" weight="0"/>
+        <neighbor dest="69" relationship="#Russia" weight="0"/>
+        <neighbor dest="70" relationship="#Russia" weight="0"/>
+        <neighbor dest="71" relationship="#HumansOnMars" weight="0"/>
+        <neighbor dest="14" relationship="#HumansOnMars" weight="0"/>
+        <neighbor dest="72" relationship="#HumansOnMars" weight="0"/>
+        <neighbor dest="73" relationship="#HumansOnMars" weight="0"/>
+        <neighbor dest="74" relationship="#HumansOnMars" weight="0"/>
+      </neighbors>
+      <speak Tweets="Putin and #Russia Will Use Nuclear Bomb to ... https://t.co/IEfXCHxMLH - #HumansOnMars #NASA #NuclearBomb #Russian… https://t.co/rXFaYDdhl0"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/EuGicnw4fh" zh-data="" id="15" uri="">
+      <neighbors>
+        <neighbor dest="12" relationship="#NASA" weight="0"/>
+        <neighbor dest="13" relationship="#NASA" weight="0"/>
+        <neighbor dest="14" relationship="#NASA" weight="0"/>
+        <neighbor dest="16" relationship="#NASA" weight="0"/>
+        <neighbor dest="75" relationship="#NASA" weight="0"/>
+        <neighbor dest="76" relationship="#Astronomy" weight="0"/>
+        <neighbor dest="77" relationship="#Astronomy" weight="0"/>
+        <neighbor dest="78" relationship="#Astronomy" weight="0"/>
+        <neighbor dest="79" relationship="#Astronomy" weight="0"/>
+        <neighbor dest="80" relationship="#Astronomy" weight="0"/>
+      </neighbors>
+      <speak Tweets="RT @CosmosRevealed: #NASA #Astronomy Picture of the Day: &quot;Zeta Oph: Runaway Star&quot;&#10;&#10;https://t.co/EuGicnw4fh https://t.co/B9csMdvKOv"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/EqJsMjzh8W" zh-data="" id="16" uri="">
+      <neighbors>
+        <neighbor dest="12" relationship="#NASA" weight="0"/>
+        <neighbor dest="13" relationship="#NASA" weight="0"/>
+        <neighbor dest="14" relationship="#NASA" weight="0"/>
+        <neighbor dest="15" relationship="#NASA" weight="0"/>
+        <neighbor dest="81" relationship="#NASA" weight="0"/>
+      </neighbors>
+      <speak Tweets="RT @HujumesipeT: #NASA have deceived us; we live on a #FlatEarth! #Bible #Jesus #Siduri https://t.co/EqJsMjzh8W Saturday April 8 2017:1:0"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/OR181XnL9q" zh-data="" id="17" uri="">
+      <neighbors>
+        <neighbor dest="52" relationship="#Aliens" weight="0"/>
+        <neighbor dest="17" relationship="#Aliens" weight="0"/>
+        <neighbor dest="53" relationship="#Aliens" weight="0"/>
+        <neighbor dest="54" relationship="#Aliens" weight="0"/>
+        <neighbor dest="55" relationship="#Aliens" weight="0"/>
+        <neighbor dest="17" relationship="#Alien" weight="0"/>
+        <neighbor dest="18" relationship="#Alien" weight="0"/>
+        <neighbor dest="19" relationship="#Alien" weight="0"/>
+        <neighbor dest="20" relationship="#Alien" weight="0"/>
+        <neighbor dest="21" relationship="#Alien" weight="0"/>
+      </neighbors>
+      <speak Tweets="Planet X and #Aliens Are Close to Earth - https://t.co/OR181XnL9q #Alien #AlienLife #ET #Extraterrestrial… https://t.co/MKd3DlAj0i"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/wwHDDgcKuv" zh-data="" id="18" uri="">
+      <neighbors>
+        <neighbor dest="17" relationship="#Alien" weight="0"/>
+        <neighbor dest="18" relationship="#Alien" weight="0"/>
+        <neighbor dest="19" relationship="#Alien" weight="0"/>
+        <neighbor dest="20" relationship="#Alien" weight="0"/>
+        <neighbor dest="21" relationship="#Alien" weight="0"/>
+      </neighbors>
+      <speak Tweets="These exclusive #Alien movie cards by Mondo are awesome! &#10;&#10;Check them out: https://t.co/wwHDDgcKuv https://t.co/wjTArAjUsp"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/CkyFmNLNEc" zh-data="" id="19" uri="">
+      <neighbors>
+        <neighbor dest="92" relationship="#romance" weight="0"/>
+        <neighbor dest="93" relationship="#romance" weight="0"/>
+        <neighbor dest="94" relationship="#romance" weight="0"/>
+        <neighbor dest="95" relationship="#romance" weight="0"/>
+        <neighbor dest="89" relationship="#romance" weight="0"/>
+        <neighbor dest="83" relationship="#newrelease" weight="0"/>
+        <neighbor dest="82" relationship="#newrelease" weight="0"/>
+        <neighbor dest="96" relationship="#newrelease" weight="0"/>
+        <neighbor dest="85" relationship="#newrelease" weight="0"/>
+        <neighbor dest="86" relationship="#newrelease" weight="0"/>
+      </neighbors>
+      <speak Tweets="RT @ML_Callahan: His beast saved her - now he wants to KEEP her. #newadult #romance @nookNB https://t.co/CkyFmNLNEc @AmazonKindle  https://…"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/yD2z2BYjcy" zh-data="" id="20" uri="">
+      <neighbors>
+        <neighbor dest="17" relationship="#Alien" weight="0"/>
+        <neighbor dest="18" relationship="#Alien" weight="0"/>
+        <neighbor dest="19" relationship="#Alien" weight="0"/>
+        <neighbor dest="20" relationship="#Alien" weight="0"/>
+        <neighbor dest="21" relationship="#Alien" weight="0"/>
+      </neighbors>
+      <speak Tweets="New #Alien poster by @MondoNews is terrifyingly beautiful: https://t.co/yD2z2BYjcy https://t.co/IcvO1M08mo"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/5qg5MCN03B" zh-data="" id="21" uri="">
+      <neighbors>
+        <neighbor dest="82" relationship="#newrelease" weight="0"/>
+        <neighbor dest="83" relationship="#newrelease" weight="0"/>
+        <neighbor dest="84" relationship="#newrelease" weight="0"/>
+        <neighbor dest="85" relationship="#newrelease" weight="0"/>
+        <neighbor dest="86" relationship="#newrelease" weight="0"/>
+        <neighbor dest="87" relationship="#romance" weight="0"/>
+        <neighbor dest="88" relationship="#romance" weight="0"/>
+        <neighbor dest="89" relationship="#romance" weight="0"/>
+        <neighbor dest="90" relationship="#romance" weight="0"/>
+        <neighbor dest="91" relationship="#romance" weight="0"/>
+      </neighbors>
+      <speak Tweets="Hot #alien #romance– Mating Fever by Grace Goodwin #newrelease @nookNB https://t.co/ytUBvptPHK @iBooks… https://t.co/XlTBVTaGr4"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/R6FbjCLYFB" zh-data="" id="22" uri="">
+      <neighbors>
+        <neighbor dest="105" relationship="#DailyPicks" weight="0"/>
+        <neighbor dest="106" relationship="#DailyPicks" weight="0"/>
+        <neighbor dest="22" relationship="#DailyPicks" weight="0"/>
+        <neighbor dest="107" relationship="#DailyPicks" weight="0"/>
+        <neighbor dest="108" relationship="#DailyPicks" weight="0"/>
+        <neighbor dest="109" relationship="#Life" weight="0"/>
+        <neighbor dest="110" relationship="#Life" weight="0"/>
+        <neighbor dest="25" relationship="#Life" weight="0"/>
+        <neighbor dest="111" relationship="#Life" weight="0"/>
+        <neighbor dest="55" relationship="#Life" weight="0"/>
+      </neighbors>
+      <speak Tweets="Daily Picks: 9 Articles - &quot;Too Good to Be True&quot; https://t.co/R6FbjCLYFB - #DailyPicks #Life #Politics #World https://t.co/shBBcrwSu3"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/hJlUPAH0Yb" zh-data="" id="23" uri="">
+      <neighbors>
+        <neighbor dest="116" relationship="#DamianLewis" weight="0"/>
+        <neighbor dest="117" relationship="#DamianLewis" weight="0"/>
+        <neighbor dest="118" relationship="#DamianLewis" weight="0"/>
+        <neighbor dest="119" relationship="#DamianLewis" weight="0"/>
+        <neighbor dest="23" relationship="#DamianLewis" weight="0"/>
+        <neighbor dest="111" relationship="#Life" weight="0"/>
+        <neighbor dest="25" relationship="#Life" weight="0"/>
+        <neighbor dest="120" relationship="#Life" weight="0"/>
+        <neighbor dest="26" relationship="#Life" weight="0"/>
+        <neighbor dest="121" relationship="#Life" weight="0"/>
+      </neighbors>
+      <speak Tweets="Falling for Charlie Crews: This is Lynda's Fan Story https://t.co/hJlUPAH0Yb #DamianLewis #Life #CharlieCrews https://t.co/43DERf0DMs"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/vUEWI6SuzI" zh-data="" id="24" uri="">
+      <neighbors>
+        <neighbor dest="97" relationship="#Hymn" weight="0"/>
+        <neighbor dest="24" relationship="#Hymn" weight="0"/>
+        <neighbor dest="98" relationship="#Hymn" weight="0"/>
+        <neighbor dest="99" relationship="#Hymn" weight="0"/>
+        <neighbor dest="100" relationship="#Hymn" weight="0"/>
+        <neighbor dest="101" relationship="#MusicVideo" weight="0"/>
+        <neighbor dest="102" relationship="#MusicVideo" weight="0"/>
+        <neighbor dest="24" relationship="#MusicVideo" weight="0"/>
+        <neighbor dest="103" relationship="#MusicVideo" weight="0"/>
+        <neighbor dest="104" relationship="#MusicVideo" weight="0"/>
+      </neighbors>
+      <speak Tweets="Love God Without Complaints | &quot;Follow God Along the Rough Path&quot;&#10;https://t.co/vUEWI6SuzI &#10;#Hymn #MusicVideo #Life… https://t.co/eWKOB7t60n"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/CwbXhDKhpP" zh-data="" id="25" uri="">
+      <neighbors>
+        <neighbor dest="109" relationship="#life" weight="0"/>
+        <neighbor dest="110" relationship="#life" weight="0"/>
+        <neighbor dest="122" relationship="#life" weight="0"/>
+        <neighbor dest="111" relationship="#life" weight="0"/>
+        <neighbor dest="55" relationship="#life" weight="0"/>
+        <neighbor dest="123" relationship="#selfie" weight="0"/>
+        <neighbor dest="124" relationship="#selfie" weight="0"/>
+        <neighbor dest="25" relationship="#selfie" weight="0"/>
+        <neighbor dest="125" relationship="#selfie" weight="0"/>
+        <neighbor dest="126" relationship="#selfie" weight="0"/>
+      </neighbors>
+      <speak Tweets="Enetophobia is the fear of pins. https://t.co/CwbXhDKhpP #life #selfie #photo"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/DevR5tgzJP" zh-data="" id="26" uri="">
+      <neighbors>
+        <neighbor dest="109" relationship="#Life" weight="0"/>
+        <neighbor dest="110" relationship="#Life" weight="0"/>
+        <neighbor dest="25" relationship="#Life" weight="0"/>
+        <neighbor dest="111" relationship="#Life" weight="0"/>
+        <neighbor dest="55" relationship="#Life" weight="0"/>
+        <neighbor dest="112" relationship="#TheTruth" weight="0"/>
+        <neighbor dest="113" relationship="#TheTruth" weight="0"/>
+        <neighbor dest="114" relationship="#TheTruth" weight="0"/>
+        <neighbor dest="26" relationship="#TheTruth" weight="0"/>
+        <neighbor dest="115" relationship="#TheTruth" weight="0"/>
+      </neighbors>
+      <speak Tweets="No One Is Aware of God’s Arrival  &#10;https://t.co/DevR5tgzJP&#10;#Life #TheTruth #Song #Video #Gospel"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/9kLocRxQfN" zh-data="" id="27" uri="">
+      <neighbors>
+        <neighbor dest="27" relationship="#pets" weight="0"/>
+        <neighbor dest="140" relationship="#pets" weight="0"/>
+        <neighbor dest="141" relationship="#pets" weight="0"/>
+        <neighbor dest="142" relationship="#pets" weight="0"/>
+        <neighbor dest="143" relationship="#pets" weight="0"/>
+        <neighbor dest="144" relationship="#dogs" weight="0"/>
+        <neighbor dest="145" relationship="#dogs" weight="0"/>
+        <neighbor dest="146" relationship="#dogs" weight="0"/>
+        <neighbor dest="147" relationship="#dogs" weight="0"/>
+        <neighbor dest="148" relationship="#dogs" weight="0"/>
+      </neighbors>
+      <speak Tweets="What dogs actually mean when they look guilty, according to science https://t.co/9kLocRxQfN #pets #dogs #animals… https://t.co/HAPQnI3Rdx"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/vFCy2fgoPd" zh-data="" id="28" uri="">
+      <neighbors>
+        <neighbor dest="131" relationship="#poverty" weight="0"/>
+        <neighbor dest="132" relationship="#poverty" weight="0"/>
+        <neighbor dest="133" relationship="#poverty" weight="0"/>
+        <neighbor dest="28" relationship="#poverty" weight="0"/>
+        <neighbor dest="134" relationship="#poverty" weight="0"/>
+        <neighbor dest="135" relationship="#psychology" weight="0"/>
+        <neighbor dest="136" relationship="#psychology" weight="0"/>
+        <neighbor dest="137" relationship="#psychology" weight="0"/>
+        <neighbor dest="28" relationship="#psychology" weight="0"/>
+        <neighbor dest="138" relationship="#psychology" weight="0"/>
+      </neighbors>
+      <speak Tweets="Familial Poverty Affects Toddlers' Brain Function https://t.co/vFCy2fgoPd #poverty #psychology #science #toddlers https://t.co/KmfPVqi1ck"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/jmcI1s0HrP" zh-data="" id="29" uri="">
+      <neighbors>
+        <neighbor dest="127" relationship="#science" weight="0"/>
+        <neighbor dest="128" relationship="#science" weight="0"/>
+        <neighbor dest="129" relationship="#science" weight="0"/>
+        <neighbor dest="28" relationship="#science" weight="0"/>
+        <neighbor dest="130" relationship="#science" weight="0"/>
+      </neighbors>
+      <speak Tweets="These #science-oriented websites will help your Ss learn more about the world around them https://t.co/jmcI1s0HrP… https://t.co/Pu4AUBfVWa"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/BC8SuCxUTX" zh-data="" id="30" uri="">
+      <neighbors>
+        <neighbor dest="139" relationship="#science" weight="0"/>
+        <neighbor dest="129" relationship="#science" weight="0"/>
+        <neighbor dest="28" relationship="#science" weight="0"/>
+        <neighbor dest="29" relationship="#science" weight="0"/>
+        <neighbor dest="31" relationship="#science" weight="0"/>
+      </neighbors>
+      <speak Tweets="Huge ‘dead zone’ is pushing our galaxy through space at 1.2 million miles an hour https://t.co/BC8SuCxUTX #science… https://t.co/XZ5Gbgu3MC"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/aFF1DpbTAl" zh-data="" id="31" uri="">
+      <neighbors>
+        <neighbor dest="127" relationship="#science" weight="0"/>
+        <neighbor dest="128" relationship="#science" weight="0"/>
+        <neighbor dest="129" relationship="#science" weight="0"/>
+        <neighbor dest="28" relationship="#science" weight="0"/>
+        <neighbor dest="130" relationship="#science" weight="0"/>
+      </neighbors>
+      <speak Tweets="Scientific American: We've Known for 400 Years That Torture Doesn't Work https://t.co/aFF1DpbTAl #science"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/qowodqOfJF" zh-data="" id="32" uri="">
+      <neighbors>
+        <neighbor dest="32" relationship="#oceanworlds" weight="0"/>
+        <neighbor dest="33" relationship="#oceanworlds" weight="0"/>
+        <neighbor dest="34" relationship="#oceanworlds" weight="0"/>
+        <neighbor dest="35" relationship="#oceanworlds" weight="0"/>
+        <neighbor dest="36" relationship="#oceanworlds" weight="0"/>
+      </neighbors>
+      <speak Tweets="Fascinating and awesome. #oceanworlds https://t.co/qowodqOfJF"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/vqcXPeryBw" zh-data="" id="33" uri="">
+      <neighbors>
+        <neighbor dest="7" relationship="#Saturn" weight="0"/>
+        <neighbor dest="8" relationship="#Saturn" weight="0"/>
+        <neighbor dest="9" relationship="#Saturn" weight="0"/>
+        <neighbor dest="10" relationship="#Saturn" weight="0"/>
+        <neighbor dest="11" relationship="#Saturn" weight="0"/>
+        <neighbor dest="32" relationship="#OceanWorlds" weight="0"/>
+        <neighbor dest="33" relationship="#OceanWorlds" weight="0"/>
+        <neighbor dest="34" relationship="#OceanWorlds" weight="0"/>
+        <neighbor dest="35" relationship="#OceanWorlds" weight="0"/>
+        <neighbor dest="36" relationship="#OceanWorlds" weight="0"/>
+      </neighbors>
+      <speak Tweets="Two moons in our solar system appear to be active #OceanWorlds. &#10;&#10;Read the @NASA news here: https://t.co/vqcXPeryBw https://t.co/uWPRIXHU0N"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/RAixVvTZcZ" zh-data="" id="34" uri="">
+      <neighbors>
+        <neighbor dest="32" relationship="#OceanWorlds" weight="0"/>
+        <neighbor dest="33" relationship="#OceanWorlds" weight="0"/>
+        <neighbor dest="34" relationship="#OceanWorlds" weight="0"/>
+        <neighbor dest="35" relationship="#OceanWorlds" weight="0"/>
+        <neighbor dest="36" relationship="#OceanWorlds" weight="0"/>
+      </neighbors>
+      <speak Tweets=".@NASAHubble finds even more evidence of water vapor plumes on Jupiter's icy moon Europa. https://t.co/RAixVvTZcZ… https://t.co/odAFo6yAqs"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/sUAoLo9pc7" zh-data="" id="35" uri="">
+      <neighbors>
+        <neighbor dest="32" relationship="#OceanWorlds" weight="0"/>
+        <neighbor dest="33" relationship="#OceanWorlds" weight="0"/>
+        <neighbor dest="34" relationship="#OceanWorlds" weight="0"/>
+        <neighbor dest="35" relationship="#OceanWorlds" weight="0"/>
+        <neighbor dest="36" relationship="#OceanWorlds" weight="0"/>
+      </neighbors>
+      <speak Tweets="RT @NASAJPL_Edu: Discover all the potential #OceanWorlds in our solar system beyond Earth + get a free poster! https://t.co/sUAoLo9pc7 http…"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/mzKW5uDsTi" zh-data="" id="36" uri="">
+      <neighbors>
+        <neighbor dest="322" relationship="#Cygnus" weight="0"/>
+        <neighbor dest="323" relationship="#Cygnus" weight="0"/>
+        <neighbor dest="324" relationship="#Cygnus" weight="0"/>
+        <neighbor dest="325" relationship="#Cygnus" weight="0"/>
+        <neighbor dest="36" relationship="#Cygnus" weight="0"/>
+      </neighbors>
+      <speak Tweets="RT @NASA: LIFTOFF! @OrbitalATK’s #Cygnus cargo vehicle leaves Earth to deliver cargo and supplies to @Space_Station: https://t.co/mzKW5uDsT…"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/EvLd43xrcd" zh-data="" id="37" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/VbE9yFQVZK" zh-data="" id="38" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/0V3ZbtBWID" zh-data="" id="39" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/oaiYNq9FW4" zh-data="" id="40" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/GHOENayoDB" zh-data="" id="41" uri="">
+      <neighbors>
+        <neighbor dest="41" relationship="#roguelike" weight="0"/>
+        <neighbor dest="266" relationship="#roguelike" weight="0"/>
+        <neighbor dest="267" relationship="#roguelike" weight="0"/>
+        <neighbor dest="268" relationship="#roguelike" weight="0"/>
+        <neighbor dest="269" relationship="#roguelike" weight="0"/>
+        <neighbor dest="186" relationship="#scifi" weight="0"/>
+        <neighbor dest="187" relationship="#scifi" weight="0"/>
+        <neighbor dest="270" relationship="#scifi" weight="0"/>
+        <neighbor dest="188" relationship="#scifi" weight="0"/>
+        <neighbor dest="189" relationship="#scifi" weight="0"/>
+      </neighbors>
+      <speak Tweets="🔴LIVE https://t.co/GHOENayoDB veteran pilot on duty - devs in chat! #roguelike #scifi #6DOF #space #shooter… https://t.co/zurhG9Bl7d"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/FNKUmSLzlI" zh-data="" id="42" uri="">
+      <neighbors>
+        <neighbor dest="41" relationship="#space" weight="0"/>
+        <neighbor dest="42" relationship="#space" weight="0"/>
+        <neighbor dest="374" relationship="#space" weight="0"/>
+        <neighbor dest="75" relationship="#space" weight="0"/>
+        <neighbor dest="45" relationship="#space" weight="0"/>
+      </neighbors>
+      <speak Tweets="This far-off star beats in time with its orbiting planet https://t.co/FNKUmSLzlI #space https://t.co/0bItrV6w7Y"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/KZ150crslA" zh-data="" id="43" uri="">
+      <neighbors>
+        <neighbor dest="41" relationship="#Space" weight="0"/>
+        <neighbor dest="42" relationship="#Space" weight="0"/>
+        <neighbor dest="43" relationship="#Space" weight="0"/>
+        <neighbor dest="44" relationship="#Space" weight="0"/>
+        <neighbor dest="45" relationship="#Space" weight="0"/>
+        <neighbor dest="43" relationship="#MilkyWay" weight="0"/>
+        <neighbor dest="213" relationship="#MilkyWay" weight="0"/>
+        <neighbor dest="214" relationship="#MilkyWay" weight="0"/>
+        <neighbor dest="215" relationship="#MilkyWay" weight="0"/>
+        <neighbor dest="216" relationship="#MilkyWay" weight="0"/>
+      </neighbors>
+      <speak Tweets="#Space: a detailed poster of the #MilkyWay. Know your #galaxy!&#10;Full res ► https://t.co/KZ150crslA via @newscientist https://t.co/qdFURBMxhC"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/lM14cJbdCU" zh-data="" id="44" uri="">
+      <neighbors>
+        <neighbor dest="41" relationship="#Space" weight="0"/>
+        <neighbor dest="42" relationship="#Space" weight="0"/>
+        <neighbor dest="43" relationship="#Space" weight="0"/>
+        <neighbor dest="75" relationship="#Space" weight="0"/>
+        <neighbor dest="45" relationship="#Space" weight="0"/>
+      </neighbors>
+      <speak Tweets=""/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/NqEwLoS9OH" zh-data="" id="45" uri="">
+      <neighbors>
+        <neighbor dest="41" relationship="#Space" weight="0"/>
+        <neighbor dest="42" relationship="#Space" weight="0"/>
+        <neighbor dest="43" relationship="#Space" weight="0"/>
+        <neighbor dest="44" relationship="#Space" weight="0"/>
+        <neighbor dest="45" relationship="#Space" weight="0"/>
+        <neighbor dest="239" relationship="#Art" weight="0"/>
+        <neighbor dest="232" relationship="#Art" weight="0"/>
+        <neighbor dest="240" relationship="#Art" weight="0"/>
+        <neighbor dest="241" relationship="#Art" weight="0"/>
+        <neighbor dest="242" relationship="#Art" weight="0"/>
+      </neighbors>
+      <speak Tweets="#Space #Art: explosive #volcanic eruptions on a #GasGiant's moon, by JustV23&#10;https://t.co/NqEwLoS9OH via @DeviantArt https://t.co/yWwyk3oZnx"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/MfVuQ1YlhW" zh-data="" id="46" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/gnOjcI9xrj" zh-data="" id="47" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ZCp3uzuONh" zh-data="" id="48" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/1iXjeGIFjL" zh-data="" id="49" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/DHcKUl9eTt" zh-data="" id="50" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/D1kglfUDv9" zh-data="" id="51" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Qw8e6EhxqB" zh-data="" id="52" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/QHesyg3Gaj" zh-data="" id="53" uri="">
+      <neighbors>
+        <neighbor dest="231" relationship="#kindle" weight="0"/>
+        <neighbor dest="232" relationship="#kindle" weight="0"/>
+        <neighbor dest="233" relationship="#kindle" weight="0"/>
+        <neighbor dest="234" relationship="#kindle" weight="0"/>
+        <neighbor dest="188" relationship="#kindle" weight="0"/>
+        <neighbor dest="185" relationship="#scifi" weight="0"/>
+        <neighbor dest="186" relationship="#scifi" weight="0"/>
+        <neighbor dest="187" relationship="#scifi" weight="0"/>
+        <neighbor dest="188" relationship="#scifi" weight="0"/>
+        <neighbor dest="189" relationship="#scifi" weight="0"/>
+      </neighbors>
+      <speak Tweets="RT @TimothiousSmith: Get the 2nd Section of the Wanderer for https://t.co/QHesyg3Gaj  #kindle #scifi #aliens #romance"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/9Cwvt88Les" zh-data="" id="54" uri="">
+      <neighbors>
+        <neighbor dest="243" relationship="#UFO" weight="0"/>
+        <neighbor dest="244" relationship="#UFO" weight="0"/>
+        <neighbor dest="245" relationship="#UFO" weight="0"/>
+        <neighbor dest="246" relationship="#UFO" weight="0"/>
+        <neighbor dest="54" relationship="#UFO" weight="0"/>
+        <neighbor dest="247" relationship="#Government" weight="0"/>
+        <neighbor dest="248" relationship="#Government" weight="0"/>
+        <neighbor dest="249" relationship="#Government" weight="0"/>
+        <neighbor dest="250" relationship="#Government" weight="0"/>
+        <neighbor dest="251" relationship="#Government" weight="0"/>
+      </neighbors>
+      <speak Tweets="RT @realmysticsauce: Top 5 Alien #UFO Encounters Leaked by #Government Workers - https://t.co/9Cwvt88Les #Aliens #Earth #Roswell #Sightings…"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/RbdsBybMtx" zh-data="" id="55" uri="">
+      <neighbors>
+        <neighbor dest="52" relationship="#Aliens" weight="0"/>
+        <neighbor dest="17" relationship="#Aliens" weight="0"/>
+        <neighbor dest="53" relationship="#Aliens" weight="0"/>
+        <neighbor dest="54" relationship="#Aliens" weight="0"/>
+        <neighbor dest="55" relationship="#Aliens" weight="0"/>
+        <neighbor dest="384" relationship="#Secret" weight="0"/>
+        <neighbor dest="385" relationship="#Secret" weight="0"/>
+        <neighbor dest="386" relationship="#Secret" weight="0"/>
+        <neighbor dest="387" relationship="#Secret" weight="0"/>
+        <neighbor dest="55" relationship="#Secret" weight="0"/>
+      </neighbors>
+      <speak Tweets="#Aliens Sent #Secret #Messages from Exploding Stars - https://t.co/RbdsBybMtx #ET #Extraterrestrial #Life… https://t.co/HncUMZq0VT"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/cfXpYX6lcr" zh-data="" id="56" uri="">
+      <neighbors>
+        <neighbor dest="41" relationship="#Space" weight="0"/>
+        <neighbor dest="42" relationship="#Space" weight="0"/>
+        <neighbor dest="388" relationship="#Space" weight="0"/>
+        <neighbor dest="389" relationship="#Space" weight="0"/>
+        <neighbor dest="75" relationship="#Space" weight="0"/>
+        <neighbor dest="7" relationship="#Saturn" weight="0"/>
+        <neighbor dest="8" relationship="#Saturn" weight="0"/>
+        <neighbor dest="9" relationship="#Saturn" weight="0"/>
+        <neighbor dest="46" relationship="#Saturn" weight="0"/>
+        <neighbor dest="10" relationship="#Saturn" weight="0"/>
+      </neighbors>
+      <speak Tweets="#Space: #Saturn's satellite #Hyperion's &amp;amp; its weird #sponge-like surface&#10;https://t.co/cfXpYX6lcr via @esa https://t.co/OFO1nM23Dz"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/69yXB0E0Nn" zh-data="" id="57" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/YUVj9xeGCY" zh-data="" id="58" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/X3eGp3modq" zh-data="" id="59" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/nAtu3FuYZU" zh-data="" id="60" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Vl9dVz1gC4" zh-data="" id="61" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Nqt3d4Mmiq" zh-data="" id="62" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/lDdvBiw76o" zh-data="" id="63" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/7yoeI7xSXu" zh-data="" id="64" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/pWbwoCEwwF" zh-data="" id="65" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/SKd721MWYV" zh-data="" id="66" uri="">
+      <neighbors>
+        <neighbor dest="61" relationship="#EarthDay" weight="0"/>
+        <neighbor dest="12" relationship="#EarthDay" weight="0"/>
+        <neighbor dest="13" relationship="#EarthDay" weight="0"/>
+        <neighbor dest="62" relationship="#EarthDay" weight="0"/>
+        <neighbor dest="63" relationship="#EarthDay" weight="0"/>
+        <neighbor dest="12" relationship="#AdoptThePlanet" weight="0"/>
+        <neighbor dest="64" relationship="#AdoptThePlanet" weight="0"/>
+        <neighbor dest="13" relationship="#AdoptThePlanet" weight="0"/>
+        <neighbor dest="65" relationship="#AdoptThePlanet" weight="0"/>
+        <neighbor dest="66" relationship="#AdoptThePlanet" weight="0"/>
+      </neighbors>
+      <speak Tweets="Help us reach our goal of adopting the entire planet by #EarthDay, April 22. #AdoptThePlanet #NASA https://t.co/SKd721MWYV"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/JIA3tZl48F" zh-data="" id="67" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/baOruLip6i" zh-data="" id="68" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/4CIX4H3zZh" zh-data="" id="69" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/aYZEhGSBAs" zh-data="" id="70" uri="">
+      <neighbors>
+        <neighbor dest="223" relationship="#France" weight="0"/>
+        <neighbor dest="224" relationship="#France" weight="0"/>
+        <neighbor dest="225" relationship="#France" weight="0"/>
+        <neighbor dest="226" relationship="#France" weight="0"/>
+        <neighbor dest="70" relationship="#France" weight="0"/>
+        <neighbor dest="67" relationship="#Russia" weight="0"/>
+        <neighbor dest="227" relationship="#Russia" weight="0"/>
+        <neighbor dest="228" relationship="#Russia" weight="0"/>
+        <neighbor dest="70" relationship="#Russia" weight="0"/>
+        <neighbor dest="229" relationship="#Russia" weight="0"/>
+      </neighbors>
+      <speak Tweets="Six days before #France election, #Russia meddling mostly targeted centrist pro-EU Macron : https://t.co/aYZEhGSBAs https://t.co/eP8r7ugbGv"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ZJ3hNTwsBP" zh-data="" id="71" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ueRDnXN5wX" zh-data="" id="72" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/gm6dadh0GD" zh-data="" id="73" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/W7D04VHwXR" zh-data="" id="74" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/GDwxIn86uj" zh-data="" id="75" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/PVNGDhNFos" zh-data="" id="76" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/G9nbeE3VD0" zh-data="" id="77" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/O3fjShyK3m" zh-data="" id="78" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/VHR2GNlT1I" zh-data="" id="79" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/KwJq7WExLB" zh-data="" id="80" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/zDJH00cDhg" zh-data="" id="81" uri="">
+      <neighbors>
+        <neighbor dest="12" relationship="#NASA" weight="0"/>
+        <neighbor dest="13" relationship="#NASA" weight="0"/>
+        <neighbor dest="14" relationship="#NASA" weight="0"/>
+        <neighbor dest="16" relationship="#NASA" weight="0"/>
+        <neighbor dest="75" relationship="#NASA" weight="0"/>
+      </neighbors>
+      <speak Tweets="NASA snapped an unusual picture of a crack on Greenland's coast. https://t.co/zDJH00cDhg https://t.co/onMmugaI9W"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/vtjYNJn8Tv" zh-data="" id="82" uri="">
+      <neighbors>
+        <neighbor dest="230" relationship="#newrelease" weight="0"/>
+        <neighbor dest="82" relationship="#newrelease" weight="0"/>
+        <neighbor dest="96" relationship="#newrelease" weight="0"/>
+        <neighbor dest="85" relationship="#newrelease" weight="0"/>
+        <neighbor dest="86" relationship="#newrelease" weight="0"/>
+        <neighbor dest="93" relationship="#romance" weight="0"/>
+        <neighbor dest="94" relationship="#romance" weight="0"/>
+        <neighbor dest="95" relationship="#romance" weight="0"/>
+        <neighbor dest="87" relationship="#romance" weight="0"/>
+        <neighbor dest="89" relationship="#romance" weight="0"/>
+      </neighbors>
+      <speak Tweets="The Dancing Bride by Cynthia Woolf #newrelease #romance @AmazonKindle US https://t.co/vtjYNJn8Tv @iBooks… https://t.co/0j0fJ537SR"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/nYm6GweSoc" zh-data="" id="83" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/459eURYSkS" zh-data="" id="84" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Jp2NbKaXIu" zh-data="" id="85" uri="">
+      <neighbors>
+        <neighbor dest="305" relationship="#yalit" weight="0"/>
+        <neighbor dest="306" relationship="#yalit" weight="0"/>
+        <neighbor dest="307" relationship="#yalit" weight="0"/>
+        <neighbor dest="308" relationship="#yalit" weight="0"/>
+        <neighbor dest="85" relationship="#yalit" weight="0"/>
+        <neighbor dest="309" relationship="#fantasy" weight="0"/>
+        <neighbor dest="310" relationship="#fantasy" weight="0"/>
+        <neighbor dest="186" relationship="#fantasy" weight="0"/>
+        <neighbor dest="311" relationship="#fantasy" weight="0"/>
+        <neighbor dest="312" relationship="#fantasy" weight="0"/>
+      </neighbors>
+      <speak Tweets="Win a FREE copy of Suppressed - just retweet to enter! #yalit #fantasy #mermaids #newrelease https://t.co/Jp2NbKaXIu https://t.co/3uxaVZq0oC"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/MqFlPhJutK" zh-data="" id="86" uri="">
+      <neighbors>
+        <neighbor dest="314" relationship="#RT" weight="0"/>
+        <neighbor dest="315" relationship="#RT" weight="0"/>
+        <neighbor dest="316" relationship="#RT" weight="0"/>
+        <neighbor dest="317" relationship="#RT" weight="0"/>
+        <neighbor dest="86" relationship="#RT" weight="0"/>
+        <neighbor dest="318" relationship="#SelfHelp" weight="0"/>
+        <neighbor dest="319" relationship="#SelfHelp" weight="0"/>
+        <neighbor dest="320" relationship="#SelfHelp" weight="0"/>
+        <neighbor dest="321" relationship="#SelfHelp" weight="0"/>
+        <neighbor dest="86" relationship="#SelfHelp" weight="0"/>
+      </neighbors>
+      <speak Tweets="RT @EichinChangLim: #RT&#10;#NewRelease countdown!&#10;https://t.co/MqFlPhJutK&#10;#specialneeds &#10;#memoir&#10;#SelfHelp     &#10;#Parenting&#10;#PDF1&#10;@Cochlear&#10;htt…"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ahD7An3l8H" zh-data="" id="87" uri="">
+      <neighbors>
+        <neighbor dest="194" relationship="#nowplaying" weight="0"/>
+        <neighbor dest="195" relationship="#nowplaying" weight="0"/>
+        <neighbor dest="196" relationship="#nowplaying" weight="0"/>
+        <neighbor dest="197" relationship="#nowplaying" weight="0"/>
+        <neighbor dest="198" relationship="#nowplaying" weight="0"/>
+        <neighbor dest="154" relationship="#music" weight="0"/>
+        <neighbor dest="199" relationship="#music" weight="0"/>
+        <neighbor dest="200" relationship="#music" weight="0"/>
+        <neighbor dest="201" relationship="#music" weight="0"/>
+        <neighbor dest="202" relationship="#music" weight="0"/>
+      </neighbors>
+      <speak Tweets="#nowplaying Hall &amp;amp; Oates - Sara Smile&#10;https://t.co/ahD7An3l8H &#10;#love #romantic #music #romance #radio #RnB #Jazz #popmusic"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/re8asq3KnC" zh-data="" id="88" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/HCSdGt0ALv" zh-data="" id="89" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/s9TVK6nwOr" zh-data="" id="90" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/uDBxvfQP3R" zh-data="" id="91" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/tMx6Q4djuI" zh-data="" id="92" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/K6Ds7x7Guz" zh-data="" id="93" uri="">
+      <neighbors>
+        <neighbor dest="217" relationship="#gamedev" weight="0"/>
+        <neighbor dest="93" relationship="#gamedev" weight="0"/>
+        <neighbor dest="218" relationship="#gamedev" weight="0"/>
+        <neighbor dest="219" relationship="#gamedev" weight="0"/>
+        <neighbor dest="220" relationship="#gamedev" weight="0"/>
+        <neighbor dest="93" relationship="#indiedev" weight="0"/>
+        <neighbor dest="221" relationship="#indiedev" weight="0"/>
+        <neighbor dest="219" relationship="#indiedev" weight="0"/>
+        <neighbor dest="222" relationship="#indiedev" weight="0"/>
+        <neighbor dest="218" relationship="#indiedev" weight="0"/>
+      </neighbors>
+      <speak Tweets="RT @karenrj866: https://t.co/K6Ds7x7Guz&#10;ISN'T THAT LOVE&#10;#KeithUrban #BlakeShelton #Soul2Soul #gamedev #indiedev #IndieMusic #youtube #Dolly…"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/RT14XqglIk" zh-data="" id="94" uri="">
+      <neighbors>
+        <neighbor dest="94" relationship="#wyvern" weight="0"/>
+        <neighbor dest="390" relationship="#wyvern" weight="0"/>
+        <neighbor dest="391" relationship="#wyvern" weight="0"/>
+        <neighbor dest="392" relationship="#wyvern" weight="0"/>
+        <neighbor dest="393" relationship="#wyvern" weight="0"/>
+        <neighbor dest="94" relationship="#Paranormal" weight="0"/>
+        <neighbor dest="394" relationship="#Paranormal" weight="0"/>
+        <neighbor dest="395" relationship="#Paranormal" weight="0"/>
+        <neighbor dest="396" relationship="#Paranormal" weight="0"/>
+        <neighbor dest="397" relationship="#Paranormal" weight="0"/>
+      </neighbors>
+      <speak Tweets="The #wyvern waited years to catch Raven. Now she was alone. #Paranormal #Romance https://t.co/RT14XqglIk… https://t.co/CWalNQnPrE"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/lBgWW15DYn" zh-data="" id="95" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/SUqunHhVDV" zh-data="" id="96" uri="">
+      <neighbors>
+        <neighbor dest="230" relationship="#newrelease" weight="0"/>
+        <neighbor dest="82" relationship="#newrelease" weight="0"/>
+        <neighbor dest="96" relationship="#newrelease" weight="0"/>
+        <neighbor dest="85" relationship="#newrelease" weight="0"/>
+        <neighbor dest="86" relationship="#newrelease" weight="0"/>
+        <neighbor dest="185" relationship="#scifi" weight="0"/>
+        <neighbor dest="186" relationship="#scifi" weight="0"/>
+        <neighbor dest="187" relationship="#scifi" weight="0"/>
+        <neighbor dest="188" relationship="#scifi" weight="0"/>
+        <neighbor dest="189" relationship="#scifi" weight="0"/>
+      </neighbors>
+      <speak Tweets="Hot #newrelease in #scifi romance @Amazon US https://t.co/SUqunHhVDV @iBooks https://t.co/fOUuM3OAOc @nookNB… https://t.co/gFAp587HBe"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/PJhbg7QuZq" zh-data="" id="97" uri="">
+      <neighbors>
+        <neighbor dest="97" relationship="#Hymn" weight="0"/>
+        <neighbor dest="24" relationship="#Hymn" weight="0"/>
+        <neighbor dest="98" relationship="#Hymn" weight="0"/>
+        <neighbor dest="99" relationship="#Hymn" weight="0"/>
+        <neighbor dest="100" relationship="#Hymn" weight="0"/>
+        <neighbor dest="277" relationship="#Dance" weight="0"/>
+        <neighbor dest="278" relationship="#Dance" weight="0"/>
+        <neighbor dest="279" relationship="#Dance" weight="0"/>
+        <neighbor dest="280" relationship="#Dance" weight="0"/>
+        <neighbor dest="205" relationship="#Dance" weight="0"/>
+      </neighbors>
+      <speak Tweets="RT @churchAlmighty: Please drop your burden and relax your heart to watch “The Significance of the Appearance of God.”&#10;https://t.co/PJhbg7Q…"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/wTqYXljD8q" zh-data="" id="98" uri="">
+      <neighbors>
+        <neighbor dest="97" relationship="#Hymn" weight="0"/>
+        <neighbor dest="24" relationship="#Hymn" weight="0"/>
+        <neighbor dest="98" relationship="#Hymn" weight="0"/>
+        <neighbor dest="99" relationship="#Hymn" weight="0"/>
+        <neighbor dest="100" relationship="#Hymn" weight="0"/>
+        <neighbor dest="154" relationship="#Song" weight="0"/>
+        <neighbor dest="155" relationship="#Song" weight="0"/>
+        <neighbor dest="156" relationship="#Song" weight="0"/>
+        <neighbor dest="157" relationship="#Song" weight="0"/>
+        <neighbor dest="158" relationship="#Song" weight="0"/>
+      </neighbors>
+      <speak Tweets="Christ of the Last Days Brings the Way of Eternal Life&#10;https://t.co/wTqYXljD8q&#10;#Hymn #Song #God #Truth https://t.co/k6xWjOE8a0"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/0YbTxmylgR" zh-data="" id="99" uri="">
+      <neighbors>
+        <neighbor dest="341" relationship="#EndTime" weight="0"/>
+        <neighbor dest="342" relationship="#EndTime" weight="0"/>
+        <neighbor dest="343" relationship="#EndTime" weight="0"/>
+        <neighbor dest="99" relationship="#EndTime" weight="0"/>
+        <neighbor dest="344" relationship="#EndTime" weight="0"/>
+        <neighbor dest="97" relationship="#Hymn" weight="0"/>
+        <neighbor dest="24" relationship="#Hymn" weight="0"/>
+        <neighbor dest="98" relationship="#Hymn" weight="0"/>
+        <neighbor dest="99" relationship="#Hymn" weight="0"/>
+        <neighbor dest="100" relationship="#Hymn" weight="0"/>
+      </neighbors>
+      <speak Tweets="RT @churchAlmighty: ⚡Fallen Is Babylon the Great&#10;https://t.co/0YbTxmylgR&#10;#EndTime #Hymn #Song #Authority #Righteousness"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/09P0s8z2pe" zh-data="" id="100" uri="">
+      <neighbors>
+        <neighbor dest="97" relationship="#Hymn" weight="0"/>
+        <neighbor dest="24" relationship="#Hymn" weight="0"/>
+        <neighbor dest="98" relationship="#Hymn" weight="0"/>
+        <neighbor dest="99" relationship="#Hymn" weight="0"/>
+        <neighbor dest="100" relationship="#Hymn" weight="0"/>
+        <neighbor dest="149" relationship="#Jesus" weight="0"/>
+        <neighbor dest="150" relationship="#Jesus" weight="0"/>
+        <neighbor dest="151" relationship="#Jesus" weight="0"/>
+        <neighbor dest="152" relationship="#Jesus" weight="0"/>
+        <neighbor dest="153" relationship="#Jesus" weight="0"/>
+      </neighbors>
+      <speak Tweets="RT @churchAlmighty: 🌿🎵Pure Love Without Blemish&#10;https://t.co/09P0s8z2pe&#10;#Hymn #VoiceofGod #Creator #LivingWaters https://t.co/nhoqY7mUca"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/AgnxI6zTgA" zh-data="" id="101" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ti5V1xCU7a" zh-data="" id="102" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/tcD3esvPdm" zh-data="" id="103" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/YCtTbMkmm5" zh-data="" id="104" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/kFMaqneMP1" zh-data="" id="105" uri="">
+      <neighbors>
+        <neighbor dest="105" relationship="#DailyPicks" weight="0"/>
+        <neighbor dest="106" relationship="#DailyPicks" weight="0"/>
+        <neighbor dest="22" relationship="#DailyPicks" weight="0"/>
+        <neighbor dest="107" relationship="#DailyPicks" weight="0"/>
+        <neighbor dest="108" relationship="#DailyPicks" weight="0"/>
+        <neighbor dest="110" relationship="#Life" weight="0"/>
+        <neighbor dest="345" relationship="#Life" weight="0"/>
+        <neighbor dest="25" relationship="#Life" weight="0"/>
+        <neighbor dest="111" relationship="#Life" weight="0"/>
+        <neighbor dest="55" relationship="#Life" weight="0"/>
+      </neighbors>
+      <speak Tweets="Daily Picks: 9 Articles - &quot;Money&quot; https://t.co/kFMaqneMP1 - #DailyPicks #Life #Politics #World https://t.co/MlITxbAVeO"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/HR5hSCtpYF" zh-data="" id="106" uri="">
+      <neighbors>
+        <neighbor dest="105" relationship="#DailyPicks" weight="0"/>
+        <neighbor dest="106" relationship="#DailyPicks" weight="0"/>
+        <neighbor dest="22" relationship="#DailyPicks" weight="0"/>
+        <neighbor dest="107" relationship="#DailyPicks" weight="0"/>
+        <neighbor dest="108" relationship="#DailyPicks" weight="0"/>
+        <neighbor dest="106" relationship="#Disguasting" weight="0"/>
+      </neighbors>
+      <speak Tweets="Daily Picks: 10 Articles - &quot;Disgusting Stuff&quot; - https://t.co/HR5hSCtpYF #DailyPicks #Disguasting #Exploration https://t.co/o2BwvYWyQV"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/I9Iv6Ow7pr" zh-data="" id="107" uri="">
+      <neighbors>
+        <neighbor dest="105" relationship="#DailyPicks" weight="0"/>
+        <neighbor dest="106" relationship="#DailyPicks" weight="0"/>
+        <neighbor dest="22" relationship="#DailyPicks" weight="0"/>
+        <neighbor dest="107" relationship="#DailyPicks" weight="0"/>
+        <neighbor dest="108" relationship="#DailyPicks" weight="0"/>
+        <neighbor dest="252" relationship="#NewTech" weight="0"/>
+        <neighbor dest="253" relationship="#NewTech" weight="0"/>
+        <neighbor dest="254" relationship="#NewTech" weight="0"/>
+        <neighbor dest="255" relationship="#NewTech" weight="0"/>
+        <neighbor dest="256" relationship="#NewTech" weight="0"/>
+      </neighbors>
+      <speak Tweets="Daily Picks: Top 10 Articles About New Tech - https://t.co/I9Iv6Ow7pr #DailyPicks #NewTech https://t.co/TV91wnw5bL"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/yqK0A3iiPE" zh-data="" id="108" uri="">
+      <neighbors>
+        <neighbor dest="281" relationship="#Crazy" weight="0"/>
+        <neighbor dest="282" relationship="#Crazy" weight="0"/>
+        <neighbor dest="283" relationship="#Crazy" weight="0"/>
+        <neighbor dest="284" relationship="#Crazy" weight="0"/>
+        <neighbor dest="108" relationship="#Crazy" weight="0"/>
+        <neighbor dest="285" relationship="#Travel" weight="0"/>
+        <neighbor dest="286" relationship="#Travel" weight="0"/>
+        <neighbor dest="287" relationship="#Travel" weight="0"/>
+        <neighbor dest="288" relationship="#Travel" weight="0"/>
+        <neighbor dest="289" relationship="#Travel" weight="0"/>
+      </neighbors>
+      <speak Tweets="Daily Picks: 9 Articles About '#Crazy #Travel' - https://t.co/yqK0A3iiPE #DailyPicks https://t.co/Jj46rmNH3U"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Kx88MkuBds" zh-data="" id="109" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/2TdalFJHuV" zh-data="" id="110" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/P4tABi0vMn" zh-data="" id="111" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/NY2GnDhivU" zh-data="" id="112" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/SbtVl9rODZ" zh-data="" id="113" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/MvxjQvU5sP" zh-data="" id="114" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/lgsMz9akmW" zh-data="" id="115" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Z9OXeKaphL" zh-data="" id="116" uri="">
+      <neighbors>
+        <neighbor dest="116" relationship="#Billions" weight="0"/>
+        <neighbor dest="235" relationship="#Billions" weight="0"/>
+        <neighbor dest="236" relationship="#Billions" weight="0"/>
+        <neighbor dest="237" relationship="#Billions" weight="0"/>
+        <neighbor dest="238" relationship="#Billions" weight="0"/>
+        <neighbor dest="116" relationship="#DamianLewis" weight="0"/>
+        <neighbor dest="117" relationship="#DamianLewis" weight="0"/>
+        <neighbor dest="118" relationship="#DamianLewis" weight="0"/>
+        <neighbor dest="119" relationship="#DamianLewis" weight="0"/>
+        <neighbor dest="23" relationship="#DamianLewis" weight="0"/>
+      </neighbors>
+      <speak Tweets="Axe puts meaning back into the word &quot;outlaw.&quot; Recapping #Billions S2E9 Sic Transit Imperium:… https://t.co/ECmWeDiuKn"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/fCJIfU5arp" zh-data="" id="117" uri="">
+      <neighbors>
+        <neighbor dest="116" relationship="#DamianLewis" weight="0"/>
+        <neighbor dest="117" relationship="#DamianLewis" weight="0"/>
+        <neighbor dest="118" relationship="#DamianLewis" weight="0"/>
+        <neighbor dest="119" relationship="#DamianLewis" weight="0"/>
+        <neighbor dest="23" relationship="#DamianLewis" weight="0"/>
+        <neighbor dest="190" relationship="#CureEB" weight="0"/>
+        <neighbor dest="191" relationship="#CureEB" weight="0"/>
+        <neighbor dest="117" relationship="#CureEB" weight="0"/>
+        <neighbor dest="192" relationship="#CureEB" weight="0"/>
+        <neighbor dest="193" relationship="#CureEB" weight="0"/>
+      </neighbors>
+      <speak Tweets="From Butterfly Brunch to Bond with Research: The latest from @SohanaResearchF: https://t.co/fCJIfU5arp #DamianLewis… https://t.co/hc8LnCEImw"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/aC5ZfUn3qo" zh-data="" id="118" uri="">
+      <neighbors>
+        <neighbor dest="116" relationship="#DamianLewis" weight="0"/>
+        <neighbor dest="117" relationship="#DamianLewis" weight="0"/>
+        <neighbor dest="118" relationship="#DamianLewis" weight="0"/>
+        <neighbor dest="119" relationship="#DamianLewis" weight="0"/>
+        <neighbor dest="23" relationship="#DamianLewis" weight="0"/>
+        <neighbor dest="332" relationship="#TheGoatPlay" weight="0"/>
+        <neighbor dest="333" relationship="#TheGoatPlay" weight="0"/>
+        <neighbor dest="118" relationship="#TheGoatPlay" weight="0"/>
+        <neighbor dest="334" relationship="#TheGoatPlay" weight="0"/>
+        <neighbor dest="335" relationship="#TheGoatPlay" weight="0"/>
+      </neighbors>
+      <speak Tweets="&quot;Damian Lewis gives the performance of his life.&quot; - Independent&#10;#TheGoatPlay reviews are in - SEE THE HIGHLIGHTS!… https://t.co/39SYP7vxoh"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Hayl6guirJ" zh-data="" id="119" uri="">
+      <neighbors>
+        <neighbor dest="116" relationship="#Billions" weight="0"/>
+        <neighbor dest="375" relationship="#Billions" weight="0"/>
+        <neighbor dest="235" relationship="#Billions" weight="0"/>
+        <neighbor dest="236" relationship="#Billions" weight="0"/>
+        <neighbor dest="238" relationship="#Billions" weight="0"/>
+        <neighbor dest="116" relationship="#DamianLewis" weight="0"/>
+        <neighbor dest="117" relationship="#DamianLewis" weight="0"/>
+        <neighbor dest="118" relationship="#DamianLewis" weight="0"/>
+        <neighbor dest="119" relationship="#DamianLewis" weight="0"/>
+        <neighbor dest="23" relationship="#DamianLewis" weight="0"/>
+      </neighbors>
+      <speak Tweets="You made the deal, Bobby. You can get out of it anytime you want. Previously on #Billions with @TBkWrm… https://t.co/TDdlmLLksr"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/kIaeZvEoWG" zh-data="" id="120" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/t12yAxmjgE" zh-data="" id="121" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/XKB8q5E3Pv" zh-data="" id="122" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/0zJEl8u3Y5" zh-data="" id="123" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ypkFC6mVjy" zh-data="" id="124" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/TBlA1WMPg4" zh-data="" id="125" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/lm1yXGN4ga" zh-data="" id="126" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/SDEPB7aeEg" zh-data="" id="127" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/IRFPVtXIoQ" zh-data="" id="128" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/osGUmmoSE5" zh-data="" id="129" uri="">
+      <neighbors>
+        <neighbor dest="139" relationship="#science" weight="0"/>
+        <neighbor dest="129" relationship="#science" weight="0"/>
+        <neighbor dest="28" relationship="#science" weight="0"/>
+        <neighbor dest="29" relationship="#science" weight="0"/>
+        <neighbor dest="31" relationship="#science" weight="0"/>
+      </neighbors>
+      <speak Tweets="Ancient Stone Tools Force Rethinking of Human Origins. from @sciam  https://t.co/osGUmmoSE5 #science"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/BUTz74sUoc" zh-data="" id="130" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/RhCRip2qAf" zh-data="" id="131" uri="">
+      <neighbors>
+        <neighbor dest="296" relationship="#SanFrancisco" weight="0"/>
+        <neighbor dest="297" relationship="#SanFrancisco" weight="0"/>
+        <neighbor dest="298" relationship="#SanFrancisco" weight="0"/>
+        <neighbor dest="299" relationship="#SanFrancisco" weight="0"/>
+        <neighbor dest="300" relationship="#SanFrancisco" weight="0"/>
+        <neighbor dest="301" relationship="#homelessness" weight="0"/>
+        <neighbor dest="131" relationship="#homelessness" weight="0"/>
+        <neighbor dest="302" relationship="#homelessness" weight="0"/>
+        <neighbor dest="303" relationship="#homelessness" weight="0"/>
+        <neighbor dest="304" relationship="#homelessness" weight="0"/>
+      </neighbors>
+      <speak Tweets="Lava Mae - Delivering Dignity one Shower at a Time https://t.co/RhCRip2qAf #SanFrancisco #humanity #homelessness https://t.co/qFU3QK1I98"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/kfoGHsFObv" zh-data="" id="132" uri="">
+      <neighbors>
+        <neighbor dest="257" relationship="#Iran" weight="0"/>
+        <neighbor dest="258" relationship="#Iran" weight="0"/>
+        <neighbor dest="259" relationship="#Iran" weight="0"/>
+        <neighbor dest="260" relationship="#Iran" weight="0"/>
+        <neighbor dest="261" relationship="#Iran" weight="0"/>
+        <neighbor dest="132" relationship="#corruption" weight="0"/>
+        <neighbor dest="262" relationship="#corruption" weight="0"/>
+        <neighbor dest="263" relationship="#corruption" weight="0"/>
+        <neighbor dest="264" relationship="#corruption" weight="0"/>
+        <neighbor dest="265" relationship="#corruption" weight="0"/>
+      </neighbors>
+      <speak Tweets="#Iran News: Women die due to lack of safety measures at workplace https://t.co/kfoGHsFObv #corruption #poverty… https://t.co/FWWPksM4EH"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/J6UEQf0H9B" zh-data="" id="133" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/L8ZR8a0uKV" zh-data="" id="134" uri="">
+      <neighbors>
+        <neighbor dest="131" relationship="#poverty" weight="0"/>
+        <neighbor dest="132" relationship="#poverty" weight="0"/>
+        <neighbor dest="28" relationship="#poverty" weight="0"/>
+        <neighbor dest="290" relationship="#poverty" weight="0"/>
+        <neighbor dest="134" relationship="#poverty" weight="0"/>
+        <neighbor dest="291" relationship="#Africa" weight="0"/>
+        <neighbor dest="292" relationship="#Africa" weight="0"/>
+        <neighbor dest="293" relationship="#Africa" weight="0"/>
+        <neighbor dest="294" relationship="#Africa" weight="0"/>
+        <neighbor dest="295" relationship="#Africa" weight="0"/>
+      </neighbors>
+      <speak Tweets="Support Humanity First&#10;&#10;Donate: https://t.co/L8ZR8a0uKV&#10;Complete a Direct Debit Form: https://t.co/1agHEBEtbS https://t.co/VrVK3cqoNY"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/hUTpU6ynQD" zh-data="" id="135" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/85Pf9q5c2G" zh-data="" id="136" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/blAQgljoTc" zh-data="" id="137" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/I2ujUrAEtZ" zh-data="" id="138" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/W1DuYFBfGK" zh-data="" id="139" uri="">
+      <neighbors>
+        <neighbor dest="159" relationship="#neuroscience" weight="0"/>
+        <neighbor dest="160" relationship="#neuroscience" weight="0"/>
+        <neighbor dest="161" relationship="#neuroscience" weight="0"/>
+        <neighbor dest="162" relationship="#neuroscience" weight="0"/>
+        <neighbor dest="163" relationship="#neuroscience" weight="0"/>
+        <neighbor dest="139" relationship="#science" weight="0"/>
+        <neighbor dest="129" relationship="#science" weight="0"/>
+        <neighbor dest="28" relationship="#science" weight="0"/>
+        <neighbor dest="29" relationship="#science" weight="0"/>
+        <neighbor dest="31" relationship="#science" weight="0"/>
+      </neighbors>
+      <speak Tweets="Motor Neurons Adjust to Control Tasks https://t.co/W1DuYFBfGK #neuroscience #science https://t.co/cUxpMeq12X"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/HDJK084zQH" zh-data="" id="140" uri="">
+      <neighbors>
+        <neighbor dest="165" relationship="#painting" weight="0"/>
+        <neighbor dest="166" relationship="#painting" weight="0"/>
+        <neighbor dest="167" relationship="#painting" weight="0"/>
+        <neighbor dest="168" relationship="#painting" weight="0"/>
+        <neighbor dest="169" relationship="#painting" weight="0"/>
+        <neighbor dest="170" relationship="#pet" weight="0"/>
+        <neighbor dest="171" relationship="#pet" weight="0"/>
+        <neighbor dest="172" relationship="#pet" weight="0"/>
+        <neighbor dest="173" relationship="#pet" weight="0"/>
+        <neighbor dest="174" relationship="#pet" weight="0"/>
+      </neighbors>
+      <speak Tweets="Dog portrait painting of boxer 'Ozzie' 12x16ins #dogs #cute #pet #portrait #art #pet #painting #boxer… https://t.co/PWUOXNbey0"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/KWIH0ZScod" zh-data="" id="141" uri="">
+      <neighbors>
+        <neighbor dest="212" relationship="#dogs" weight="0"/>
+        <neighbor dest="147" relationship="#dogs" weight="0"/>
+        <neighbor dest="211" relationship="#dogs" weight="0"/>
+        <neighbor dest="272" relationship="#dogs" weight="0"/>
+        <neighbor dest="273" relationship="#dogs" weight="0"/>
+        <neighbor dest="141" relationship="#puppy" weight="0"/>
+        <neighbor dest="274" relationship="#puppy" weight="0"/>
+        <neighbor dest="210" relationship="#puppy" weight="0"/>
+        <neighbor dest="275" relationship="#puppy" weight="0"/>
+        <neighbor dest="276" relationship="#puppy" weight="0"/>
+      </neighbors>
+      <speak Tweets="RT @myfriend_bella: Retweet if you do this!&#10;https://t.co/KWIH0ZScod &#10;&#10;#dog #dogs #puppy #puppies #animals #pets #America #adventure #journe…"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/erSbFEdjUq" zh-data="" id="142" uri="">
+      <neighbors>
+        <neighbor dest="336" relationship="#Animals" weight="0"/>
+        <neighbor dest="337" relationship="#Animals" weight="0"/>
+        <neighbor dest="338" relationship="#Animals" weight="0"/>
+        <neighbor dest="339" relationship="#Animals" weight="0"/>
+        <neighbor dest="340" relationship="#Animals" weight="0"/>
+        <neighbor dest="27" relationship="#pets" weight="0"/>
+        <neighbor dest="140" relationship="#pets" weight="0"/>
+        <neighbor dest="141" relationship="#pets" weight="0"/>
+        <neighbor dest="142" relationship="#pets" weight="0"/>
+        <neighbor dest="143" relationship="#pets" weight="0"/>
+      </neighbors>
+      <speak Tweets="9,000 #Animals Are Put Down in Shelters Every Day – Sign Petition to Stop the Killing&#10;https://t.co/erSbFEdjUq&#10;#pets https://t.co/Y0pKiOVQgr"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/pcmAEewokG" zh-data="" id="143" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/2ehRSpa3P9" zh-data="" id="144" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Ksi5aAsnSi" zh-data="" id="145" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/LhiMCvHBIZ" zh-data="" id="146" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/l29ip0sZP9" zh-data="" id="147" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/adMLZGxe5V" zh-data="" id="148" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/jJoolH4xno" zh-data="" id="149" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/sxLODAlASw" zh-data="" id="150" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/B0B2E1orfG" zh-data="" id="151" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/lY3OZwOeR7" zh-data="" id="152" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/97GMiChnnS" zh-data="" id="153" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/G5IJqINOtI" zh-data="" id="154" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/dBe7azSWvx" zh-data="" id="155" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/0VbotzoOrv" zh-data="" id="156" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/a6pEVaG14D" zh-data="" id="157" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/bi8psLG0h8" zh-data="" id="158" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/3ardS8EE5G" zh-data="" id="159" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/o75Byj3AXK" zh-data="" id="160" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/rRijr99Dqd" zh-data="" id="161" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/jCrvFr2mKB" zh-data="" id="162" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/AE5PIMGs2k" zh-data="" id="163" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/VIoYLVqHIR" zh-data="" id="164" uri="">
+      <neighbors>
+        <neighbor dest="61" relationship="#EarthDay" weight="0"/>
+        <neighbor dest="12" relationship="#EarthDay" weight="0"/>
+        <neighbor dest="13" relationship="#EarthDay" weight="0"/>
+        <neighbor dest="63" relationship="#EarthDay" weight="0"/>
+        <neighbor dest="66" relationship="#EarthDay" weight="0"/>
+      </neighbors>
+      <speak Tweets="With #EarthDay coming up this weekend, we've got tips on how you can help your national park:… https://t.co/kyugW4Nk8f"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/GLhg7FMLCu" zh-data="" id="165" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/jOWOKa5UVd" zh-data="" id="166" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/yD7eNOOgiz" zh-data="" id="167" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/g3WbqRgQCn" zh-data="" id="168" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/9M5t1Rbu17" zh-data="" id="169" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Texq9BSOiL" zh-data="" id="170" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/AcyNyyET3O" zh-data="" id="171" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/00iOSsbiFQ" zh-data="" id="172" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/woXYxfpsbQ" zh-data="" id="173" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/gkt3cIx48X" zh-data="" id="174" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/qgNQBlECgI" zh-data="" id="175" uri="">
+      <neighbors>
+        <neighbor dest="176" relationship="#Russia" weight="0"/>
+        <neighbor dest="177" relationship="#Russia" weight="0"/>
+        <neighbor dest="70" relationship="#Russia" weight="0"/>
+        <neighbor dest="178" relationship="#Russia" weight="0"/>
+        <neighbor dest="179" relationship="#Russia" weight="0"/>
+        <neighbor dest="175" relationship="#War" weight="0"/>
+        <neighbor dest="180" relationship="#War" weight="0"/>
+        <neighbor dest="181" relationship="#War" weight="0"/>
+        <neighbor dest="182" relationship="#War" weight="0"/>
+        <neighbor dest="183" relationship="#War" weight="0"/>
+      </neighbors>
+      <speak Tweets="Trump Grants Military Full Authority To Declare War Unilaterally (Video) -https://t.co/qgNQBlECgI #Russia #War… https://t.co/G2QFIlMosQ"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/FyTE6dMVy8" zh-data="" id="176" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/kPCD7qkZCh" zh-data="" id="177" uri="">
+      <neighbors>
+        <neighbor dest="67" relationship="#Russia" weight="0"/>
+        <neighbor dest="227" relationship="#Russia" weight="0"/>
+        <neighbor dest="228" relationship="#Russia" weight="0"/>
+        <neighbor dest="14" relationship="#Russia" weight="0"/>
+        <neighbor dest="70" relationship="#Russia" weight="0"/>
+      </neighbors>
+      <speak Tweets="Take a virtual tour around Russia's new arctic base by clicking on the link below:&#10;&#10;https://t.co/kPCD7qkZCh… https://t.co/TE4RQOXt9j"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Qs6J7rIt0f" zh-data="" id="178" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/6o4gu3mXUA" zh-data="" id="179" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/BZ0emfWJvW" zh-data="" id="180" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/5EUvj41kHC" zh-data="" id="181" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/3uM9AC2QaX" zh-data="" id="182" uri="">
+      <neighbors>
+        <neighbor dest="67" relationship="#Russia" weight="0"/>
+        <neighbor dest="68" relationship="#Russia" weight="0"/>
+        <neighbor dest="228" relationship="#Russia" weight="0"/>
+        <neighbor dest="69" relationship="#Russia" weight="0"/>
+        <neighbor dest="70" relationship="#Russia" weight="0"/>
+        <neighbor dest="355" relationship="#War" weight="0"/>
+        <neighbor dest="356" relationship="#War" weight="0"/>
+        <neighbor dest="175" relationship="#War" weight="0"/>
+        <neighbor dest="181" relationship="#War" weight="0"/>
+        <neighbor dest="182" relationship="#War" weight="0"/>
+      </neighbors>
+      <speak Tweets="U.S. Deep State Pushing Australia and China Closer to Conflict (Video) - https://t.co/3uM9AC2QaX #Russia #War… https://t.co/ynHHpmBpTt"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/2IDkUjH60D" zh-data="" id="183" uri="">
+      <neighbors>
+        <neighbor dest="67" relationship="#Russia" weight="0"/>
+        <neighbor dest="68" relationship="#Russia" weight="0"/>
+        <neighbor dest="14" relationship="#Russia" weight="0"/>
+        <neighbor dest="69" relationship="#Russia" weight="0"/>
+        <neighbor dest="70" relationship="#Russia" weight="0"/>
+        <neighbor dest="355" relationship="#War" weight="0"/>
+        <neighbor dest="356" relationship="#War" weight="0"/>
+        <neighbor dest="175" relationship="#War" weight="0"/>
+        <neighbor dest="181" relationship="#War" weight="0"/>
+        <neighbor dest="182" relationship="#War" weight="0"/>
+      </neighbors>
+      <speak Tweets="U.S. Deep State Pushing Australia and China Closer to Conflict (Video) - https://t.co/2IDkUjH60D #Russia #War… https://t.co/Ksx4XmU3mS"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Ppl8vR6FK9" zh-data="" id="184" uri="">
+      <neighbors>
+        <neighbor dest="185" relationship="#scifi" weight="0"/>
+        <neighbor dest="186" relationship="#scifi" weight="0"/>
+        <neighbor dest="187" relationship="#scifi" weight="0"/>
+        <neighbor dest="188" relationship="#scifi" weight="0"/>
+        <neighbor dest="189" relationship="#scifi" weight="0"/>
+        <neighbor dest="17" relationship="#aliens" weight="0"/>
+        <neighbor dest="53" relationship="#aliens" weight="0"/>
+        <neighbor dest="54" relationship="#aliens" weight="0"/>
+        <neighbor dest="184" relationship="#aliens" weight="0"/>
+        <neighbor dest="55" relationship="#aliens" weight="0"/>
+      </neighbors>
+      <speak Tweets="RT @dardiandreshaj: *THE BABISIAN BOX*&#10;Book 1 of 4 book series&#10;#scifi #aliens #Apocalypse #Kindle #bynb #IARTG &#10;https://t.co/Ppl8vR6FK9 htt…"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/pZK0V6QXp2" zh-data="" id="185" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/LVbKjuMPg5" zh-data="" id="186" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/EJNLAHJyfB" zh-data="" id="187" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/VhGLAH3FzE" zh-data="" id="188" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/XxuTD17vWc" zh-data="" id="189" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ZphoBewjUY" zh-data="" id="190" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/libcaKl1vj" zh-data="" id="191" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/UBJ6qKD5vn" zh-data="" id="192" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/MTmy5Rw6D8" zh-data="" id="193" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/GJtIJGFRGz" zh-data="" id="194" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/4yBnVVPuyc" zh-data="" id="195" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/09yWVpgere" zh-data="" id="196" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/2xRm0Dptqi" zh-data="" id="197" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/js5ZfvYa1d" zh-data="" id="198" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/qinNCgs5SD" zh-data="" id="199" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/RjyR6te7So" zh-data="" id="200" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/7ViIXhBhJv" zh-data="" id="201" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/eoxgAPmy6A" zh-data="" id="202" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/5Lxn6fvvbH" zh-data="" id="203" uri="">
+      <neighbors>
+        <neighbor dest="203" relationship="#PitBull" weight="0"/>
+        <neighbor dest="204" relationship="#PitBull" weight="0"/>
+        <neighbor dest="205" relationship="#PitBull" weight="0"/>
+        <neighbor dest="206" relationship="#PitBull" weight="0"/>
+        <neighbor dest="207" relationship="#PitBull" weight="0"/>
+        <neighbor dest="208" relationship="#Dogs" weight="0"/>
+        <neighbor dest="209" relationship="#Dogs" weight="0"/>
+        <neighbor dest="210" relationship="#Dogs" weight="0"/>
+        <neighbor dest="211" relationship="#Dogs" weight="0"/>
+        <neighbor dest="212" relationship="#Dogs" weight="0"/>
+      </neighbors>
+      <speak Tweets="Sick #PitBull Got to Experience Love Before Passing Away Thanks to These Kids&#10;https://t.co/5Lxn6fvvbH&#10;#Dogs #Pets https://t.co/LBTCwWvQnk"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/9mPGdE0dLh" zh-data="" id="204" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/vydADLr5Lq" zh-data="" id="205" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/UitNidfQUd" zh-data="" id="206" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/F1e1h2E03k" zh-data="" id="207" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/hHnaMvhENF" zh-data="" id="208" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/tJJDQAWeQh" zh-data="" id="209" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/KWIH109NMN" zh-data="" id="210" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/XGJmGpOMXB" zh-data="" id="211" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/sDLdmtYoYS" zh-data="" id="212" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Dze4iiBv4L" zh-data="" id="213" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Nr8BGIJ8sY" zh-data="" id="214" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/l4FpznBQA2" zh-data="" id="215" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/m7B1ERQMmN" zh-data="" id="216" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Oq9RVoiPNK" zh-data="" id="217" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/r0FbWmxFs9" zh-data="" id="218" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/exFvq9AQgj" zh-data="" id="219" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/2TdmXtztC8" zh-data="" id="220" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/KdCJPGORCg" zh-data="" id="221" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/DvzloWv0oC" zh-data="" id="222" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/syFYKYDUVS" zh-data="" id="223" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/rWBjmRRYXQ" zh-data="" id="224" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/DMHxytca55" zh-data="" id="225" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/DXRsgduAPM" zh-data="" id="226" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/i8bLMO0Y5E" zh-data="" id="227" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/v9rzJ75cUK" zh-data="" id="228" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/yWqQg00Syr" zh-data="" id="229" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/fOUuM3OAOc" zh-data="" id="230" uri="">
+      <neighbors>
+        <neighbor dest="83" relationship="#newrelease" weight="0"/>
+        <neighbor dest="82" relationship="#newrelease" weight="0"/>
+        <neighbor dest="96" relationship="#newrelease" weight="0"/>
+        <neighbor dest="85" relationship="#newrelease" weight="0"/>
+        <neighbor dest="86" relationship="#newrelease" weight="0"/>
+        <neighbor dest="271" relationship="#scifi" weight="0"/>
+        <neighbor dest="186" relationship="#scifi" weight="0"/>
+        <neighbor dest="187" relationship="#scifi" weight="0"/>
+        <neighbor dest="188" relationship="#scifi" weight="0"/>
+        <neighbor dest="189" relationship="#scifi" weight="0"/>
+      </neighbors>
+      <speak Tweets="Hot #newrelease in #scifi romance @Amazon US https://t.co/SUqunHhVDV @iBooks https://t.co/fOUuM3OAOc @nookNB… https://t.co/gFAp587HBe"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/eAhP8MXzU3" zh-data="" id="231" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/EXQdDWPYVs" zh-data="" id="232" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/t3EG8ScQre" zh-data="" id="233" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/adtfmh4JA6" zh-data="" id="234" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Hl9rsvswUw" zh-data="" id="235" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/sEBNp85DzJ" zh-data="" id="236" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/fXNAu0cjdB" zh-data="" id="237" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/4OayRbkeQr" zh-data="" id="238" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/q0nSQpcpFF" zh-data="" id="239" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/8JDdWZEDMi" zh-data="" id="240" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/j9d6Q5CdEw" zh-data="" id="241" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ZXxy7lTtbg" zh-data="" id="242" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/CFzrxomGyj" zh-data="" id="243" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/QL1TGGg5NN" zh-data="" id="244" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/nW1rCh0wLA" zh-data="" id="245" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/MUhswZJ4UQ" zh-data="" id="246" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/T6oi828uRz" zh-data="" id="247" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/AvGmhhNJVR" zh-data="" id="248" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ikbdS9nqQZ" zh-data="" id="249" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/5jO7KQBAMG" zh-data="" id="250" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/equGyXViuZ" zh-data="" id="251" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/1ZQTSjuCkK" zh-data="" id="252" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/qWwJ0NirI3" zh-data="" id="253" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/l7lyoSa0me" zh-data="" id="254" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/rW3jXuxY7g" zh-data="" id="255" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Ev1AMUsESm" zh-data="" id="256" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Kfh4b9gDLR" zh-data="" id="257" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/b9MV7zmJ1V" zh-data="" id="258" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/8LIhAzNuCU" zh-data="" id="259" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/90jgtVuL3f" zh-data="" id="260" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/m967gxLj9B" zh-data="" id="261" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/P9phgT7Reb" zh-data="" id="262" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/2pyiv0GVtw" zh-data="" id="263" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/CdfAJRePaB" zh-data="" id="264" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/pwEC9uEEoX" zh-data="" id="265" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/MPm4HKUPpD" zh-data="" id="266" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/nKdpRJK6EQ" zh-data="" id="267" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/2ZudKvV8Lv" zh-data="" id="268" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/gySIdp1Uaw" zh-data="" id="269" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/KshPNqmPFM" zh-data="" id="270" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/7dCbHFMNGR" zh-data="" id="271" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/AyazIgy8lp" zh-data="" id="272" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Cww4NBtTcV" zh-data="" id="273" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/mArsfC2g2A" zh-data="" id="274" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/G9mXQVAofu" zh-data="" id="275" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/KykbVk0K7x" zh-data="" id="276" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/pGMGeFYoDL" zh-data="" id="277" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/cKszqTOGHJ" zh-data="" id="278" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/74EIxcCvTq" zh-data="" id="279" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/SJcFC068bP" zh-data="" id="280" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/As0TDX66WW" zh-data="" id="281" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/HhBxaSm5SF" zh-data="" id="282" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/b8sDUuj8f5" zh-data="" id="283" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Al9LaVz7l7" zh-data="" id="284" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/QjJUnyIROq" zh-data="" id="285" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/7HTYlt99ei" zh-data="" id="286" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/daLoDwUbxB" zh-data="" id="287" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/HK6ccZkBin" zh-data="" id="288" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/hNCRRyYGJ7" zh-data="" id="289" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/amARb2GotF" zh-data="" id="290" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/0v2oX7B9Gr" zh-data="" id="291" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/EWgKMxQG28" zh-data="" id="292" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/F4adbGiCR0" zh-data="" id="293" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/hqQsWNH7ms" zh-data="" id="294" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/bAeWPvo9qU" zh-data="" id="295" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/jXIWv9O0sr" zh-data="" id="296" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Ruy9DhRu5I" zh-data="" id="297" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/SIsdrRF6mR" zh-data="" id="298" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/opNxFvLdUD" zh-data="" id="299" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/NfXI5cWv1M" zh-data="" id="300" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/RvMXU9d6rU" zh-data="" id="301" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/AXlJsFkA5k" zh-data="" id="302" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/oglB9WJUzR" zh-data="" id="303" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/dfgYv4eKON" zh-data="" id="304" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/hRKvJWKbaG" zh-data="" id="305" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/fsB3lyBQTD" zh-data="" id="306" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/UInOn2T2pc" zh-data="" id="307" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Zzt3pkRdF7" zh-data="" id="308" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/LtyU83cJ7T" zh-data="" id="309" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/J5n6oKwC8L" zh-data="" id="310" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/LBPsczchmj" zh-data="" id="311" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/pQuZDansgo" zh-data="" id="312" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/sOnNirpYK9" zh-data="" id="313" uri="">
+      <neighbors>
+        <neighbor dest="109" relationship="#Life" weight="0"/>
+        <neighbor dest="25" relationship="#Life" weight="0"/>
+        <neighbor dest="120" relationship="#Life" weight="0"/>
+        <neighbor dest="111" relationship="#Life" weight="0"/>
+        <neighbor dest="55" relationship="#Life" weight="0"/>
+      </neighbors>
+      <speak Tweets="In sadness at +Michael's death giving thanks for his life. https://t.co/sOnNirpYK9  Thank God for Easter #Life&amp;amp;Hope… https://t.co/gmWuSjhlf4"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/aBheEAAQPc" zh-data="" id="314" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Qt4SSZNhuN" zh-data="" id="315" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/c8P1EaDTlx" zh-data="" id="316" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/p3g7AWG4CY" zh-data="" id="317" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/cphG4r9uS0" zh-data="" id="318" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/rXJl8k8W74" zh-data="" id="319" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/l4KjHTX39U" zh-data="" id="320" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/NjkOFZrz1C" zh-data="" id="321" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/YaOwBahqR4" zh-data="" id="322" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/KcaTem357y" zh-data="" id="323" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/WUiAQDjI30" zh-data="" id="324" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/13nH7Jzrev" zh-data="" id="325" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/pOPHVgKJBM" zh-data="" id="326" uri="">
+      <neighbors>
+        <neighbor dest="327" relationship="#Atlanta" weight="0"/>
+        <neighbor dest="326" relationship="#Atlanta" weight="0"/>
+        <neighbor dest="328" relationship="#Atlanta" weight="0"/>
+        <neighbor dest="329" relationship="#Atlanta" weight="0"/>
+        <neighbor dest="330" relationship="#Atlanta" weight="0"/>
+        <neighbor dest="61" relationship="#EarthDay" weight="0"/>
+        <neighbor dest="13" relationship="#EarthDay" weight="0"/>
+        <neighbor dest="62" relationship="#EarthDay" weight="0"/>
+        <neighbor dest="63" relationship="#EarthDay" weight="0"/>
+        <neighbor dest="331" relationship="#EarthDay" weight="0"/>
+      </neighbors>
+      <speak Tweets="Hey #Atlanta Join us this #EarthDay at @AtlanticStation! https://t.co/pOPHVgKJBM https://t.co/Q5DUrgGicF"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/vHouDccoKn" zh-data="" id="327" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/aLX1STCk0o" zh-data="" id="328" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ThxtTZUkxJ" zh-data="" id="329" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/go7SHjW4yi" zh-data="" id="330" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/wKdpBZqKjx" zh-data="" id="331" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/hbEDkvTL8W" zh-data="" id="332" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/1VtsM7WeVZ" zh-data="" id="333" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/LwNFuUEaof" zh-data="" id="334" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/216BaBqGps" zh-data="" id="335" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/I1ez6CemuC" zh-data="" id="336" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/pVzcuXUZGs" zh-data="" id="337" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/sox0PrThQa" zh-data="" id="338" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/0SOG3zeP5T" zh-data="" id="339" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/sj82zzmdEn" zh-data="" id="340" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/R9X9lw86QN" zh-data="" id="341" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/xlrFlpzqUK" zh-data="" id="342" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/6Jf13V39JB" zh-data="" id="343" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/JdKjSm1nQI" zh-data="" id="344" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/kgGOoOlieG" zh-data="" id="345" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/MbmOFWALCK" zh-data="" id="346" uri="">
+      <neighbors>
+        <neighbor dest="347" relationship="#relationships" weight="0"/>
+        <neighbor dest="348" relationship="#relationships" weight="0"/>
+        <neighbor dest="349" relationship="#relationships" weight="0"/>
+        <neighbor dest="346" relationship="#relationships" weight="0"/>
+        <neighbor dest="350" relationship="#relationships" weight="0"/>
+        <neighbor dest="351" relationship="#knowledge" weight="0"/>
+        <neighbor dest="352" relationship="#knowledge" weight="0"/>
+        <neighbor dest="353" relationship="#knowledge" weight="0"/>
+        <neighbor dest="346" relationship="#knowledge" weight="0"/>
+        <neighbor dest="354" relationship="#knowledge" weight="0"/>
+      </neighbors>
+      <speak Tweets="#Learn to understand #anger so that you can use it wisely: https://t.co/MbmOFWALCK&#10;#therapy #advice #relationships https://t.co/CcHeHIStBr"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ETn54GacYO" zh-data="" id="347" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/NjenPlwEWe" zh-data="" id="348" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/PMIjoAC3Py" zh-data="" id="349" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/qjhExwumDm" zh-data="" id="350" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/PqHi9PoFUS" zh-data="" id="351" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/qott15wPx5" zh-data="" id="352" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/kgLl4zUQ9J" zh-data="" id="353" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ruB5z1T2WI" zh-data="" id="354" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/R9Ln2mxlIc" zh-data="" id="355" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/kAJDI4oRsR" zh-data="" id="356" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/KeUGnm5UPu" zh-data="" id="357" uri="">
+      <neighbors>
+        <neighbor dest="358" relationship="#Peace" weight="0"/>
+        <neighbor dest="359" relationship="#Peace" weight="0"/>
+        <neighbor dest="360" relationship="#Peace" weight="0"/>
+        <neighbor dest="361" relationship="#Peace" weight="0"/>
+        <neighbor dest="362" relationship="#Peace" weight="0"/>
+        <neighbor dest="131" relationship="#Poverty" weight="0"/>
+        <neighbor dest="132" relationship="#Poverty" weight="0"/>
+        <neighbor dest="133" relationship="#Poverty" weight="0"/>
+        <neighbor dest="28" relationship="#Poverty" weight="0"/>
+        <neighbor dest="134" relationship="#Poverty" weight="0"/>
+      </neighbors>
+      <speak Tweets="700+ Actions Near You! #Peace #Poverty #Nonviolence  Here Is Newaygo Country, MI https://t.co/KeUGnm5UPu https://t.co/4Nx8OV140n"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/1fPhY3qwpC" zh-data="" id="358" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/7A5RCmvfFm" zh-data="" id="359" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/iYMI61hqQF" zh-data="" id="360" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Jb0Y7eZs7H" zh-data="" id="361" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/6l5NDCkqVN" zh-data="" id="362" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/xc6FYRAI55" zh-data="" id="363" uri="">
+      <neighbors>
+        <neighbor dest="364" relationship="#gay" weight="0"/>
+        <neighbor dest="365" relationship="#gay" weight="0"/>
+        <neighbor dest="366" relationship="#gay" weight="0"/>
+        <neighbor dest="367" relationship="#gay" weight="0"/>
+        <neighbor dest="368" relationship="#gay" weight="0"/>
+        <neighbor dest="369" relationship="#fiction" weight="0"/>
+        <neighbor dest="370" relationship="#fiction" weight="0"/>
+        <neighbor dest="371" relationship="#fiction" weight="0"/>
+        <neighbor dest="372" relationship="#fiction" weight="0"/>
+        <neighbor dest="373" relationship="#fiction" weight="0"/>
+      </neighbors>
+      <speak Tweets="https://t.co/xc6FYRAI55&#10;#gay #fiction #Romance &#10;love is ... timeless&#10;love is ... worth any sacrifice&#10;love is ... lo… https://t.co/MC2VatLoju"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/WsXec8ic2a" zh-data="" id="364" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/zDbZsDyOz5" zh-data="" id="365" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/TEjgoqADfd" zh-data="" id="366" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/jNiCkbE9QJ" zh-data="" id="367" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/BlgVQc3ECl" zh-data="" id="368" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/WwvR09xaAF" zh-data="" id="369" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/gW0IGKfRoS" zh-data="" id="370" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/9mqqGHt286" zh-data="" id="371" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ImNScIOgSl" zh-data="" id="372" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/KhhSEOKqdh" zh-data="" id="373" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/g8SlWWcFlP" zh-data="" id="374" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/FVoqA20585" zh-data="" id="375" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/rT8d4poMGz" zh-data="" id="376" uri="">
+      <neighbors>
+        <neighbor dest="377" relationship="#FREE" weight="0"/>
+        <neighbor dest="378" relationship="#FREE" weight="0"/>
+        <neighbor dest="379" relationship="#FREE" weight="0"/>
+        <neighbor dest="380" relationship="#FREE" weight="0"/>
+        <neighbor dest="381" relationship="#FREE" weight="0"/>
+        <neighbor dest="382" relationship="#Romance" weight="0"/>
+        <neighbor dest="87" relationship="#Romance" weight="0"/>
+        <neighbor dest="383" relationship="#Romance" weight="0"/>
+        <neighbor dest="90" relationship="#Romance" weight="0"/>
+        <neighbor dest="91" relationship="#Romance" weight="0"/>
+      </neighbors>
+      <speak Tweets="Where did you fall in love?&#10;Libby &amp;amp; Aidan, at the fountain at #IU.&#10;https://t.co/rT8d4poMGz #Hoosier #Romance https://t.co/Im4E3YrvMQ"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/4EBCMsWK7k" zh-data="" id="377" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/wqLKxTUj4J" zh-data="" id="378" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/w7MtCFCBVy" zh-data="" id="379" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/x4oCLRYaox" zh-data="" id="380" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/tVwOdcEOV1" zh-data="" id="381" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/fc5oLvSd3v" zh-data="" id="382" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/hsH0qg8lx7" zh-data="" id="383" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ahYYm12SaL" zh-data="" id="384" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/HhIc23BUue" zh-data="" id="385" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/RNvUScCTpL" zh-data="" id="386" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/l5OgidZRfS" zh-data="" id="387" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/lPG5BTv1jc" zh-data="" id="388" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/glnSdxdqsn" zh-data="" id="389" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/aAmU5rFJDG" zh-data="" id="390" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/DxgHrbUQMM" zh-data="" id="391" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/KjUe7cJq6u" zh-data="" id="392" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/AjCaMpqNQa" zh-data="" id="393" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/PnAnDC5PKS" zh-data="" id="394" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/FdfWc7OhwV" zh-data="" id="395" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/OtnScs8uyu" zh-data="" id="396" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/9hTY9ethMA" zh-data="" id="397" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+  </Features>
+</AIMind>
