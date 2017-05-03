@@ -1,6 +1,6 @@
 #Tianxin Zhou and Weike Dai
 #Last updated 04/26/2017
-#This programing is going to use one url as the mother node to find other urls that relates to it.
+#This programing is going to use one url as the mother node to find other urls that relate to it.
 
 from collections import defaultdict
 import json
@@ -11,12 +11,12 @@ import tweepy
 import numpy as np
 #If need, please change the following variables as you like.
 #Adding your api key and secret here
-api_key = 'Z7XrZPn7hJxclnfcdkJY5itbJ'
-api_secret = '4SMhwdNNMupw6QisSVPHnHwbTUR66iqYANaTuCkDOfx15KSggC'
+api_key = '2hNqzcWDgUdZy4xBqhB5QZOW1'
+api_secret = '7h83YOhKAhBSZDguPW1KLpcuzhCaE5q09qcXruweoKjYA6Qhtd'
 
 #Adding your api token and secret here.
-access_token = '2745445122-tCYm5SOst4Xr72xDC2nyuswytF0o8cLWTWAZMuD'
-access_token_secret = 'RkKMWZ1psNYzQE4QdvjwxXWbach8QG7LIxJegjw8Oiyjh'
+access_token = '834824567864582144-j64sQIlJPeVxRbHn7JRpuCFqyfGFiHO'
+access_token_secret = 'Y1udhZoHNN7sKdkov221VoTDWieFpQr3VAgjFQQoe0gCF'
 
 #Variables setting
 #Dictname: the name of .npy file stores the url and hashtags.
@@ -31,7 +31,7 @@ SpeakDictname = "Example_speak.npy"
 Frequency_table = "Example_Frequency_table.txt"
 mother_node="http://www.theverge.com/2017/3/27/15077864/elon-musk-neuralink-brain-computer-interface-ai-cyborgs"
 toprate_hashtags = 0.5
-toprate = 0.02
+toprate = 0.01
 num = 2
 
 #Connecting twitter API
@@ -47,7 +47,9 @@ speakmap={}
 #Creat the file to store time and frequency stats
 f = open(Frequency_table,"w")
 
-#Function to catch urls from database.
+#This function will catch urls from database and return them as a dictionary
+#input argument: input- a string of hashtag which used to search urls.
+#output: sorted_X: a dictionary stores the urls and its frequency, sorted from the biggest frequency to smallest.
 def catch_url(input):
     print("The key argument that we want to catch",file=f)
     print(input,file=f)
@@ -65,7 +67,10 @@ def catch_url(input):
     print(sorted_x, file=f)
     return sorted_x
 
-#Function to catch hashtags from database.
+
+#This function will catch hashtags from database and return them as a dictionary
+#input argument: input- a string of url which used to search hashtags.
+#output: sorted_X: a dictionary stores the hashtags and its frequency, sorted from the biggest frequency to smallest.
 def catch_hashtags(input):
     print("The key argument that we want to catch",file=f)
     print(input,file=f)
@@ -95,8 +100,10 @@ def catch_hashtags(input):
     print(sorted_x, file=f)
     return sorted_x
 
-#Will add comments later
-#The original node.
+#This function will use loop to catch urls and hashtags
+#input: num- the number of level you want, the maximum is 4.
+#output: a dictionary of dictionaries of set, the url is the key and the relationships: hashtags are values of the key.
+#And other node in the relationship stores in the sets that correspond to the hashtags.
 def download(num):
     used_url=set()
     map={}
@@ -129,6 +136,7 @@ def download(num):
             hashtag=catch_hashtags(key)
             for j in range(len(hashtag)):
                 if hashtag[j][0] not in map[key] and j < (toprate_hashtags*len(hashtag)):
+                    print(toprate_hashtags*len(hashtag))
                     map[key]["#"+hashtag[j][0]]=set()
     
     
@@ -139,6 +147,7 @@ def download(num):
                 url = catch_url(key_hashtag)
                 for i in range(len(url)):
                     if i<((toprate*len(url))):
+                        print((toprate*len(url)))
                         map[key_url][key_hashtag].add(url[i][0])
                         next_url.add(url[i][0])
     

@@ -9,7 +9,15 @@ import dicttoxml
 from lxml import etree as ET
 import lxml.builder
 
+
+#The varabiles setting:
+Output = "Example.xml"
+
+
+
+
 #This function is to uniqufiy the list and preserving the order.
+#Input argument: seq the sequence we want to edit.
 def f7(seq):
     seen = set()
     seen_add = seen.add
@@ -73,4 +81,4 @@ for url in urls:
 tree = ET.ElementTree(root)
 
 #The output file named: output.xml
-tree.write('Example.xml', pretty_print=True, xml_declaration=True,encoding="UTF-8",standalone="yes")
+tree.write(Output, pretty_print=True, xml_declaration=True,encoding="UTF-8",standalone="yes")
