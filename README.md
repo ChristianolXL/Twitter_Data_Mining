@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-  Thie project includes two programs, one called Datadownload which will download the data from twitter as NPY format, and another called Translator which will translate the data from NPY format into XML format.<br />
+  #Thie# project includes two programs, one called Datadownload which will download the data from twitter as NPY format, and another called Translator which will translate the data from NPY format into XML format.<br />
   The algorithm to collecting data: <br />
   Use the url you insterested in as the mother node, then requests 1000 tweets that contain the url and stores every hashtag in those tweets into a dictionary with the frequency of the hashtag.<br />
   Request 1000 tweets for every hashtag wich has top 10% frequency in the dictionary and store every url appears in the tweets with its frequency. Then choose the urls with top 10% frequency for each hashtags, add them to the database as other nodes with the hashtag as the relationship.<br />
