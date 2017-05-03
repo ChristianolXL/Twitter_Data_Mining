@@ -17,8 +17,8 @@ def f7(seq):
 
 
 #load
-read_dictionary = np.load('my_file.npy').item()
-read_speak = np.load('speak_file.npy').item()
+read_dictionary = np.load('Example_dict.npy').item()
+read_speak = np.load('Example_speak.npy').item()
 
 #print
 pp = pprint.PrettyPrinter(indent=4)
@@ -73,4 +73,4 @@ for url in urls:
 tree = ET.ElementTree(root)
 
 #The output file named: output.xml
-tree.write('Musk_big.xml', pretty_print=True, xml_declaration=True,encoding="UTF-8",standalone="yes")
+tree.write('Example.xml', pretty_print=True, xml_declaration=True,encoding="UTF-8",standalone="yes")
