@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<AIMind>
+  <Root id="0"/>
+  <Features>
+    <Feature data="http://www.theverge.com/2017/3/27/15077864/elon-musk-neuralink-brain-computer-interface-ai-cyborgs" zh-data="" id="1" uri="">
+      <neighbors>
+        <neighbor dest="2" relationship="#neuralink" weight="0"/>
+        <neighbor dest="3" relationship="#neuralink" weight="0"/>
+        <neighbor dest="4" relationship="#neuralink" weight="0"/>
+        <neighbor dest="5" relationship="#neuralink" weight="0"/>
+        <neighbor dest="6" relationship="#neuralink" weight="0"/>
+      </neighbors>
+      <speak Tweets="RT @MathieuTetu: // Elon Musk launches #Neuralink, a venture to merge the human brain with #AI https://t.co/sf7MKdPMS8 via @Verge #Biologic…"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/9eVRYmeKOJ" zh-data="" id="2" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/TwpX86chW3" zh-data="" id="3" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/WWgD7JV4f3" zh-data="" id="4" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/vQARhakKU0" zh-data="" id="5" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/M3mjza0x3x" zh-data="" id="6" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+  </Features>
+</AIMind>

@@ -1,0 +1,601 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<AIMind>
+  <Root id="0"/>
+  <Features>
+    <Feature data="http://www.theverge.com/2017/3/27/15077864/elon-musk-neuralink-brain-computer-interface-ai-cyborgs" zh-data="" id="1" uri="">
+      <neighbors>
+        <neighbor dest="2" relationship="#neuralink" weight="0"/>
+        <neighbor dest="3" relationship="#neuralink" weight="0"/>
+        <neighbor dest="4" relationship="#neuralink" weight="0"/>
+        <neighbor dest="5" relationship="#ai" weight="0"/>
+        <neighbor dest="6" relationship="#ai" weight="0"/>
+        <neighbor dest="7" relationship="#ai" weight="0"/>
+        <neighbor dest="8" relationship="#ai" weight="0"/>
+        <neighbor dest="9" relationship="#ai" weight="0"/>
+        <neighbor dest="10" relationship="#brain" weight="0"/>
+        <neighbor dest="11" relationship="#brain" weight="0"/>
+        <neighbor dest="12" relationship="#brain" weight="0"/>
+        <neighbor dest="13" relationship="#brain" weight="0"/>
+        <neighbor dest="14" relationship="#brain" weight="0"/>
+        <neighbor dest="15" relationship="#brain" weight="0"/>
+        <neighbor dest="16" relationship="#brain" weight="0"/>
+      </neighbors>
+      <speak Tweets="RT @ivandfan: Elon Musk's solution-guess and check-could itself lead to the very demon he’s been waxing lyrical about. Hope not-&#10;&#10;https://t…"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/WWgD7JV4f3" zh-data="" id="2" uri="">
+      <neighbors>
+        <neighbor dest="17" relationship="#artificialintelligence" weight="0"/>
+        <neighbor dest="18" relationship="#artificialintelligence" weight="0"/>
+        <neighbor dest="19" relationship="#artificialintelligence" weight="0"/>
+        <neighbor dest="20" relationship="#artificialintelligence" weight="0"/>
+        <neighbor dest="21" relationship="#artificialintelligence" weight="0"/>
+        <neighbor dest="22" relationship="#artificialintelligence" weight="0"/>
+        <neighbor dest="5" relationship="#ai" weight="0"/>
+        <neighbor dest="6" relationship="#ai" weight="0"/>
+        <neighbor dest="23" relationship="#ai" weight="0"/>
+        <neighbor dest="7" relationship="#ai" weight="0"/>
+        <neighbor dest="9" relationship="#ai" weight="0"/>
+        <neighbor dest="24" relationship="#machinelearning" weight="0"/>
+        <neighbor dest="7" relationship="#machinelearning" weight="0"/>
+        <neighbor dest="25" relationship="#machinelearning" weight="0"/>
+        <neighbor dest="26" relationship="#machinelearning" weight="0"/>
+      </neighbors>
+      <speak Tweets="Why Neuralink Is A Really Bad Idea - https://t.co/WWgD7JV4f3 #artificialintelligence #ai #machinelearning #ml #neuralink"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/9eVRYmeKOJ" zh-data="" id="3" uri="">
+      <neighbors>
+        <neighbor dest="2" relationship="#neuralink" weight="0"/>
+        <neighbor dest="3" relationship="#neuralink" weight="0"/>
+        <neighbor dest="4" relationship="#neuralink" weight="0"/>
+      </neighbors>
+      <speak Tweets="#Neuralink and the brain's magical future - fantastic read from @waitbutwhy: https://t.co/9eVRYmeKOJ… https://t.co/dEAua9z5Df"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/M3mjza0x3x" zh-data="" id="4" uri="">
+      <neighbors>
+        <neighbor dest="24" relationship="#machinelearning" weight="0"/>
+        <neighbor dest="7" relationship="#machinelearning" weight="0"/>
+        <neighbor dest="25" relationship="#machinelearning" weight="0"/>
+        <neighbor dest="26" relationship="#machinelearning" weight="0"/>
+        <neighbor dest="5" relationship="#ai" weight="0"/>
+        <neighbor dest="6" relationship="#ai" weight="0"/>
+        <neighbor dest="23" relationship="#ai" weight="0"/>
+        <neighbor dest="7" relationship="#ai" weight="0"/>
+        <neighbor dest="9" relationship="#ai" weight="0"/>
+        <neighbor dest="27" relationship="#tech" weight="0"/>
+        <neighbor dest="28" relationship="#tech" weight="0"/>
+        <neighbor dest="29" relationship="#tech" weight="0"/>
+        <neighbor dest="30" relationship="#tech" weight="0"/>
+        <neighbor dest="31" relationship="#tech" weight="0"/>
+        <neighbor dest="32" relationship="#tech" weight="0"/>
+        <neighbor dest="33" relationship="#tech" weight="0"/>
+        <neighbor dest="34" relationship="#tech" weight="0"/>
+        <neighbor dest="35" relationship="#tech" weight="0"/>
+      </neighbors>
+      <speak Tweets="WHY NEURALINK IS A REALLY BAD IDEA https://t.co/M3mjza0x3x #neuralink #ai #ArtificialIntelligence #machinelearning… https://t.co/WM9GulClbS"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/WEXywDnR2I" zh-data="" id="5" uri="">
+      <neighbors>
+        <neighbor dest="62" relationship="#machinelearning" weight="0"/>
+        <neighbor dest="7" relationship="#machinelearning" weight="0"/>
+        <neighbor dest="25" relationship="#machinelearning" weight="0"/>
+        <neighbor dest="26" relationship="#machinelearning" weight="0"/>
+        <neighbor dest="48" relationship="#datascience" weight="0"/>
+        <neighbor dest="9" relationship="#datascience" weight="0"/>
+        <neighbor dest="49" relationship="#datascience" weight="0"/>
+        <neighbor dest="50" relationship="#datascience" weight="0"/>
+      </neighbors>
+      <speak Tweets="Difference between #MachineLearning, #DataScience , #AI , #DeepLearning , and Statistics https://t.co/WEXywDnR2I https://t.co/9OmI6qz7hr"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/tcTIrYg3b1" zh-data="" id="6" uri="">
+      <neighbors>
+        <neighbor dest="6" relationship="#iot" weight="0"/>
+        <neighbor dest="23" relationship="#iot" weight="0"/>
+        <neighbor dest="36" relationship="#iot" weight="0"/>
+        <neighbor dest="37" relationship="#iot" weight="0"/>
+        <neighbor dest="38" relationship="#iot" weight="0"/>
+        <neighbor dest="39" relationship="#iot" weight="0"/>
+        <neighbor dest="5" relationship="#ai" weight="0"/>
+        <neighbor dest="6" relationship="#ai" weight="0"/>
+        <neighbor dest="23" relationship="#ai" weight="0"/>
+        <neighbor dest="7" relationship="#ai" weight="0"/>
+        <neighbor dest="9" relationship="#ai" weight="0"/>
+        <neighbor dest="40" relationship="#ioe" weight="0"/>
+        <neighbor dest="41" relationship="#ioe" weight="0"/>
+        <neighbor dest="42" relationship="#iiot" weight="0"/>
+        <neighbor dest="43" relationship="#iiot" weight="0"/>
+        <neighbor dest="44" relationship="#iiot" weight="0"/>
+        <neighbor dest="45" relationship="#bigdata" weight="0"/>
+        <neighbor dest="46" relationship="#bigdata" weight="0"/>
+        <neighbor dest="6" relationship="#bigdata" weight="0"/>
+        <neighbor dest="47" relationship="#bigdata" weight="0"/>
+        <neighbor dest="9" relationship="#bigdata" weight="0"/>
+      </neighbors>
+      <speak Tweets="#IoT in 2016. What Did We Experience? https://t.co/tcTIrYg3b1 #AI #IoE #IIoT #BigData #BlockChain #Fintech #InternetOfThings #Technology"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/GP16fsAXbx" zh-data="" id="7" uri="">
+      <neighbors>
+        <neighbor dest="6" relationship="#ai" weight="0"/>
+        <neighbor dest="23" relationship="#ai" weight="0"/>
+        <neighbor dest="60" relationship="#ai" weight="0"/>
+        <neighbor dest="61" relationship="#ai" weight="0"/>
+        <neighbor dest="9" relationship="#ai" weight="0"/>
+        <neighbor dest="62" relationship="#machinelearning" weight="0"/>
+        <neighbor dest="7" relationship="#machinelearning" weight="0"/>
+        <neighbor dest="25" relationship="#machinelearning" weight="0"/>
+        <neighbor dest="26" relationship="#machinelearning" weight="0"/>
+        <neighbor dest="46" relationship="#bigdata" weight="0"/>
+        <neighbor dest="6" relationship="#bigdata" weight="0"/>
+        <neighbor dest="25" relationship="#bigdata" weight="0"/>
+        <neighbor dest="47" relationship="#bigdata" weight="0"/>
+        <neighbor dest="9" relationship="#bigdata" weight="0"/>
+      </neighbors>
+      <speak Tweets="Is your data ready for the Intelligence Age?&#10;#AI #machinelearning #bigdata #fintech #ML... https://t.co/GP16fsAXbx… https://t.co/4ZqIVyOExr"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/PRqsMEVQ7m" zh-data="" id="8" uri="">
+      <neighbors>
+        <neighbor dest="63" relationship="#startup" weight="0"/>
+        <neighbor dest="64" relationship="#startup" weight="0"/>
+        <neighbor dest="30" relationship="#startup" weight="0"/>
+        <neighbor dest="65" relationship="#startup" weight="0"/>
+        <neighbor dest="8" relationship="#startup" weight="0"/>
+        <neighbor dest="9" relationship="#startup" weight="0"/>
+        <neighbor dest="66" relationship="#startup" weight="0"/>
+      </neighbors>
+      <speak Tweets="#Startup @BonsaiAI raised $7.6M to help businesses build their own #AI models&#10;https://t.co/PRqsMEVQ7m via… https://t.co/p8QUYw7M9b"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/kKKddFpu58" zh-data="" id="9" uri="">
+      <neighbors>
+        <neighbor dest="5" relationship="#ai" weight="0"/>
+        <neighbor dest="6" relationship="#ai" weight="0"/>
+        <neighbor dest="23" relationship="#ai" weight="0"/>
+        <neighbor dest="7" relationship="#ai" weight="0"/>
+        <neighbor dest="9" relationship="#ai" weight="0"/>
+        <neighbor dest="45" relationship="#bigdata" weight="0"/>
+        <neighbor dest="46" relationship="#bigdata" weight="0"/>
+        <neighbor dest="6" relationship="#bigdata" weight="0"/>
+        <neighbor dest="47" relationship="#bigdata" weight="0"/>
+        <neighbor dest="9" relationship="#bigdata" weight="0"/>
+        <neighbor dest="48" relationship="#datascience" weight="0"/>
+        <neighbor dest="9" relationship="#datascience" weight="0"/>
+        <neighbor dest="49" relationship="#datascience" weight="0"/>
+        <neighbor dest="50" relationship="#datascience" weight="0"/>
+        <neighbor dest="51" relationship="#fintech" weight="0"/>
+        <neighbor dest="6" relationship="#fintech" weight="0"/>
+        <neighbor dest="25" relationship="#fintech" weight="0"/>
+        <neighbor dest="52" relationship="#fintech" weight="0"/>
+        <neighbor dest="9" relationship="#fintech" weight="0"/>
+        <neighbor dest="9" relationship="#insurtech" weight="0"/>
+        <neighbor dest="53" relationship="#insurtech" weight="0"/>
+        <neighbor dest="54" relationship="#insurtech" weight="0"/>
+        <neighbor dest="55" relationship="#insurtech" weight="0"/>
+        <neighbor dest="56" relationship="#vr" weight="0"/>
+        <neighbor dest="57" relationship="#vr" weight="0"/>
+        <neighbor dest="58" relationship="#vr" weight="0"/>
+        <neighbor dest="9" relationship="#vr" weight="0"/>
+        <neighbor dest="59" relationship="#vr" weight="0"/>
+      </neighbors>
+      <speak Tweets="https://t.co/kKKddFpu58 is For Sale #BigData #DataScience #Fintech #Insurtech #AI #VR #AR #Startup #Data #infosec… https://t.co/mIksSzVKyo"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/2hPvZ8UKOS" zh-data="" id="10" uri="">
+      <neighbors>
+        <neighbor dest="72" relationship="#video" weight="0"/>
+        <neighbor dest="73" relationship="#video" weight="0"/>
+        <neighbor dest="74" relationship="#video" weight="0"/>
+        <neighbor dest="75" relationship="#video" weight="0"/>
+        <neighbor dest="76" relationship="#video" weight="0"/>
+        <neighbor dest="77" relationship="#video" weight="0"/>
+      </neighbors>
+      <speak Tweets="Active #video gaming is good for #brain health and memory, finds study https://t.co/2hPvZ8UKOS @AdmissionsUoM"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Zb7sfOGI6X" zh-data="" id="11" uri="">
+      <neighbors>
+        <neighbor dest="10" relationship="#brain" weight="0"/>
+        <neighbor dest="11" relationship="#brain" weight="0"/>
+        <neighbor dest="12" relationship="#brain" weight="0"/>
+        <neighbor dest="13" relationship="#brain" weight="0"/>
+        <neighbor dest="14" relationship="#brain" weight="0"/>
+        <neighbor dest="15" relationship="#brain" weight="0"/>
+        <neighbor dest="16" relationship="#brain" weight="0"/>
+      </neighbors>
+      <speak Tweets="#Brain 'relay' also key to holding thoughts in mind https://t.co/Zb7sfOGI6X @NIHforHealth"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ON65e9ch0B" zh-data="" id="12" uri="">
+      <neighbors>
+        <neighbor dest="10" relationship="#brain" weight="0"/>
+        <neighbor dest="11" relationship="#brain" weight="0"/>
+        <neighbor dest="12" relationship="#brain" weight="0"/>
+        <neighbor dest="13" relationship="#brain" weight="0"/>
+        <neighbor dest="14" relationship="#brain" weight="0"/>
+        <neighbor dest="15" relationship="#brain" weight="0"/>
+        <neighbor dest="16" relationship="#brain" weight="0"/>
+      </neighbors>
+      <speak Tweets="Stopping the #brain's memory circuits from overheating https://t.co/ON65e9ch0B @riken_en"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/sRyZuPCEF0" zh-data="" id="13" uri="">
+      <neighbors>
+        <neighbor dest="10" relationship="#brain" weight="0"/>
+        <neighbor dest="11" relationship="#brain" weight="0"/>
+        <neighbor dest="12" relationship="#brain" weight="0"/>
+        <neighbor dest="13" relationship="#brain" weight="0"/>
+        <neighbor dest="14" relationship="#brain" weight="0"/>
+        <neighbor dest="15" relationship="#brain" weight="0"/>
+        <neighbor dest="16" relationship="#brain" weight="0"/>
+      </neighbors>
+      <speak Tweets="Skill Acquisition - Practical Recommendations for Coaches by @NickWinkelman #brain #coaching https://t.co/sRyZuPCEF0 via @SlideShare"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/45M1SVM0t8" zh-data="" id="14" uri="">
+      <neighbors>
+        <neighbor dest="67" relationship="#scientificamerican" weight="0"/>
+        <neighbor dest="68" relationship="#mind" weight="0"/>
+        <neighbor dest="69" relationship="#mind" weight="0"/>
+        <neighbor dest="14" relationship="#mind" weight="0"/>
+        <neighbor dest="70" relationship="#mind" weight="0"/>
+        <neighbor dest="71" relationship="#mind" weight="0"/>
+      </neighbors>
+      <speak Tweets="#ScientificAmerican #mind #brain Do We Have a Right to Mental Privacy and Cognitive Liberty? https://t.co/45M1SVM0t8"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/qX03kOLMeF" zh-data="" id="15" uri="">
+      <neighbors>
+        <neighbor dest="10" relationship="#brain" weight="0"/>
+        <neighbor dest="11" relationship="#brain" weight="0"/>
+        <neighbor dest="12" relationship="#brain" weight="0"/>
+        <neighbor dest="13" relationship="#brain" weight="0"/>
+        <neighbor dest="14" relationship="#brain" weight="0"/>
+        <neighbor dest="15" relationship="#brain" weight="0"/>
+        <neighbor dest="16" relationship="#brain" weight="0"/>
+      </neighbors>
+      <speak Tweets="How to find out how doctors make decisions?&#10;Have them undergo fMRI #brain scans :)&#10;https://t.co/qX03kOLMeF… https://t.co/zUWrAkKbmU"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/LzIrGjwgQB" zh-data="" id="16" uri="">
+      <neighbors>
+        <neighbor dest="78" relationship="#cognition" weight="0"/>
+        <neighbor dest="79" relationship="#cognition" weight="0"/>
+        <neighbor dest="80" relationship="#cognition" weight="0"/>
+        <neighbor dest="10" relationship="#brain" weight="0"/>
+        <neighbor dest="11" relationship="#brain" weight="0"/>
+        <neighbor dest="12" relationship="#brain" weight="0"/>
+        <neighbor dest="13" relationship="#brain" weight="0"/>
+        <neighbor dest="14" relationship="#brain" weight="0"/>
+        <neighbor dest="15" relationship="#brain" weight="0"/>
+        <neighbor dest="16" relationship="#brain" weight="0"/>
+      </neighbors>
+      <speak Tweets="Apply for a 2-year postdoc &quot;Measuring human #cognition &amp;amp; the #brain using virtual reality&quot; https://t.co/LzIrGjwgQB #VR @MindaBrain @MPI_CBS"/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/LHbOwiCNBj" zh-data="" id="17" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/kzaM7lSMoB" zh-data="" id="18" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/wejqtYVB4j" zh-data="" id="19" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/1o8AhuG9lT" zh-data="" id="20" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/3JduXHYSI3" zh-data="" id="21" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/dx5TWWQ4aI" zh-data="" id="22" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/jUJBjqV7JX" zh-data="" id="23" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/1JrWJ6Y7Wo" zh-data="" id="24" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/QNeHITztYl" zh-data="" id="25" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/qFcEFYvuGi" zh-data="" id="26" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/FejsQsVlg8" zh-data="" id="27" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/wAJA0HbMHS" zh-data="" id="28" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/DQj1At3PUP" zh-data="" id="29" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/uEb2uFGNnr" zh-data="" id="30" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ciZFdX2lD3" zh-data="" id="31" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/dpMZ3nH7b1" zh-data="" id="32" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/rGBsTZGgtS" zh-data="" id="33" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/APXihvdJLx" zh-data="" id="34" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/17EEovU8qF" zh-data="" id="35" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/5FhYApT0BN" zh-data="" id="36" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/MkTCKfrxoT" zh-data="" id="37" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Cv2gy9GA33" zh-data="" id="38" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/yQt35cssx9" zh-data="" id="39" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/K1WfIqfLYm" zh-data="" id="40" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/T98gKhkByR" zh-data="" id="41" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/E8wnlq7YI2" zh-data="" id="42" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/sRzmgQqQyx" zh-data="" id="43" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/xgK9kinjPU" zh-data="" id="44" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/5hxuBagJoj" zh-data="" id="45" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/3yBKEN9dmo" zh-data="" id="46" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/fiFFN9CRlo" zh-data="" id="47" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/UiLDY6OsrD" zh-data="" id="48" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/OOahwyJudH" zh-data="" id="49" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/wWnGcHQNDC" zh-data="" id="50" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/ofu00cbURM" zh-data="" id="51" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/aDVRU53xz8" zh-data="" id="52" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/mkzI1yu3Xx" zh-data="" id="53" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/p1RVzlagli" zh-data="" id="54" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/nAQHgcmFmV" zh-data="" id="55" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Re4LXfWVHP" zh-data="" id="56" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/s83HsorBRt" zh-data="" id="57" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/2T7UqtdEaK" zh-data="" id="58" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/U8pZwENGjo" zh-data="" id="59" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/TdPtdXeJmt" zh-data="" id="60" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/46MhZiq6tB" zh-data="" id="61" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/dLjmnkxtrF" zh-data="" id="62" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/rW3jXuxY7g" zh-data="" id="63" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/3irnjjKRdi" zh-data="" id="64" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/q8e31JKU2N" zh-data="" id="65" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/l957N2v09x" zh-data="" id="66" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/pfoFanCLqc" zh-data="" id="67" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/FgAmWpMkBD" zh-data="" id="68" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/brQrN8D2ll" zh-data="" id="69" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/nKJGGm84NH" zh-data="" id="70" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/gcJGr1Lhzt" zh-data="" id="71" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/7rhECtLTOG" zh-data="" id="72" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/d9O7bzeJRW" zh-data="" id="73" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/vC3UDpL0Lf" zh-data="" id="74" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/JFfuEUoUKT" zh-data="" id="75" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/IN9D91zHAC" zh-data="" id="76" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Lmci7WSCku" zh-data="" id="77" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/FonP9anRaH" zh-data="" id="78" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/sbGfOx70RV" zh-data="" id="79" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+    <Feature data="https://t.co/Hblu2kFRMR" zh-data="" id="80" uri="">
+      <neighbors/>
+      <speak/>
+      <zh-speak/>
+    </Feature>
+  </Features>
+</AIMind>
